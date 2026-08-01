@@ -1,0 +1,5 @@
+Lema kita: 72454
+Cocok dengan data frekuensi Leipzig: 33895 (46.8%)
+TIDAK ada di korpus (tetap butuh fallback panjang-kata lama): 38559
+
+Ingat (task-07 Catatan kritis): JANGAN buang fallback untuk kata yang absen di korpus.
