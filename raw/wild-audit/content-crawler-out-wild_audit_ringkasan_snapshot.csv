@@ -1,0 +1,8 @@
+snapshot,berkas,sidik_isi,total,typo,puebi,slang,merge,split,duplikat_dari
+2026-07-31_final,wild_audit_issues_2026-07-31_final.jsonl,8c9cebd4,3741,2501,434,288,315,203,
+2026-07-31_prelexicon,wild_audit_issues_2026-07-31_prelexicon.jsonl,8c9cebd4,3741,2501,434,288,315,203,wild_audit_issues_2026-07-31_final.jsonl
+2026-08-01_lexiconly,wild_audit_issues_2026-08-01_lexiconly.jsonl,70c5f399,3363,2062,595,288,283,135,
+2026-08-01_mid,wild_audit_issues_2026-08-01_mid.jsonl,66ebb5d2,2954,1661,626,289,242,136,
+2026-08-01_pre_robust,wild_audit_issues_2026-08-01_pre_robust.jsonl,ccc47786,2783,1686,524,290,208,75,
+2026-08-01_pre_task24,wild_audit_issues_2026-08-01_pre_task24.jsonl,11734cc5,2729,1647,524,290,196,72,
+2026-08-01_pretask23,wild_audit_issues_2026-08-01_pretask23.jsonl,e9fba204,3049,1708,633,288,284,136,

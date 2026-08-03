@@ -1,0 +1,11 @@
+{
+  "slug": "wild-audit",
+  "title": "Correction engine audit on real text: per-snapshot aggregate counts (sentences from Leipzig Corpora ind_news_2020)",
+  "published_at": "2026-08-03T11:01:56Z",
+  "source_commit": "bac4de78",
+  "fingerprint": "a317b6f9ae84b898",
+  "license": "CC BY 4.0",
+  "files": [
+    { "file": "content-crawler-out-wild_audit_ringkasan_snapshot.csv", "source": "scrape/content-crawler/out/wild_audit_ringkasan_snapshot.csv", "bytes": 813, "sha256": "e2e640efc28292462fa5cbcd0e38c8d53e20d6c73b846d93cfedf059f3a70910" }
+  ]
+}
