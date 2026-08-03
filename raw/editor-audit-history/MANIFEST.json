@@ -1,0 +1,11 @@
+{
+  "slug": "editor-audit-history",
+  "title": "Editor engine audit history, labelled runs with per-rule breakdown",
+  "published_at": "2026-08-03T10:29:05Z",
+  "source_commit": "de0f90c4",
+  "fingerprint": "e2af7ad563caf8d6",
+  "license": "CC BY 4.0",
+  "files": [
+    { "file": "editor-rust-docs-audit-history.tsv", "source": "apps/editor-rust/docs/audit-history.tsv", "bytes": 34763, "sha256": "8cfc3ed7ff9ba85bfad1041de5207e071cec93911bdb74af6976bcba8b34fcc4" }
+  ]
+}

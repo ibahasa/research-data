@@ -1,0 +1,13 @@
+{
+  "slug": "languagetool-rules",
+  "title": "LanguageTool rule base analysis, 2909 entries plus the 44 Tagalog rules",
+  "published_at": "2026-08-03T10:29:05Z",
+  "source_commit": "de0f90c4",
+  "fingerprint": "3109cab89bdfbf73",
+  "license": "CC BY 4.0",
+  "files": [
+    { "file": "languagetools-out-SUMMARY.md", "source": "scrape/languagetools/out/SUMMARY.md", "bytes": 24829, "sha256": "f42491a326bac7602c6dd2eac091b6eaf7f244b692ed0e46675dde56c95a13af" },
+    { "file": "languagetools-out-rules.jsonl", "source": "scrape/languagetools/out/rules.jsonl", "bytes": 2040767, "sha256": "62e802937a3697dd883f4993dceea17db8e0f431e03dbe2f7058689231be4c3a" },
+    { "file": "languagetools-out-rules_tl.jsonl", "source": "scrape/languagetools/out/rules_tl.jsonl", "bytes": 32543, "sha256": "c179fcfce078533932f138ccad05a7ce5a78111dbdc88d9690b91ff87654e5b6" }
+  ]
+}

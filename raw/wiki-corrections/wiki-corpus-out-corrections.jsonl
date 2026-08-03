@@ -1,0 +1,744 @@
+{"salah": "Permasalahan", "benar": "Masalah", "kelas": "ejaan", "frekuensi": 16, "n_editor_berbeda": 1, "contoh_revisi": ["28425832", "28425832", "28421852"]}
+{"salah": "dimana", "benar": "di mana", "kelas": "gabungan-kata", "frekuensi": 13, "n_editor_berbeda": 4, "contoh_revisi": ["28437589", "14645379", "14645381"]}
+{"salah": "sekedar", "benar": "sekadar", "kelas": "ejaan", "frekuensi": 9, "n_editor_berbeda": 1, "contoh_revisi": ["11346491", "11345385", "11345646"]}
+{"salah": "semakin", "benar": "makin", "kelas": "ejaan", "frekuensi": 9, "n_editor_berbeda": 1, "contoh_revisi": ["29296126", "29296126", "29296123"]}
+{"salah": "samudera", "benar": "samudra", "kelas": "ejaan", "frekuensi": 7, "n_editor_berbeda": 2, "contoh_revisi": ["21307438", "29296126", "21307869"]}
+{"salah": "diantaranya", "benar": "di antaranya", "kelas": "gabungan-kata", "frekuensi": 6, "n_editor_berbeda": 2, "contoh_revisi": ["29042505", "11351335", "11349916"]}
+{"salah": "DKI", "benar": "D.I", "kelas": "ejaan", "frekuensi": 5, "n_editor_berbeda": 1, "contoh_revisi": ["21211523", "21211432", "21211432"]}
+{"salah": "Dokumen-dokumen", "benar": "Dokumen", "kelas": "ejaan", "frekuensi": 5, "n_editor_berbeda": 1, "contoh_revisi": ["28421406", "28421406", "28421406"]}
+{"salah": "Demokratik", "benar": "Demokratis", "kelas": "ejaan", "frekuensi": 5, "n_editor_berbeda": 1, "contoh_revisi": ["19377047", "19377028", "19377028"]}
+{"salah": "propinsi", "benar": "provinsi", "kelas": "ejaan", "frekuensi": 4, "n_editor_berbeda": 3, "contoh_revisi": ["11347112", "4809910", "21487273"]}
+{"salah": "di tempatkan", "benar": "ditempatkan", "kelas": "gabungan-kata", "frekuensi": 4, "n_editor_berbeda": 1, "contoh_revisi": ["11350333", "11350132", "11350132"]}
+{"salah": "jaman", "benar": "zaman", "kelas": "ejaan", "frekuensi": 4, "n_editor_berbeda": 4, "contoh_revisi": ["109116", "15014779", "22272700"]}
+{"salah": "praktek", "benar": "praktik", "kelas": "ejaan", "frekuensi": 4, "n_editor_berbeda": 1, "contoh_revisi": ["11336341", "11336408", "11336319"]}
+{"salah": "di", "benar": "pada", "kelas": "lain", "frekuensi": 4, "n_editor_berbeda": 1, "contoh_revisi": ["29287410", "29290288", "29290288"]}
+{"salah": "Madzhab", "benar": "Mazhab", "kelas": "ejaan", "frekuensi": 4, "n_editor_berbeda": 1, "contoh_revisi": ["866724", "866724", "866724"]}
+{"salah": "ditempatkan", "benar": "di tempatkan", "kelas": "gabungan-kata", "frekuensi": 3, "n_editor_berbeda": 1, "contoh_revisi": ["11347464", "11347464", "11349926"]}
+{"salah": "merubah", "benar": "mengubah", "kelas": "ejaan", "frekuensi": 3, "n_editor_berbeda": 3, "contoh_revisi": ["27054216", "288728", "24752424"]}
+{"salah": "Kota", "benar": "kota", "kelas": "kapital", "frekuensi": 3, "n_editor_berbeda": 3, "contoh_revisi": ["26477813", "10396748", "25493875"]}
+{"salah": "teknik-teknik", "benar": "teknik", "kelas": "ejaan", "frekuensi": 3, "n_editor_berbeda": 1, "contoh_revisi": ["28421245", "28421684", "28423029"]}
+{"salah": "pinzaman", "benar": "pinjaman", "kelas": "ejaan", "frekuensi": 3, "n_editor_berbeda": 1, "contoh_revisi": ["14150157", "14150157", "14150157"]}
+{"salah": "mempraktekkan", "benar": "mempraktikkan", "kelas": "ejaan", "frekuensi": 3, "n_editor_berbeda": 1, "contoh_revisi": ["11336518", "11338360", "11337357"]}
+{"salah": "wafatnya", "benar": "kewafatan", "kelas": "ejaan", "frekuensi": 3, "n_editor_berbeda": 1, "contoh_revisi": ["27119146", "27119146", "27119146"]}
+{"salah": "kewafatan", "benar": "kemangkatan", "kelas": "ejaan", "frekuensi": 3, "n_editor_berbeda": 1, "contoh_revisi": ["27286930", "27286930", "27286930"]}
+{"salah": "terpercaya", "benar": "tepercaya", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["3492315", "3492327"]}
+{"salah": "Disamping", "benar": "Di samping", "kelas": "gabungan-kata", "frekuensi": 2, "n_editor_berbeda": 2, "contoh_revisi": ["321993", "21142613"]}
+{"salah": "pulau", "benar": "Pulau", "kelas": "kapital", "frekuensi": 2, "n_editor_berbeda": 2, "contoh_revisi": ["24773005", "14933726"]}
+{"salah": "karaktar", "benar": "karakter", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["11349684", "11349684"]}
+{"salah": "paona?:", "benar": "paona? :", "kelas": "gabungan-kata", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["8093210", "8093210"]}
+{"salah": "pelbagai", "benar": "berbagai", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 2, "contoh_revisi": ["11991534", "9373146"]}
+{"salah": "Muara", "benar": "muara", "kelas": "kapital", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["270494", "270494"]}
+{"salah": "disekitar", "benar": "di sekitar", "kelas": "gabungan-kata", "frekuensi": 2, "n_editor_berbeda": 2, "contoh_revisi": ["29287197", "16580363"]}
+{"salah": "pemboman", "benar": "pengeboman", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["11333659", "11333727"]}
+{"salah": "Karir", "benar": "Karier", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["9860142", "9860142"]}
+{"salah": "fraksionasi", "benar": "fraksinasi", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["5080031", "5080031"]}
+{"salah": "Antarktika", "benar": "Antartika", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["12558726", "12558419"]}
+{"salah": "Antarktika.", "benar": "Antartika.", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["12558726", "12558740"]}
+{"salah": "undang-undang .", "benar": "undang-undang.", "kelas": "gabungan-kata", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["26747416", "26746966"]}
+{"salah": "praktek-praktek", "benar": "praktik-praktik", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["11336935", "11335919"]}
+{"salah": "tahta", "benar": "takhta", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["29287198", "29292704"]}
+{"salah": "kecamatan", "benar": "Kecamatan", "kelas": "kapital", "frekuensi": 2, "n_editor_berbeda": 2, "contoh_revisi": ["25396102", "21211523"]}
+{"salah": "Khusus Ibukota", "benar": "Istimewa", "kelas": "lain", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["21211523", "21211432"]}
+{"salah": "Selasa", "benar": "Selatan", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["24132341", "24132341"]}
+{"salah": "diantaranya:", "benar": "di antaranya:", "kelas": "gabungan-kata", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["11349994", "11347125"]}
+{"salah": "yg", "benar": "yang", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["7105301", "7105301"]}
+{"salah": "Seram,", "benar": "Seran,", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["27670263", "27670263"]}
+{"salah": "bodhisatwa", "benar": "Bodhisatwa", "kelas": "kapital", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["27105129", "27105146"]}
+{"salah": "mempercayainya.", "benar": "memercayainya.", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["28161824", "28162121"]}
+{"salah": "Bavaria,", "benar": "Bayern,", "kelas": "lain", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["17682377", "17682377"]}
+{"salah": "Germany", "benar": "Jerman", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["23079477", "23079477"]}
+{"salah": "Asal usul", "benar": "Asal-usul", "kelas": "lain", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["29290320", "29290320"]}
+{"salah": "klan", "benar": "Klan", "kelas": "kapital", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["19709840", "19709840"]}
+{"salah": "Gregorius.", "benar": "Gregorian.", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["41746", "32299"]}
+{"salah": "caesium", "benar": "sesium", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["17087529", "17087529"]}
+{"salah": "Algoritme", "benar": "Algoritma", "kelas": "ejaan", "frekuensi": 2, "n_editor_berbeda": 1, "contoh_revisi": ["25382472", "25382472"]}
+{"salah": "melebur,", "benar": "terurai,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14819595"]}
+{"salah": "kuna.", "benar": "kuno.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13783175"]}
+{"salah": "Crawford", "benar": "Crawford,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25658257"]}
+{"salah": "Sosiologi, Antropologi", "benar": "sosiologi, antropologi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2423778"]}
+{"salah": "homo", "benar": "Homo", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10427944"]}
+{"salah": "leksikal", "benar": "leksikal,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12905116"]}
+{"salah": "indonesia,", "benar": "Indonesia,", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24103"]}
+{"salah": "Inndesia", "benar": "Indonesia", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24103"]}
+{"salah": "Awalnya", "benar": "Mulanya", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["383038"]}
+{"salah": "distandardkan.", "benar": "dibakukan.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["383038"]}
+{"salah": "moderen,", "benar": "modern,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["998405"]}
+{"salah": "itui", "benar": "itu", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8246327"]}
+{"salah": "kurun", "benar": "kurung", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10312183"]}
+{"salah": "didalamnya", "benar": "di dalamnya", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11351678"]}
+{"salah": "[w].", "benar": "/w/.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14718184"]}
+{"salah": "Malayu,", "benar": "Melayu,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19363500"]}
+{"salah": "Sanskrit,", "benar": "Sanskerta,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19365958"]}
+{"salah": "|states=", "benar": "|states=* * ----", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20449656"]}
+{"salah": "E.", "benar": "Elvianus", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20887878"]}
+{"salah": "membahasa", "benar": "membahas", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21092396"]}
+{"salah": "Melayu", "benar": "Indonesia", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21500708"]}
+{"salah": "Penyempurnaan ejaan", "benar": "Ejaan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21500807"]}
+{"salah": "– Pusat", "benar": "–Pusat", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22276611"]}
+{"salah": "Wikibooks – Belajar", "benar": "Wikibooks–Belajar", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22276611"]}
+{"salah": "Indonesia – asing", "benar": "Indonesia–asing", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22276611"]}
+{"salah": "atau", "benar": "/", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25108618"]}
+{"salah": "Pustaka)|standards=Bahasa Indonesia Baku|dialects=Bahasa", "benar": "Pustaka)|standards=Ejaan yang Disempurnakan|dialects=Bahasa", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25108618"]}
+{"salah": "utara", "benar": "udara", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8110417"]}
+{"salah": "asal usul,", "benar": "asal-usul,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9513049"]}
+{"salah": "Berdasarka nteori", "benar": "Berdasarkan teori", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9513501"]}
+{"salah": "alam.", "benar": "alam", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9513501"]}
+{"salah": "ini.)", "benar": "ini).", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9513501"]}
+{"salah": "(ADN)", "benar": "(DNA)", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13434930"]}
+{"salah": "hayati", "benar": "hayat", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16914855"]}
+{"salah": "daru", "benar": "dari", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21973873"]}
+{"salah": "hayati; dan", "benar": "hayati. *", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25039484"]}
+{"salah": "ekologi", "benar": "Ekologi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25039488"]}
+{"salah": "dam", "benar": "dan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["83100"]}
+{"salah": "taxi.", "benar": "taksi.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["115611"]}
+{"salah": "pantainya,", "benar": "pantainya.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8407448"]}
+{"salah": "Serangan.", "benar": "Menjangan.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12047505"]}
+{"salah": "SHRI IGN", "benar": "Shri I.G.N.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13842446"]}
+{"salah": "AA NGR", "benar": "A.A. Ngurah", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13842446"]}
+{"salah": "dikatagorikan", "benar": "dikategorikan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17011765"]}
+{"salah": "ibu kota provinsinya", "benar": "ibukotanya", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18761730"]}
+{"salah": "Reuters ,", "benar": "Reuters,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27751428"]}
+{"salah": "Perbandinagn", "benar": "Perbandingan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23467210"]}
+{"salah": "prakteknya", "benar": "praktiknya", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11338515"]}
+{"salah": "#dialek", "benar": "# dialek", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13040709"]}
+{"salah": "bahasaSunda,", "benar": "bahasa Sunda,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24096357"]}
+{"salah": "hargan", "benar": "harga", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8093210"]}
+{"salah": "Sumenep, dan", "benar": "Sumenep", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8163286"]}
+{"salah": "terimakasih", "benar": "terima kasih", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14895656"]}
+{"salah": "Pa'nyiki", "benar": "Pa'niki", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11717039"]}
+{"salah": "peresau ,", "benar": "peresau,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27230317"]}
+{"salah": "becokok ,", "benar": "becokok,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27230317"]}
+{"salah": "fahai .", "benar": "fahai.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27230317"]}
+{"salah": "Polynesia", "benar": "Polinesia", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["270494"]}
+{"salah": "monyong", "benar": "moncong", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["270495"]}
+{"salah": "mengalami :", "benar": "mengalami:", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26743238"]}
+{"salah": "seperti :", "benar": "seperti:", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26743238"]}
+{"salah": "sakit .", "benar": "sakit.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26743238"]}
+{"salah": "jaman.", "benar": "zaman.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["109116"]}
+{"salah": "Dewasa", "benar": "dewasa", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["3385180"]}
+{"salah": "Hidup", "benar": "hidup", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["3385180"]}
+{"salah": "hal", "benar": "Hal", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16379120"]}
+{"salah": "timbullah", "benar": "timbul", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16379129"]}
+{"salah": "tergaruk tak sengaja.", "benar": "tidak sengaja tergaruk.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16379129"]}
+{"salah": "karakteristik", "benar": "karaktaristik", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11347464"]}
+{"salah": "karaktaristik", "benar": "karakteristik", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11350132"]}
+{"salah": "yaitu", "benar": "yaitu:", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20509303"]}
+{"salah": "yakni", "benar": "antara lain:", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20509303"]}
+{"salah": "kasawan", "benar": "kawasan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28924670"]}
+{"salah": "termask", "benar": "termasuk", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21807424"]}
+{"salah": "terbatas .", "benar": "terbatas.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26743831"]}
+{"salah": "nampaknya", "benar": "tampaknya", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11350558"]}
+{"salah": "berkerja.", "benar": "bekerja.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23306084"]}
+{"salah": "mempejari", "benar": "mempelajari", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27323168"]}
+{"salah": "Geo", "benar": "geo", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19294246"]}
+{"salah": "Graphein.", "benar": "graphein.", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19294246"]}
+{"salah": "pembaharuan", "benar": "pembaruan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25272268"]}
+{"salah": "para", "benar": "Para", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26159316"]}
+{"salah": "geografi.", "benar": "geografi,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26159377"]}
+{"salah": "manusi", "benar": "manusia", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26159377"]}
+{"salah": "mencret,", "benar": "menceret,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19573976"]}
+{"salah": "perdaganagn", "benar": "perdagangan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["110411"]}
+{"salah": "dpilih", "benar": "dipilih", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["829488"]}
+{"salah": "mempopulerkan", "benar": "memasyarakatkan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2701062"]}
+{"salah": "Boga", "benar": "Kuliner", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12388309"]}
+{"salah": "salat", "benar": "Shalat", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12388309"]}
+{"salah": "Mattalitti", "benar": "Mattalitti.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15918244"]}
+{"salah": "Hampir", "benar": "hampir mencapai", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17588136"]}
+{"salah": "Indonesia", "benar": "Indonesia,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18283555"]}
+{"salah": "Pers", "benar": "pers", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18339569"]}
+{"salah": "Media Publik", "benar": "media publik", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18339569"]}
+{"salah": "netizen (pengguna internet)", "benar": "pengguna internet", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18339569"]}
+{"salah": "Hindia,", "benar": "Hindia;", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18952873"]}
+{"salah": "Multatuli,", "benar": "Multatuli", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18952873"]}
+{"salah": "Melayu-Indonesia,", "benar": "Bahasa Indonesia,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18983768"]}
+{"salah": "Gowa", "benar": "Luwu", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19112751"]}
+{"salah": "Pertengahan", "benar": "pertengahan", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19367148"]}
+{"salah": "PBB", "benar": "Perserikatan bangsa-bangsa (PBB)", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19491980"]}
+{"salah": "BT ,", "benar": "BT,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21965425"]}
+{"salah": "di mana bahasa", "benar": "berbahasa", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25408523"]}
+{"salah": "Antara", "benar": "antara", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25428044"]}
+{"salah": "USA, [USSR].", "benar": "USA.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27076960"]}
+{"salah": "sebesar", "benar": "sebanyak", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["29057318"]}
+{"salah": "konkrit", "benar": "konkret", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["834488"]}
+{"salah": "tenggorok,", "benar": "tenggorokan,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11688891"]}
+{"salah": "menyerangyannggas", "benar": "menyerang unggas", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25637070"]}
+{"salah": "penyakin", "benar": "penyakit", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25637070"]}
+{"salah": "jelas betul.", "benar": "sepenuhnya diketahui.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25637070"]}
+{"salah": "terinfeksi.[ Hemagglutinin", "benar": "terinfeksi. Hemaglutinin", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25637939"]}
+{"salah": "Gunung-Gunung", "benar": "gunung-gunung", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["40626"]}
+{"salah": "Pagguyangan, Cisolok", "benar": "Paguyangan, Cisolok,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5249348"]}
+{"salah": "tegah", "benar": "tengah", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5249364"]}
+{"salah": "strukstur", "benar": "struktur", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14933726"]}
+{"salah": "perekutan", "benar": "perekrutan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14933726"]}
+{"salah": "tergantung", "benar": "bergantung", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26554777"]}
+{"salah": "jawa", "benar": "Jawa", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26556256"]}
+{"salah": "Aksara", "benar": "aksara", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26556256"]}
+{"salah": "Jawa.", "benar": "Jawa .", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26556256"]}
+{"salah": "kerjasama antar desa", "benar": "kerja sama antardesa", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26734427"]}
+{"salah": "penggunakan", "benar": "penggunaan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26734427"]}
+{"salah": "tertentu", "benar": "tertentu,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26734468"]}
+{"salah": "administratif", "benar": "administratif,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26734496"]}
+{"salah": "Yogyakarta", "benar": "Yogyakarta,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26734496"]}
+{"salah": "demikian", "benar": "demikian,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26734496"]}
+{"salah": "elit", "benar": "elite", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["29296123"]}
+{"salah": "Propinsi", "benar": "propinsi,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["865779"]}
+{"salah": "pinjaman", "benar": "pinzaman", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15014779"]}
+{"salah": "hadalah", "benar": "adalah", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13653838"]}
+{"salah": "paska-Hartree-Fock,", "benar": "pasca-Hartree-Fock,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["828950"]}
+{"salah": "Teori Fungsional Kerapatan,", "benar": "teori fungsi kerapatan,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["828950"]}
+{"salah": "debagai conto,", "benar": "sebagai contoh,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11956439"]}
+{"salah": "Adalah api yang", "benar": "Api", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28976378"]}
+{"salah": "kelamin.penyakit", "benar": "kelamin. Penyakit", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21142613"]}
+{"salah": "dibawah", "benar": "di bawah", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21142613"]}
+{"salah": "Tetapi", "benar": "Akan tetapi,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24818036"]}
+{"salah": "Sedangkan", "benar": "Sedangkan,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24818036"]}
+{"salah": "sangat diharapkan", "benar": "berasal", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14416012"]}
+{"salah": "Silahkan", "benar": "Silakan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14647101"]}
+{"salah": "rekayasa, medis,", "benar": "teknik, kedokteran/medis,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2952444"]}
+{"salah": "maknai sebuah kata", "benar": "dimaknai", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8376694"]}
+{"salah": "ketat", "benar": "\"ketat\" ini", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8376694"]}
+{"salah": "homomorfisme", "benar": "homeomorfisma", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8379852"]}
+{"salah": "bukti", "benar": "pembuktian", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8379852"]}
+{"salah": "memeriksa", "benar": "memperjelas", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8379901"]}
+{"salah": "euclid.", "benar": "Euklides.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8386273"]}
+{"salah": "Phytagoras", "benar": "Pythagoras", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8386273"]}
+{"salah": "pemotongan", "benar": "pembulatan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8386290"]}
+{"salah": "matematika", "benar": "matematika,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8386290"]}
+{"salah": "ANJNG", "benar": "MATEMATIKA", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15955938"]}
+{"salah": "MATEMATIKA", "benar": "Definisi", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15955940"]}
+{"salah": "(aritmetika", "benar": "(aritmatika", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25449247"]}
+{"salah": "matematikawan ,", "benar": "matematikawan,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26745780"]}
+{"salah": "Panji", "benar": "Pandji", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["344403"]}
+{"salah": "bangkalan,", "benar": "Bangkalan,", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20965091"]}
+{"salah": "sebuak", "benar": "sebuah", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21236802"]}
+{"salah": "wesi,", "benar": "Wesi,", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21236802"]}
+{"salah": "kabupaten", "benar": "Kabupaten", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21236816"]}
+{"salah": "kamulan.", "benar": "Kamulan.", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21236816"]}
+{"salah": "jiwa .", "benar": "jiwa.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27230745"]}
+{"salah": "Madura", "benar": "Madura:", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28154651"]}
+{"salah": "hewan​.", "benar": "hewan.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26765094"]}
+{"salah": "manusis.", "benar": "manusia.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17656294"]}
+{"salah": "Rubella.", "benar": "rubela.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16060385"]}
+{"salah": "Rubela", "benar": "rubela", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16060385"]}
+{"salah": "beresiko", "benar": "berisiko", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16060385"]}
+{"salah": "cepat", "benar": "beresiko hamill", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24183860"]}
+{"salah": "Di sini", "benar": "Ini berarti bahwa", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28936704"]}
+{"salah": "karirnya.", "benar": "kariernya.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9860142"]}
+{"salah": "esei,", "benar": "esai,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13262306"]}
+{"salah": "esei.", "benar": "esai.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13262308"]}
+{"salah": "Ribosoma,", "benar": "Ribosom,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["878685"]}
+{"salah": "osmosis", "benar": "osmotik", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5626476"]}
+{"salah": "dienin,", "benar": "dinein,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5626790"]}
+{"salah": "dienin", "benar": "dinein", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5626793"]}
+{"salah": "organisme", "benar": "antarorganisme", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5643151"]}
+{"salah": "resistensi", "benar": "resistansi", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12131246"]}
+{"salah": "samudera,", "benar": "samudra,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["29291318"]}
+{"salah": "Namun", "benar": "Namun,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["4809910"]}
+{"salah": "dibidang", "benar": "di bidang", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["4809910"]}
+{"salah": "(astronot", "benar": "(astronaut", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17603586"]}
+{"salah": "Barat,", "benar": "bagian tengah,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23009255"]}
+{"salah": "urang awak.", "benar": "Urang Awak.", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23009255"]}
+{"salah": "urang awak", "benar": "Urang Awak", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23009255"]}
+{"salah": "bagian tengah,", "benar": "Barat,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26176870"]}
+{"salah": "Barat, Indonesia.", "benar": "Barat.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26477813"]}
+{"salah": "katanya,sejarah", "benar": "katanya, sejarah", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23330330"]}
+{"salah": "lainnyadalam", "benar": "lainnya dalam", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23330330"]}
+{"salah": "teknologi", "benar": "teknologi.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23330330"]}
+{"salah": "Arkeologi,", "benar": "Arkeolog,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25283931"]}
+{"salah": "masa lampau", "benar": "Masa Lalu", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25283931"]}
+{"salah": "genetika, dan lain-lain),", "benar": "secara genetik, dll),", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25283931"]}
+{"salah": "Virus Mosaik Tembakau.", "benar": "virus mosaik tembakau.", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2073385"]}
+{"salah": "yag", "benar": "yang", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14273097"]}
+{"salah": "filter", "benar": "saringan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14681789"]}
+{"salah": "(CRPV)yang", "benar": "(CRPV) yang", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15451801"]}
+{"salah": "Dr", "benar": "Dr.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15451801"]}
+{"salah": "Budha,", "benar": "Buddha,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["443573"]}
+{"salah": "agama .", "benar": "agama.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26739728"]}
+{"salah": "mempercayai", "benar": "memercayai", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28161731"]}
+{"salah": "Tunisi", "benar": "Tunisia", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["3347914"]}
+{"salah": "Univesitas", "benar": "Universitas", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["3352954"]}
+{"salah": "Pada", "benar": "Para", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16580363"]}
+{"salah": "\"negara", "benar": "\"negeri", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20522175"]}
+{"salah": "sekarang", "benar": "saat ini", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20522175"]}
+{"salah": "Antisemitisme", "benar": "Anti-semitisme", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23768"]}
+{"salah": "antisemitisme.", "benar": "anti-semitisme.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23768"]}
+{"salah": "somwhere", "benar": "somewhere", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["170670"]}
+{"salah": "mengeksploatasi", "benar": "mengeksploitasikan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["40700"]}
+{"salah": "suka", "benar": "suku", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18690181"]}
+{"salah": "ada kalanya", "benar": "adakalanya", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21778414"]}
+{"salah": "Tetum", "benar": "Tetun", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22889433"]}
+{"salah": "menjadi", "benar": "Menjadi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22997129"]}
+{"salah": "diijinkan", "benar": "diizinkan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22997132"]}
+{"salah": "Pemungutan", "benar": "Mayoritas hasil pemungutan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22997144"]}
+{"salah": "kalinya, dan menjelang", "benar": "kalinya. Menjelang", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22998921"]}
+{"salah": "Mei", "benar": "Maret", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23008372"]}
+{"salah": "Walikutha:", "benar": "Walikota:", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["631983"]}
+{"salah": "(Alkudus))", "benar": "saja", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["631983"]}
+{"salah": "Islam", "benar": "KRISTEN", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10367510"]}
+{"salah": "Islam,", "benar": "yahudi,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10367510"]}
+{"salah": "yahudi,", "benar": "islam,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10393939"]}
+{"salah": "Kategori:konflik", "benar": "Kategori:Konflik", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24109890"]}
+{"salah": "),", "benar": ")", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27498861"]}
+{"salah": "dunia,", "benar": "dunia yang", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27498861"]}
+{"salah": "utama—Islam,", "benar": "utama yaitu Islam,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27498861"]}
+{"salah": "dataran tinggi", "benar": "Dataran Tinggi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16976812"]}
+{"salah": "od", "benar": "`od", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["357774"]}
+{"salah": "*National", "benar": "* National", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["357774"]}
+{"salah": "category:Yahudi", "benar": "category:Israel", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["357774"]}
+{"salah": "sebagian", "benar": "sebagian.bln", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15147422"]}
+{"salah": "merasa", "benar": "merasa.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15147422"]}
+{"salah": "banyu.", "benar": "air.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20340816"]}
+{"salah": "(teori anjing).", "benar": "(Teori Klasik Aristoteles).", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19283357"]}
+{"salah": "Masyarakatt", "benar": "Masyarakat", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21682036"]}
+{"salah": "[agama]", "benar": "agama", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8169637"]}
+{"salah": "dancok", "benar": "dan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9132210"]}
+{"salah": "filosofis", "benar": "filosofia", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14749083"]}
+{"salah": "filosofia", "benar": "filosofis", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14749091"]}
+{"salah": "sebagi", "benar": "sebagai", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17106135"]}
+{"salah": "kearifan). Sehingga", "benar": "kearifan) , sehingga", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17106142"]}
+{"salah": "metafisikal", "benar": "metafisika", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17106148"]}
+{"salah": "tapi", "benar": "tetapi", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17106155"]}
+{"salah": "lainya.", "benar": "lainnya.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17106155"]}
+{"salah": "\"pencinta", "benar": "\"pecinta", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17750879"]}
+{"salah": "atri", "benar": "arti", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18464343"]}
+{"salah": "batas", "benar": "Batas", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25272333"]}
+{"salah": "\" \"Apa", "benar": "Apa", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27319304"]}
+{"salah": "nyata?\"", "benar": "nyata?", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27319304"]}
+{"salah": "seperti: \"Apakah", "benar": "seperti:Apakah", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27319304"]}
+{"salah": "Antarktika,", "benar": "Antartika,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12558726"]}
+{"salah": "Papua", "benar": "Papua,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17547431"]}
+{"salah": "Pengadilan", "benar": "pengadilan", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22872160"]}
+{"salah": "barat. Benua", "benar": "barat, benua", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22937754"]}
+{"salah": "Masyarakat dan marga", "benar": "Komunitas masyarakat tradisional", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22941887"]}
+{"salah": "ulayat]]\"", "benar": "ulayat]\"", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22942320"]}
+{"salah": "\"[Tanah ulayat]\"", "benar": "\"Tanah ulayat\"", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22942366"]}
+{"salah": "melestarikannya.", "benar": "melestarikannya,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22950769"]}
+{"salah": "Manusia", "benar": "Keberadaan manusia", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22952249"]}
+{"salah": "melibatkan puluhan ribu", "benar": "menewaskan ribuan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22954273"]}
+{"salah": "Zona Ekologi", "benar": "zona ekologi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22955067"]}
+{"salah": "system,dengan", "benar": "system, dengan", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22959608"]}
+{"salah": "Pada", "benar": "Saat", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22976309"]}
+{"salah": "besar. Diperkirakan", "benar": "besar, diperkirakan", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22990106"]}
+{"salah": "pijin", "benar": "Pijin", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20442411"]}
+{"salah": "pidgin", "benar": "Pidgin", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20442411"]}
+{"salah": "Baru", "benar": "Disempurnakan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2456777"]}
+{"salah": "Ejaan", "benar": "Edjaan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2456779"]}
+{"salah": "Original lyrics", "benar": "Lirik asli", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2694603"]}
+{"salah": "Official lyrics", "benar": "Lirik resmi", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2694603"]}
+{"salah": "Modern lyrics", "benar": "Lirik modern", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2694603"]}
+{"salah": "Mendjaga Pandoe Iboekoe.", "benar": "Djadi pandoe iboekoe", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13762142"]}
+{"salah": "dituturunkan", "benar": "diturunkan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22106682"]}
+{"salah": "berkerjsama", "benar": "berkerjasama", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24189709"]}
+{"salah": "Laleia (Manatuto,", "benar": "Laleia, Manatuto,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["116071"]}
+{"salah": "Kristen.", "benar": "Katolik.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8177583"]}
+{"salah": "diplomatk", "benar": "diplomatik", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17090155"]}
+{"salah": "Pulai", "benar": "Pulau", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["40745"]}
+{"salah": "hingg", "benar": "hingga", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16998574"]}
+{"salah": "manapun", "benar": "mana pun", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16998574"]}
+{"salah": "Melaka ditaklukkan", "benar": "Melakikrebut an", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23116741"]}
+{"salah": "Malaysia-lah", "benar": "Malaysia lah", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23116790"]}
+{"salah": "Melayunesia .", "benar": "Melayunesia.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23256859"]}
+{"salah": "Op", "benar": "De pagina", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["34780"]}
+{"salah": "template", "benar": "templates", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1566068"]}
+{"salah": "olids", "benar": "oldis", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1566068"]}
+{"salah": "Template:Kabupaten", "benar": "Templat:Kabupaten", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1566068"]}
+{"salah": "toun", "benar": "turn", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1637797"]}
+{"salah": "sureal", "benar": "surreal", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1658246"]}
+{"salah": "Pak,", "benar": "pak,", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24759307"]}
+{"salah": "(disingkat)", "benar": "(Saya singkat),", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24760965"]}
+{"salah": "auditori,", "benar": "stimulus audio,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["6553900"]}
+{"salah": "taktil stimuli,", "benar": "taktil,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["6553900"]}
+{"salah": "contoh,", "benar": "contohnya,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["6553900"]}
+{"salah": "dirubahnya", "benar": "diubahnya", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17040313"]}
+{"salah": "suaut", "benar": "suatu", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19500015"]}
+{"salah": "pelajar\" — tiga", "benar": "pelajar\"—tiga", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22276606"]}
+{"salah": "pohon-panjang\" — tiga", "benar": "pohon-panjang\"—tiga", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22276606"]}
+{"salah": "Saussure ,", "benar": "Saussure,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28177251"]}
+{"salah": "tersinsari", "benar": "tersinari", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["259951"]}
+{"salah": "julurannya", "benar": "jalurannya", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9507988"]}
+{"salah": "Sati", "benar": "Sakti", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11755101"]}
+{"salah": "(bitnang", "benar": "(bintang", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11769968"]}
+{"salah": "mencadi", "benar": "menjadi", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13493060"]}
+{"salah": "sekira", "benar": "sekitar", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14751065"]}
+{"salah": "bintang", "benar": "binatang", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16705695"]}
+{"salah": "|nama=Naggroe Aceh Darussalam", "benar": "|nama=Aceh", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9381931"]}
+{"salah": "Sumatera,", "benar": "Sumatra,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18754706"]}
+{"salah": "Sumatera", "benar": "Sumatra", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18754706"]}
+{"salah": "Kaa", "benar": "Kata", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19628172"]}
+{"salah": "melayu .", "benar": "melayu.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26747416"]}
+{"salah": "pembangunan .", "benar": "pembangunan.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26747416"]}
+{"salah": "alsli", "benar": "asli", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28430039"]}
+{"salah": "pembantuan,berupa", "benar": "pembantuan, berupa", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13202533"]}
+{"salah": "bagian .", "benar": "bagian.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26743290"]}
+{"salah": "cerdas .", "benar": "cerdas.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26743290"]}
+{"salah": "provinsi .", "benar": "provinsi.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26743290"]}
+{"salah": "DIS .", "benar": "DIS.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27465881"]}
+{"salah": "Selarna", "benar": "Selama", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24785073"]}
+{"salah": "Manchester,", "benar": "Manchester Inggris,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22945259"]}
+{"salah": "Paris.", "benar": "Paris, Prancis.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22945259"]}
+{"salah": "terkenel", "benar": "terkenal", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13002861"]}
+{"salah": "nasi", "benar": "Nasi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15174342"]}
+{"salah": "Singhasari,", "benar": "Singosari,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15240805"]}
+{"salah": "Dhimor))", "benar": "Dhimor)", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16327832"]}
+{"salah": "Madura", "benar": "Madura,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19294070"]}
+{"salah": "ibukota", "benar": "ibu kota", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19294070"]}
+{"salah": "Suku", "benar": "suku", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19294198"]}
+{"salah": "pegunungan", "benar": "Pegunungan", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19294198"]}
+{"salah": "Pithecanthropus mojokertensis", "benar": "Pithecantropus Mojokertensis", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21627439"]}
+{"salah": ".makam", "benar": "dan makam", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21633017"]}
+{"salah": "Ponorogo, Ngawi),", "benar": "Ponorogo),", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22083303"]}
+{"salah": "Katolik,", "benar": "(Katolik dan Protestan)", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22083303"]}
+{"salah": "penunuan", "benar": "pembakaran", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17692908"]}
+{"salah": "diperbolehkauuuuuuuuuuuuj", "benar": "diperbolehkan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17692908"]}
+{"salah": "Paku Alaman.", "benar": "Pakualaman.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16413681"]}
+{"salah": "Unifikasi.", "benar": "Unifikasi, Salafiyah, dll.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16935830"]}
+{"salah": "agama samawi", "benar": "Agama Samawi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16935837"]}
+{"salah": "samawi", "benar": "Samawi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16935837"]}
+{"salah": "ssesuatu", "benar": "sesuatu", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20570588"]}
+{"salah": "mahagaib.", "benar": "maha gaib.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20570588"]}
+{"salah": "disana", "benar": "di sana", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["7153021"]}
+{"salah": "pemakaman", "benar": "permakaman", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["7153021"]}
+{"salah": "menjadi", "benar": "menjapada", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["7153021"]}
+{"salah": "subyek", "benar": "subjek", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28534009"]}
+{"salah": "ditengah-tengah", "benar": "di tengah-tengah", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["29287198"]}
+{"salah": "Dafyat", "benar": "Daftar", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["30563"]}
+{"salah": "Indoensia", "benar": "Indonesia", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21748861"]}
+{"salah": "singkron", "benar": "sinkron", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13007233"]}
+{"salah": "di tangkap", "benar": "ditangkap", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14275069"]}
+{"salah": "Keppress", "benar": "Keppres", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5933184"]}
+{"salah": "Sovyet", "benar": "Soviet", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["6773969"]}
+{"salah": "ni", "benar": "ini", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["6773969"]}
+{"salah": "Yerussalem.", "benar": "Yerusalem.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1196774"]}
+{"salah": "ibadah", "benar": "ibadah,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12296513"]}
+{"salah": "Kegiatan - kegiatan", "benar": "Kegiatan-kegiatan", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12296513"]}
+{"salah": "musholla,", "benar": "musala,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16580515"]}
+{"salah": "Sholat Jum'at,", "benar": "salat Jumat,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16580515"]}
+{"salah": "Al Qur'an", "benar": "Al-Qur'an", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16580515"]}
+{"salah": "\"jemaat / Umat\".", "benar": "\"jemaat/umat\".", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11402047"]}
+{"salah": "Stasiun Televisi", "benar": "stasiun televisi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["288728"]}
+{"salah": "Show", "benar": "show", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["288728"]}
+{"salah": "memastikan", "benar": "dipastikan bahwa", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["4445491"]}
+{"salah": "dipraktekkan", "benar": "dipraktikkan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11337402"]}
+{"salah": "undan-undang", "benar": "undang-undang", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14736021"]}
+{"salah": "antaragenre-genre", "benar": "antara genre-genre", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14736028"]}
+{"salah": "denan", "benar": "dengan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14736028"]}
+{"salah": "Saththam", "benar": "Saththam.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26406409"]}
+{"salah": "cakaram", "benar": "cakram", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26406409"]}
+{"salah": "dipusat", "benar": "di pusat", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26406409"]}
+{"salah": "([[Bukit", "benar": "(Bukit", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["88466"]}
+{"salah": "BErikut", "benar": "Berikut", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["99053"]}
+{"salah": "regional", "benar": "regional:", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["99053"]}
+{"salah": "[Jerman Barat]].", "benar": "Jerman Barat.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12111148"]}
+{"salah": "dar", "benar": "dari", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12112515"]}
+{"salah": "statis", "benar": "status", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12112515"]}
+{"salah": "beberap", "benar": "beberapa", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12113787"]}
+{"salah": "Jerman ),", "benar": "Jerman),", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24813615"]}
+{"salah": "terdepat", "benar": "terdapat", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26349078"]}
+{"salah": "(Kedutaan)),", "benar": "(Kedutaan),", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["464742"]}
+{"salah": "Romania", "benar": "Rumania", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5122418"]}
+{"salah": "A*/J*/N*/Q*/T*),", "benar": "A*/J*/N*/Q*/T*/X*),", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10346138"]}
+{"salah": "A*/J*/N*/Q*/T*/L*),", "benar": "A*/J*/L*/N*/Q*/T*),", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10396674"]}
+{"salah": "K*/X*),", "benar": "K*),", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10396674"]}
+{"salah": "A*/B*/Q*/R*/S*/W*),", "benar": "A*/B*/O*/Q*/R*),", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10527728"]}
+{"salah": "Q*/S*),", "benar": "S*),", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10527728"]}
+{"salah": "saja dan", "benar": "saja,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17212479"]}
+{"salah": "YAH", "benar": "YAN", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17497257"]}
+{"salah": "DG", "benar": "DH", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17497257"]}
+{"salah": "JW", "benar": "JY", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17497257"]}
+{"salah": "sumanto", "benar": "Sumanto", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13168492"]}
+{"salah": "purbalingga", "benar": "Purbalingga", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16397598"]}
+{"salah": "obyek", "benar": "objek", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11351335"]}
+{"salah": "Tengah.", "benar": "Tengah, Indonesia.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19083545"]}
+{"salah": "Purbalingga.", "benar": "Kecamatan Purbalingga Kota.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21972168"]}
+{"salah": "dengam", "benar": "dengan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18627270"]}
+{"salah": "Pandang .", "benar": "Pandang.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26743875"]}
+{"salah": "Indosiar ,", "benar": "Indosiar,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27751479"]}
+{"salah": "bertahap .", "benar": "bertahap.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27751479"]}
+{"salah": "wilayah", "benar": "Wilayah", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14223141"]}
+{"salah": "wilayah", "benar": "wilayahnya", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20849264"]}
+{"salah": "Tahun", "benar": "Pada tahun", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27589156"]}
+{"salah": "Makassar", "benar": "Makasar", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27589156"]}
+{"salah": "Daerah Khusus Ibukota", "benar": "D.I", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21209891"]}
+{"salah": "Karna", "benar": "Karena", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28428870"]}
+{"salah": "Sabhaparwa", "benar": "LOLOKPARWA", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16243976"]}
+{"salah": "menanggil", "benar": "memanggil", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24555904"]}
+{"salah": "Karna,", "benar": "Karena,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28425747"]}
+{"salah": "​Berganti-ganti", "benar": "Berganti-ganti", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21965789"]}
+{"salah": "persiapan) ;", "benar": "persiapan);", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26748967"]}
+{"salah": "Indonesia pertama.", "benar": "pertama di Indonesia.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12061212"]}
+{"salah": "[[Asia-Pasifik]", "benar": "Asia-Pasifik", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17142242"]}
+{"salah": "menayangkan", "benar": "menyiarkan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18867723"]}
+{"salah": "​Realisasinya", "benar": "Realisasinya", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21965399"]}
+{"salah": "Ph.D.", "benar": "Ph.D..", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14113379"]}
+{"salah": "linguistika", "benar": "linguistik", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13097045"]}
+{"salah": "Grammar", "benar": "Tata bahasa", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13097045"]}
+{"salah": "orang.", "benar": "orang Kristen.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11453834"]}
+{"salah": "Ibrahim", "benar": "Abraham", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11453834"]}
+{"salah": "muhammad", "benar": "Muhammad", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19353616"]}
+{"salah": "Ismail", "benar": "Ishak", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24293153"]}
+{"salah": "Ishak,", "benar": "Ismael,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24293153"]}
+{"salah": "Makhpela ,", "benar": "Makhpela,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26739524"]}
+{"salah": "SM .", "benar": "SM.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26739524"]}
+{"salah": "ternya", "benar": "ternyata", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["7105301"]}
+{"salah": "kematianNYA.", "benar": "kematian-Nya.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5058654"]}
+{"salah": "guru ,", "benar": "guru,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26749736"]}
+{"salah": "Latin", "benar": "Latdain", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13827096"]}
+{"salah": "berbe.", "benar": "berbeda.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22315997"]}
+{"salah": "Bible", "benar": "Bibel", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25788747"]}
+{"salah": "kelompok-kelompok", "benar": "sekelompok orang", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25817365"]}
+{"salah": "dan", "benar": "yang", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25817365"]}
+{"salah": "Luther .", "benar": "Luther.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26739950"]}
+{"salah": "murid-muridnya", "benar": "murid-muridNya", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17525840"]}
+{"salah": "apapun", "benar": "apa pun", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19049934"]}
+{"salah": "menghasikan", "benar": "menghasilkan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19049934"]}
+{"salah": "ditumakan", "benar": "diutamakan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19049934"]}
+{"salah": "Terms – Glossary", "benar": "Terms–Glossary", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22230910"]}
+{"salah": "bisa", "benar": "dapat", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25651372"]}
+{"salah": "musik;", "benar": "musik, atau", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25651372"]}
+{"salah": "Kristianitas", "benar": "Kekristenan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1734182"]}
+{"salah": "Kitap", "benar": "Kitab", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17541105"]}
+{"salah": "atau pun", "benar": "ataupun", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11347266"]}
+{"salah": "hokum", "benar": "hukum", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13255036"]}
+{"salah": "saudara-saudara", "benar": "saudara-saudaranya", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["568782"]}
+{"salah": "mereke", "benar": "mereka", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["568782"]}
+{"salah": "Utara,", "benar": "Utara", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9444876"]}
+{"salah": "​​IFAD,", "benar": "IFAD,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21965738"]}
+{"salah": "“Walupun", "benar": "“Walaupun", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25483087"]}
+{"salah": "kisah-kisan", "benar": "kisah-kisah", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19576355"]}
+{"salah": "kecenderunga,", "benar": "kecenderungan,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18714802"]}
+{"salah": "rangk", "benar": "rangka", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18714811"]}
+{"salah": "pelanjut", "benar": "selain", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21243287"]}
+{"salah": "raja", "benar": "Raja", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21243287"]}
+{"salah": "itu,", "benar": "itu", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21243287"]}
+{"salah": "palapa .", "benar": "palapa.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26746455"]}
+{"salah": "negara, negara", "benar": "Negara, Negara", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21967829"]}
+{"salah": "Provinsi", "benar": "Provinsi, Kabupaten,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21967829"]}
+{"salah": "kota", "benar": "kota,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25430632"]}
+{"salah": "Yerusalem Timur,", "benar": "Yerusalem,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25430632"]}
+{"salah": "Ramallah", "benar": "Ramallah,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25430632"]}
+{"salah": "panah", "benar": "tanah", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["902267"]}
+{"salah": "dalah", "benar": "adalah", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10561747"]}
+{"salah": "terlah", "benar": "telah", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15368328"]}
+{"salah": "GautamaDarya", "benar": "Gautama", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18941231"]}
+{"salah": "bhakti;", "benar": "bakti;", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["29292704"]}
+{"salah": "relatif,", "benar": "relatif karena", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18864947"]}
+{"salah": "masing masing.", "benar": "masing-masing.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18864947"]}
+{"salah": "Arinya:", "benar": "Artinya:", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18864947"]}
+{"salah": "behentinya", "benar": "berhentinya", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14054150"]}
+{"salah": "Mahaesa", "benar": "Maha Esa", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25271560"]}
+{"salah": "motifasi", "benar": "motivasi", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14055861"]}
+{"salah": "keseluruh", "benar": "ke seluruh", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14055861"]}
+{"salah": "arhat", "benar": "arahat", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26429949"]}
+{"salah": "pengakut", "benar": "penganut", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26560357"]}
+{"salah": ")", "benar": "; KBBI: Mahayana)", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27088305"]}
+{"salah": "prtapa", "benar": "petapa", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27148262"]}
+{"salah": "Gian", "benar": "Guan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8342579"]}
+{"salah": "Kain ,", "benar": "Kain,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26745897"]}
+{"salah": "meditator,", "benar": "pemeditasi,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27093550"]}
+{"salah": "Seorang", "benar": "seorang", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27266592"]}
+{"salah": "in", "benar": "di", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["7782023"]}
+{"salah": "ekan.", "benar": "ikan.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1009345"]}
+{"salah": "Dewa kala,", "benar": "Batara Kala,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1009349"]}
+{"salah": "kakaknya,", "benar": "kakeknya,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1013404"]}
+{"salah": "Kuna", "benar": "Kuno", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12548512"]}
+{"salah": "Tongkok", "benar": "Tiongkok", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1734296"]}
+{"salah": "China/RRC,", "benar": "Cina/RRC,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10382355"]}
+{"salah": "ditempati", "benar": "di tempati", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11350656"]}
+{"salah": "terlantar", "benar": "telantar", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11350656"]}
+{"salah": "menampakkan", "benar": "metampakkan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11350656"]}
+{"salah": "Tionghoa)", "benar": "Tiongkok)", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12125092"]}
+{"salah": "Bengkok", "benar": "Tiongkok", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14977132"]}
+{"salah": "RRC)", "benar": "RRC", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20763916"]}
+{"salah": "keuangan – biasanya", "benar": "keuangan–biasanya", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22276729"]}
+{"salah": "kanan – menunjukkan", "benar": "kanan–menunjukkan", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22276729"]}
+{"salah": "komunis ,", "benar": "komunis,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26749164"]}
+{"salah": "China", "benar": "Cina", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28247811"]}
+{"salah": "ke generasi", "benar": "kegenerasi", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13865973"]}
+{"salah": "semi-presidensial .", "benar": "semi-presidensial.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26748836"]}
+{"salah": "Filipinia,", "benar": "Filipina,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1285206"]}
+{"salah": "Luar :", "benar": "luar", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["34606"]}
+{"salah": "ledokteran", "benar": "kedokteran", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["40976"]}
+{"salah": "netrofil,", "benar": "neutrofil,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21017082"]}
+{"salah": "netrofil", "benar": "neutrofil", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21017082"]}
+{"salah": "metabolisme ,", "benar": "metabolisme,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26741652"]}
+{"salah": "adalan", "benar": "adalah", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17013822"]}
+{"salah": "* Gendarmerie", "benar": "*Gendarmerie", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17013822"]}
+{"salah": "Pesepakbola", "benar": "Pesepak bola", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22967092"]}
+{"salah": "juga", "benar": "pun", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27566705"]}
+{"salah": "Dari", "benar": "Periode", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27571180"]}
+{"salah": "hingga", "benar": "dan Masa", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27571180"]}
+{"salah": "menggoyahkan", "benar": "menyebabkan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27600804"]}
+{"salah": "menyebabkan", "benar": "menimbulkan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27623538"]}
+{"salah": "signifikan dalam", "benar": "penting pada", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27628124"]}
+{"salah": "salah satu pemain", "benar": "kekuatan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27628124"]}
+{"salah": "mengurangi", "benar": "mempengaruhi", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27628192"]}
+{"salah": "minggi", "benar": "minggu", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19211596"]}
+{"salah": "dan", "benar": "serta", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26991618"]}
+{"salah": "berzinah", "benar": "berzina", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28973495"]}
+{"salah": "paling banyak", "benar": "hanya", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28973495"]}
+{"salah": "dipantang", "benar": "dipantangkan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28973495"]}
+{"salah": "Sumaetra", "benar": "Sumatera", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1650211"]}
+{"salah": "Melayik.", "benar": "Melayu.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8223986"]}
+{"salah": "pengkreolan.", "benar": "kreolisasi.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19358650"]}
+{"salah": "Minanga (Malayu)", "benar": "Kerajaan Malayu", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23034988"]}
+{"salah": "Brahi, Meringi,", "benar": "Berahi, Merangin,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26067600"]}
+{"salah": "yaitu:", "benar": "yaitu", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21970007"]}
+{"salah": "Fosi", "benar": "Fosil", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26628253"]}
+{"salah": "Demokratik,", "benar": "Demokratis,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19377047"]}
+{"salah": "University College", "benar": "Universitas Kolese", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23768141"]}
+{"salah": "Pendidkan", "benar": "Pendidikan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["397930"]}
+{"salah": "persepsi.", "benar": "psikologi.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["536478"]}
+{"salah": "Jerman.", "benar": "[[Jerman].", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13299282"]}
+{"salah": "ilmu pengetahuan.", "benar": "[[ilmu pengetahuan].", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13299282"]}
+{"salah": "klinis. Gangguan", "benar": "klinis .Gangguan", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18189217"]}
+{"salah": "timbil", "benar": "timbul", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["491166"]}
+{"salah": "masnusia", "benar": "manusia", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["491166"]}
+{"salah": "“Cours", "benar": "Cours", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21236705"]}
+{"salah": "Positive”", "benar": "Positive", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21236705"]}
+{"salah": "sosiologi", "benar": "Sosiologi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22681411"]}
+{"salah": "lawan", "benar": "laun", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25486557"]}
+{"salah": "Prrancis.", "benar": "Prancis.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28653136"]}
+{"salah": "ms:Bachok Merupakan", "benar": "Bachok merupakan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["67584"]}
+{"salah": "Kosa kata", "benar": "Kosakata", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["29292526"]}
+{"salah": "uni eropa", "benar": "Uni Eropa", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["40112"]}
+{"salah": "(dalam bahasa Ibrani:", "benar": "(Ibrani:", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["4379719"]}
+{"salah": "Hassyirim‎),", "benar": "Hassyirim),", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21965509"]}
+{"salah": "Hoyerwerda", "benar": "Hoyerswerda", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["82414"]}
+{"salah": "Jean", "benar": "Jeans", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2598310"]}
+{"salah": "Herold Jaffries", "benar": "Harold Jeffreys", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2598310"]}
+{"salah": "lain .", "benar": "lain.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8843081"]}
+{"salah": "Perbandingan", "benar": "Berikut perbandingan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16830600"]}
+{"salah": "Hipotesisnebula", "benar": "Hipotesis nebula", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23656780"]}
+{"salah": "Ibrani", "benar": "Ibrani]]", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["8993514"]}
+{"salah": "tingal", "benar": "tinggal", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21004859"]}
+{"salah": "Kuna)", "benar": "Kuno)", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1682257"]}
+{"salah": "zakharia.", "benar": "Zakharia.", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5138522"]}
+{"salah": "mesias", "benar": "Mesias", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5138522"]}
+{"salah": "Koresy", "benar": "Koresh", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12152658"]}
+{"salah": "agung", "benar": "Agung", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12152658"]}
+{"salah": "babel", "benar": "Babel", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["12152658"]}
+{"salah": "Sebelum Masehi.", "benar": "SM.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["5138517"]}
+{"salah": "dengan", "benar": "dan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19162074"]}
+{"salah": "Daud a.s.", "benar": "Daud.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15057496"]}
+{"salah": "Ishak,", "benar": "Ishaq,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15057499"]}
+{"salah": "Ismail,", "benar": "Isma'il,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15057501"]}
+{"salah": "sesudah", "benar": "sebelum", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28617642"]}
+{"salah": "Wajrayana", "benar": "vajrayana", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16488974"]}
+{"salah": "Ratnasambhava,", "benar": "Ratnasambhawa,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16488974"]}
+{"salah": "Vairocana).", "benar": "Vairochana).", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16488974"]}
+{"salah": "Wajrayana,", "benar": "Vajrayana,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16488984"]}
+{"salah": "yang", "benar": "dan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19927847"]}
+{"salah": "cair(astenosfir)", "benar": "cair (astenosfir)", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2050410"]}
+{"salah": "[ge-,", "benar": "[geo,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16714669"]}
+{"salah": "kedunia", "benar": "ke dunia", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["304614"]}
+{"salah": "Disuatu", "benar": "Di suatu", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["304614"]}
+{"salah": "bahwasannya", "benar": "bahwasanya", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["304614"]}
+{"salah": "yahudi", "benar": "Yahudi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["365107"]}
+{"salah": "nasrani(kristen).", "benar": "Kristen.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["365107"]}
+{"salah": "Al-Qiyaamah", "benar": "Surat Al Qiyaamah", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["373953"]}
+{"salah": "disini", "benar": "di sini", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["7152608"]}
+{"salah": "manusia,", "benar": "manusia", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9468765"]}
+{"salah": "iman,", "benar": "iman", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9468765"]}
+{"salah": "Jibril,", "benar": "Jibril", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9468765"]}
+{"salah": "hadith", "benar": "hadis", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17431921"]}
+{"salah": "Al-Qur'an", "benar": "Al-Qur'an, Qur'an,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17581725"]}
+{"salah": "Qur'an", "benar": "Quran", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17581725"]}
+{"salah": "Al-Kausar ,", "benar": "Al-Kausar,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26739870"]}
+{"salah": "Al-Asr ,", "benar": "Al-Asr,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26739870"]}
+{"salah": "An-Naml ,", "benar": "An-Naml,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26739870"]}
+{"salah": "Luar", "benar": "luar", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["157576"]}
+{"salah": "menengah", "benar": "menengah.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["1399109"]}
+{"salah": "dengan memakai", "benar": "menggunakan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27733306"]}
+{"salah": "di mana adalah", "benar": "merupakan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27733306"]}
+{"salah": "mazhab", "benar": "Mazhab", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["584435"]}
+{"salah": ")", "benar": ", madzhab)", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["866728"]}
+{"salah": "daj", "benar": "dan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14234089"]}
+{"salah": "di bukukan.", "benar": "telah dibukukan.", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13781174"]}
+{"salah": "Perancis,", "benar": "Perancis:", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["79471"]}
+{"salah": "(Nassau)", "benar": "(Nassau))", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["79471"]}
+{"salah": "Nieuwerkerk", "benar": "Nieuwgcberkerk", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10406718"]}
+{"salah": "yang terdiri dari", "benar": "dan terbagi atas", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17485934"]}
+{"salah": "​​adalah", "benar": "adalah", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26764898"]}
+{"salah": "Heerleen,", "benar": "Heerlen,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["41066"]}
+{"salah": "jiwa) ,", "benar": "jiwa),", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26740909"]}
+{"salah": "Leeuwaarden.", "benar": "Leeuwarden.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["41068"]}
+{"salah": "Ortodooks", "benar": "Ortodoks", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["71016"]}
+{"salah": "|Ibukota", "benar": "|Ibu kota", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["146827"]}
+{"salah": "Hesse,", "benar": "Hessen,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17682377"]}
+{"salah": "Teutoni.", "benar": "Teuton.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17682407"]}
+{"salah": "Hongaria", "benar": "Hungaria", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23079477"]}
+{"salah": "Engelhard ,", "benar": "Engelhard,", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26744270"]}
+{"salah": "Sejarah", "benar": "Sejarahe", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28882897"]}
+{"salah": "Bebrapa", "benar": "Beberapa", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["392638"]}
+{"salah": "kategori:Ceko kategori:Jerman", "benar": "Kategori:Ceko Kategori:Jerman", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["392638"]}
+{"salah": "spesies,kucing", "benar": "spesies, kucing", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["7735781"]}
+{"salah": "dijinakkan,", "benar": "dizinakkan,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11349923"]}
+{"salah": "nampak", "benar": "tampak", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11349923"]}
+{"salah": "petampakan", "benar": "penampakan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11350520"]}
+{"salah": "Kucing", "benar": "Anjing", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15804566"]}
+{"salah": "\"kucing\"", "benar": "\"Anjing\"", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15804566"]}
+{"salah": "kehidupan", "benar": "kematian", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["15804566"]}
+{"salah": "margarita), antara lain.", "benar": "margarita).", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19435054"]}
+{"salah": "kucing", "benar": "kucing.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22669591"]}
+{"salah": "campuran", "benar": "campuran,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22669591"]}
+{"salah": "priharaan", "benar": "peliharaan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["22669591"]}
+{"salah": "Peliharan", "benar": "Peliharaan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2723972"]}
+{"salah": "diimplementasikan", "benar": "diimplementasikan,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28419628"]}
+{"salah": "literal", "benar": "harfiah (literal)", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21994336"]}
+{"salah": "Dunia", "benar": "dunia", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["2057756"]}
+{"salah": "stuktur", "benar": "struktur", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21590549"]}
+{"salah": "menyampaik", "benar": "menyampaikan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26946909"]}
+{"salah": "otobiografi", "benar": "autobiografi", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26946909"]}
+{"salah": "aprasejarah.", "benar": "prasejarah.", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26946909"]}
+{"salah": "ben", "benar": "bin", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10727698"]}
+{"salah": "Port--Prince", "benar": "Port—Prince", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21989083"]}
+{"salah": "Sansekerta:", "benar": "Sansekerta \"kulawarga\". Kata", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["3692327"]}
+{"salah": "\"anggota\" \"kelompok kerabat\".", "benar": "\"anggota\".", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["3692327"]}
+{"salah": "buruk nya", "benar": "buruknya", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["24752422"]}
+{"salah": "tersebut .", "benar": "tersebut.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26744744"]}
+{"salah": "Internasioanl", "benar": "Internasional", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["9359003"]}
+{"salah": "rupang", "benar": "rupa yg", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19709560"]}
+{"salah": "kekaisaran", "benar": "Kerajaan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19709568"]}
+{"salah": "demokrasi", "benar": "Demokrasi", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19709629"]}
+{"salah": "perdana", "benar": "Perdana", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19709685"]}
+{"salah": "[Daimyo]]", "benar": "Daimyo", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19709694"]}
+{"salah": "kepulauan", "benar": "Kepulauan", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19709721"]}
+{"salah": "shogun,", "benar": "Shogun,", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19709840"]}
+{"salah": "tulisan", "benar": "Tulisan", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19712633"]}
+{"salah": "agama", "benar": "Agama", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["19712633"]}
+{"salah": "Jepa ng", "benar": "Jepang", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21915847"]}
+{"salah": "Nipponkoku) dan Torres", "benar": "Nippon-koku)", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26500527"]}
+{"salah": "bulan", "benar": "bukan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27498453"]}
+{"salah": "Asean.", "benar": "ASEAN.", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["27498453"]}
+{"salah": "David Cameron", "benar": "Theresa May", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["11856502"]}
+{"salah": "baratdaya.", "benar": "barat daya.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["17006001"]}
+{"salah": "banda", "benar": "benda", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["16242364"]}
+{"salah": "mengumpulan sesuatu (Koleksi),", "benar": "mengumpulkan suatu (koleksi),", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21525013"]}
+{"salah": "Traveling", "benar": "Bepergian (Traveling)", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21525013"]}
+{"salah": "permasalahan,", "benar": "masalah,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28436137"]}
+{"salah": "digubah", "benar": "diubah", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["20588933"]}
+{"salah": "diawalil", "benar": "diawali", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["808783"]}
+{"salah": "Anda lah", "benar": "Andalah", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["809164"]}
+{"salah": "[Banjar]],", "benar": "Banjar,", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["10385208"]}
+{"salah": "Malaysia", "benar": "sumatera", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18646407"]}
+{"salah": "menghuni Semenanjung Malaya,", "benar": "menghuni,", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["18646407"]}
+{"salah": "Sriwijaya.)", "benar": "Sriwijaya.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26047079"]}
+{"salah": "kota-kota", "benar": "kota", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25686581"]}
+{"salah": "kota,", "benar": "kota ( ),", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25737170"]}
+{"salah": "Belanda .", "benar": "Belanda.", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["26744402"]}
+{"salah": "mantel..", "benar": "mantel.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13218107"]}
+{"salah": "legislatif", "benar": "legislatif.", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14226996"]}
+{"salah": "dahulu) .", "benar": "dahulu).", "kelas": "gabungan-kata", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25679896"]}
+{"salah": "rubah", "benar": "ubah", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["29288601"]}
+{"salah": "atnara", "benar": "antara", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["28950804"]}
+{"salah": "tanahy,", "benar": "tanah,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["41744"]}
+{"salah": "Gregorius,", "benar": "Gregorian,", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["41746"]}
+{"salah": "T.", "benar": "T", "kelas": "tanda-baca", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["13264297"]}
+{"salah": "Kelvin.", "benar": "kelvin.", "kelas": "kapital", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["23753"]}
+{"salah": "kg*(meter/detik)kwadrat", "benar": "kg*(meter/detik)kuadrat", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["14662965"]}
+{"salah": "sudah pasti", "benar": "merupakan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["25382472"]}
+{"salah": "menmberi", "benar": "memberi", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["440949"]}
+{"salah": "Nama nama", "benar": "Nama-nama", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["440949"]}
+{"salah": "gerakan gerakan", "benar": "gerakan-gerakan", "kelas": "lain", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["440949"]}
+{"salah": "minggu,", "benar": "minggu,bulan", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21641581"]}
+{"salah": "hari", "benar": "hari-hari", "kelas": "ejaan", "frekuensi": 1, "n_editor_berbeda": 1, "contoh_revisi": ["21641581"]}

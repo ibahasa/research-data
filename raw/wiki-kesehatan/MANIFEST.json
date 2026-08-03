@@ -1,0 +1,11 @@
+{
+  "slug": "wiki-kesehatan",
+  "title": "Digital health survey of 15 Indonesian regional-language Wikipedias",
+  "published_at": "2026-08-03T10:29:05Z",
+  "source_commit": "de0f90c4",
+  "fingerprint": "292791b1964fd8b4",
+  "license": "CC BY 4.0",
+  "files": [
+    { "file": "wiki-kesehatan-out-wiki_bahasa_daerah.csv", "source": "scrape/wiki-kesehatan/out/wiki_bahasa_daerah.csv", "bytes": 768, "sha256": "c8d8683356f2b41276c8a672adca4fb261e569245d374c276b0d33f4abe11eb8" }
+  ]
+}
