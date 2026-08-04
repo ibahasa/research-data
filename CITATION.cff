@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it using the metadata below. Prefer the Zenodo DOI once one exists (see README), pinned to the version you actually used."
+title: "ibahasa Research Data"
+type: dataset
+authors:
+  - family-names: "Huda"
+    given-names: "M. Khoirul"
+    website: "https://mkhuda.com"
+repository-code: "https://github.com/ibahasa/research-data"
+url: "https://ibahasa.com/riset"
+license: CC-BY-4.0
+abstract: >
+  Raw data behind ibahasa research. Every figure published at ibahasa.com/riset
+  links back to a file in this repository, pinned to the commit it was cited
+  at. See INDEX.md for the full list of datasets and README.md for layout,
+  citation permalink format, and the limits of each dataset.
+keywords:
+  - indonesian language
+  - natural language processing
+  - computational linguistics
+  - language benchmark
+  - corpus
+  - regional languages
