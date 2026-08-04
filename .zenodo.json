@@ -1,0 +1,29 @@
+{
+  "title": "ibahasa Research Data",
+  "description": "Raw data behind ibahasa research. Every figure published at ibahasa.com/riset links back to a file in this repository, pinned to the commit it was cited at. Includes provenance, verification notes, and the limits of each dataset.",
+  "creators": [
+    {
+      "name": "Huda, M. Khoirul",
+      "affiliation": "ibahasa.com"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "upload_type": "dataset",
+  "keywords": [
+    "indonesian language",
+    "natural language processing",
+    "computational linguistics",
+    "language benchmark",
+    "corpus",
+    "regional languages",
+    "indonesia"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://ibahasa.com/riset",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ]
+}

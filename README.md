@@ -34,6 +34,21 @@ you are checking someone's arithmetic.
 
 Each file's `sha256` is in `MANIFEST.json` if you want to verify a download.
 
+## Citing this repository
+
+A GitHub permalink is enough to check one file, but it is not a citable
+identifier: it has no fixed version and nothing indexes it as a dataset.
+
+This repository is wired for [Zenodo](https://zenodo.org) archival: every
+GitHub Release mints a permanent DOI for the exact state of the repository at
+that release. **No release has been cut yet, so there is no DOI to cite yet.**
+Once the first one exists, this section will carry it, together with a
+version-pinned BibTeX entry.
+
+In the meantime, `CITATION.cff` in this repository has enough to cite it by
+hand (GitHub also reads it and offers an APA/BibTeX export from the "Cite this
+repository" button on the repo's main page).
+
 ## Held-out splits
 
 Benchmark item sets are **not** published here. A portion of those items is held
