@@ -1,5 +1,7 @@
 # ibahasa Research Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21793396.svg)](https://doi.org/10.5281/zenodo.21793396)
+
 Raw data behind ibahasa research.
 
 Every figure we publish links back to a file here, pinned to the commit it was
@@ -37,17 +39,30 @@ Each file's `sha256` is in `MANIFEST.json` if you want to verify a download.
 ## Citing this repository
 
 A GitHub permalink is enough to check one file, but it is not a citable
-identifier: it has no fixed version and nothing indexes it as a dataset.
+identifier on its own: it has no fixed version and nothing indexes it as a
+dataset. This repository is archived on [Zenodo](https://zenodo.org), which
+mints a permanent, version-pinned DOI for every GitHub Release.
 
-This repository is wired for [Zenodo](https://zenodo.org) archival: every
-GitHub Release mints a permanent DOI for the exact state of the repository at
-that release. **No release has been cut yet, so there is no DOI to cite yet.**
-Once the first one exists, this section will carry it, together with a
-version-pinned BibTeX entry.
+- **Cite the exact version you used** (recommended, for reproducibility):
+  `10.5281/zenodo.21793396` (`v0.1.0`)
+- **Cite "whatever is current"** (a concept DOI that always resolves to the
+  latest version): `10.5281/zenodo.21793395`
 
-In the meantime, `CITATION.cff` in this repository has enough to cite it by
-hand (GitHub also reads it and offers an APA/BibTeX export from the "Cite this
-repository" button on the repo's main page).
+```bibtex
+@dataset{huda_2026_ibahasa_research_data,
+  author    = {Huda, M. Khoirul},
+  title     = {ibahasa Research Data},
+  month     = aug,
+  year      = 2026,
+  publisher = {Zenodo},
+  version   = {v0.1.0},
+  doi       = {10.5281/zenodo.21793396},
+  url       = {https://doi.org/10.5281/zenodo.21793396}
+}
+```
+
+`CITATION.cff` in this repository carries the same identifiers and is read
+natively by GitHub's "Cite this repository" button on the repo's main page.
 
 ## Held-out splits
 
