@@ -1,12 +1,12 @@
 {
   "slug": "wiki-corrections",
-  "title": "Mined correction candidates and the subset that survived human verification",
-  "published_at": "2026-08-03T10:29:05Z",
-  "source_commit": "de0f90c4",
+  "title": "Mined correction candidates and the subset that survived human verification (word pairs extracted from Wikipedia revision history; attribution to Wikipedia contributors)",
+  "published_at": "2026-08-05T07:32:29Z",
+  "source_commit": "0ff2a804",
   "fingerprint": "a9c5a497268d7252",
-  "license": "CC BY-SA 4.0",
+  "license": "CC BY 4.0",
   "files": [
-    { "file": "wiki-corpus-out-corrections.jsonl", "source": "scrape/wiki-corpus/out/corrections.jsonl", "bytes": 101504, "sha256": "070b8849205f920874c2da8b66057c59a0ef94686531acbece1925e1169f19a2" },
-    { "file": "wiki-corpus-out-fixture_verified.jsonl", "source": "scrape/wiki-corpus/out/fixture_verified.jsonl", "bytes": 6914, "sha256": "7a36cacd6aa59ea23978aa8cad17693afeb63a1c6848cf46fe6ce19148ed8c4e" }
+    { "file": "wiki-corpus-out-corrections.jsonl", "source": "wiki-corpus/out/corrections.jsonl", "bytes": 101504, "sha256": "070b8849205f920874c2da8b66057c59a0ef94686531acbece1925e1169f19a2" },
+    { "file": "wiki-corpus-out-fixture_verified.jsonl", "source": "wiki-corpus/out/fixture_verified.jsonl", "bytes": 6914, "sha256": "7a36cacd6aa59ea23978aa8cad17693afeb63a1c6848cf46fe6ce19148ed8c4e" }
   ]
 }
