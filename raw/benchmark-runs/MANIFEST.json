@@ -1,9 +1,9 @@
 {
   "slug": "benchmark-runs",
   "title": "Exported benchmark runs: per-model metadata and per-run summaries",
-  "published_at": "2026-08-05T22:25:18Z",
+  "published_at": "2026-08-05T23:19:49Z",
   "source_commit": "38d77fa0",
-  "fingerprint": "1df9870d7206c090",
+  "fingerprint": "c216de1fece642f0",
   "license": "CC BY 4.0",
   "files": [
     { "file": "runs-2026-07-25-jv-A-gate-meta.json", "source": "runs/2026-07-25-jv-A-gate/meta.json", "bytes": 1374, "sha256": "d0fb368538e761d5fce4c162520f5f18285842459222800508242e57b416ce07" },
@@ -33,6 +33,7 @@
     { "file": "runs-2026-08-02-id-W-procurement-meta.json", "source": "runs/2026-08-02-id-W-procurement/meta.json", "bytes": 678, "sha256": "c74049479052fd1005336a210ebfb7afaaac9e989789f519065d3a3e0cb292ac" },
     { "file": "runs-2026-08-03-id-B-frasa-dibaurkan-meta.json", "source": "runs/2026-08-03-id-B-frasa-dibaurkan/meta.json", "bytes": 437, "sha256": "8f53f2980f7332c1f73205e8daecf000754ddecd86bc8f610d2c204f76b2c184" },
     { "file": "runs-2026-08-05-jvA-anthropic-haiku-vs-sonnet-meta.json", "source": "runs/2026-08-05-jvA-anthropic-haiku-vs-sonnet/meta.json", "bytes": 550, "sha256": "b40b01079964f940c23039950ea96aa8311b3f90d2aaa0b93110346746af3589" },
+    { "file": "runs-2026-08-06-idN-dua-model-murah-meta.json", "source": "runs/2026-08-06-idN-dua-model-murah/meta.json", "bytes": 569, "sha256": "01501db4de1d003cade3fe3868ffff73adb83f03b6c83f7b88d2f9c8f21162a8" },
     { "file": "runs-2026-07-25-jv-A-gate-summary.md", "source": "runs/2026-07-25-jv-A-gate/summary.md", "bytes": 1046, "sha256": "12076194b1a88db7fd0cc741bc891480f03f043a80cf9d3e1cfa44c8d565aaeb" },
     { "file": "runs-2026-07-25-jv-A-procurement-summary.md", "source": "runs/2026-07-25-jv-A-procurement/summary.md", "bytes": 1146, "sha256": "d346439142fee5c4866336cb15084d89c506972dfa14c99ebc9cc4f1360c69bf" },
     { "file": "runs-2026-07-25-jv-A-produksi-summary.md", "source": "runs/2026-07-25-jv-A-produksi/summary.md", "bytes": 924, "sha256": "44f2cd904132b32334add1a7336cb1ba1d53ae41da4f76394eb26ceac68cceeb" },
@@ -59,6 +60,7 @@
     { "file": "runs-2026-08-02-id-W-3x-ulangan-summary.md", "source": "runs/2026-08-02-id-W-3x-ulangan/summary.md", "bytes": 1280, "sha256": "0fbb3206962d33a3bd719d85c4ee9a4c96e5c03b5a590bee51053d3be84da220" },
     { "file": "runs-2026-08-02-id-W-procurement-summary.md", "source": "runs/2026-08-02-id-W-procurement/summary.md", "bytes": 1276, "sha256": "56093359f7428d87e23c1e298a2669b56c79ffc44a8af72de02db154473bedcf" },
     { "file": "runs-2026-08-03-id-B-frasa-dibaurkan-summary.md", "source": "runs/2026-08-03-id-B-frasa-dibaurkan/summary.md", "bytes": 1611, "sha256": "994cc76a611c658bc5bd4d7f5bc5fcbc2498c3e498a91f2641ee85b28c489fa2" },
-    { "file": "runs-2026-08-05-jvA-anthropic-haiku-vs-sonnet-summary.md", "source": "runs/2026-08-05-jvA-anthropic-haiku-vs-sonnet/summary.md", "bytes": 1483, "sha256": "d861ca12b2ddc4174fcb7eb75ba449ad030044db2d31793f91cc8d003bfe4115" }
+    { "file": "runs-2026-08-05-jvA-anthropic-haiku-vs-sonnet-summary.md", "source": "runs/2026-08-05-jvA-anthropic-haiku-vs-sonnet/summary.md", "bytes": 1483, "sha256": "d861ca12b2ddc4174fcb7eb75ba449ad030044db2d31793f91cc8d003bfe4115" },
+    { "file": "runs-2026-08-06-idN-dua-model-murah-summary.md", "source": "runs/2026-08-06-idN-dua-model-murah/summary.md", "bytes": 1846, "sha256": "9a33072a601e2921e248be9ce87d0934218772c8fb15c4dad83969b2efc4aaf1" }
   ]
 }
