@@ -1,0 +1,13 @@
+{
+  "slug": "proper-nouns",
+  "title": "Tokens that are simultaneously a personal name and an ordinary word",
+  "published_at": "2026-08-05T07:19:40Z",
+  "source_commit": "0ff2a804",
+  "fingerprint": "389768c5aec2978f",
+  "license": "CC0 1.0",
+  "files": [
+    { "file": "proper-nouns-out-token_homograf.tsv", "source": "proper-nouns/out/token_homograf.tsv", "bytes": 75880, "sha256": "7966ff8b718e684827baf8ea48ba78bbe04a6919ef28616db5300c2a5dd26a9f" },
+    { "file": "proper-nouns-out-nama_orang_frekuen.tsv", "source": "proper-nouns/out/nama_orang_frekuen.tsv", "bytes": 167440, "sha256": "83b3ed472a0b4131e9e128dbbe52f18a23613df37614de215d5be0e3d70f9105" },
+    { "file": "proper-nouns-out-PROVENANCE.md", "source": "proper-nouns/out/PROVENANCE.md", "bytes": 1160, "sha256": "3c2688c35ba7be37dacca4aae4a485345b3dbc09b977dbfa61e582b030b1811d" }
+  ]
+}
