@@ -1,0 +1,757 @@
+id,name,iso639P3code,latitude,longitude,family_id,country_ids
+abai1241,Abai Tubu-Abai Sembuak,,3.524226,116.162455,aust1307,ID
+abin1243,Abinomn,bsa,-2.92281,138.891,,ID
+abui1241,Abui,abz,-8.31058,124.588,timo1261,ID
+abun1252,Abun,kgr,-0.57073,132.416,,ID
+achi1257,Acehnese,ace,3.90757,96.6032,aust1307,ID
+adab1235,Adabe,adb,-8.22674,125.576,book1242,ID TL
+adan1251,Adang,adn,-8.18958,124.448,timo1261,ID
+adon1237,Adonara,adr,-8.32027,123.159,aust1307,ID
+aghu1255,Aghu,ahh,-6.34674,140.043,nucl1709,ID
+airo1242,Airoran,air,-1.8522,138.158,kwer1242,ID
+alor1247,Alorese,aol,-8.20382,124.264,aust1307,ID
+alun1238,Alune,alp,-3.11477,128.394,aust1307,ID
+amah1245,Amahai,amq,-3.32028,128.939,aust1307,ID
+aman1265,Amanab,amn,-3.51516,141.178,bord1247,ID PG
+amar1273,Amarasi,aaz,-10.21751,123.96373,aust1307,ID
+amba1265,Ambai,amk,-1.88126,136.526,aust1307,ID
+ambe1246,Ambermo,,-1.763355,137.903651,uncl1493,ID
+ambe1248,Ambelau,amv,-3.85919,127.196,aust1307,ID
+ambo1250,Ambonese Malay,abs,-3.71342,128.184,aust1307,ID
+ampa1239,Ampanang,apg,-0.79259,116.349,aust1307,ID
+anak1240,Anakalang,akg,-9.63425,119.605,aust1307,ID
+anas1239,Anasi,bpo,-1.73908,137.716,book1242,ID
+andi1257,Andio,bzb,-0.88368,123.174,aust1307,ID
+angg1239,Angguruk Yali,yli,-4.0836,139.457,nucl1709,ID
+ansu1237,Ansus,and,-1.7543,135.866,aust1307,ID
+anus1237,Korur,auq,-2.26271,139.502,aust1307,ID
+aohe1237,Aoheng-Seputan,pni,0.87404,114.127,aust1307,ID
+aput1237,Aputai,apx,-7.84732,126.496,aust1307,ID
+aral1243,Aralle-Tabulahan,atq,-2.78397,119.319,aust1307,ID
+aran1237,Dombano,jbj,-2.08016,132.983,sout3418,ID
+argu1237,Arguni,agf,-2.645798,132.5556,aust1307,ID
+asil1242,Asilulu,asl,-3.67302,127.952,aust1307,ID
+asss1237,As,asz,-0.75267,131.728,aust1307,ID
+asue1235,Asue Awyu,psa,-5.98341,139.123,nucl1709,ID
+atoh1238,Atohwaim,aqm,-6.27123,138.666,kaya1327,ID
+auye1238,Auye,auu,-3.43705,136.096,nucl1709,ID
+awbo1238,Awbono,awh,-5.05875,139.724,bayo1259,ID
+awer1241,Awera,awr,-2.71886,136.063,lake1255,ID
+awyi1241,Awyi,auw,-3.00564,140.604,bord1247,ID
+baca1243,Bacanese Malay,btj,-0.62275,127.49,aust1307,ID
+bada1261,Bada (Indonesia),bhz,-1.80249,120.319,aust1307,ID
+badi1247,Ngkontar Baedi,khd,-8.85301,140.753,more1255,ID
+bagu1251,Bagusa,bqb,-1.98844,137.914,kwer1242,ID
+baha1257,Bahau,bhv,0.30801,115.332,aust1307,ID
+baha1258,Baham,bdw,-3.10628,132.637,west2604,ID
+baho1237,Bahonsuai,bsu,-2.22572,121.707,aust1307,ID
+baik1238,Baikeno,bkx,-9.32991,124.256,aust1307,ID TL
+baku1263,Bakumpai,bkr,-1.98842,114.77,aust1307,ID
+bala1314,Balaesang,bls,-0.05644,119.689,aust1307,ID
+bala1315,Balantak,blz,-0.86809,123.289,aust1307,ID
+bali1278,Balinese,ban,-8.35714,115.075,aust1307,ID
+bali1279,Balinese Malay,mhp,-8.355884,114.648391,aust1307,ID
+bali1287,Baliledu-Buawa,,-9.56709,119.49165,aust1307,ID
+bamb1270,Bambam,ptu,-3.02759,119.201,aust1307,ID
+band1353,Banda Malay,bpq,-4.55565,129.905,aust1307,ID
+band1355,Banda (Indonesia),bnd,-5.42138,133.142,aust1307,ID
+bang1365,Bangka,mfb,-1.73288,105.897,aust1307,ID
+bang1368,Banggai,bgz,-1.58305,123.171,aust1307,ID
+banj1239,Banjar,bjn,0.747105,115.79,aust1307,ID MY
+bant1286,Bantik,bnq,1.44586,124.846,aust1307,ID
+bara1367,Barakai,baj,-6.7394,134.671,aust1307,ID
+bara1371,Baras,brs,-1.5667,119.342,aust1307,ID
+bara1375,Barapasi,brp,-2.28732,137.054,geel1240,ID
+basa1286,Basap,bdb,1.41405,117.942,aust1307,ID
+bata1288,Batak Simalungun,bts,3.04372,98.9083,aust1307,ID
+bata1289,Batak Toba,bbc,2.35498,99.1761,aust1307,ID
+bata1290,Batak Angkola,akb,1.66127,99.60248,aust1307,ID
+bata1291,Batak Mandailing,btm,0.85805,99.898,aust1307,ID
+bata1292,Batak Alas-Kluet,btz,3.4293,97.8123,aust1307,ID
+bata1293,Batak Karo,btx,2.12787,98.2517,aust1307,ID
+bata1294,Batak Dairi,btd,2.51438,98.2427,aust1307,ID
+bata1295,Batanta,,-0.862394,130.646,aust1307,ID
+bati1253,Bati (Indonesia),bvt,-3.61403,130.815,aust1307,ID
+batu1258,Batuley,bay,-5.814412,134.784314,aust1307,ID
+batu1260,Batui,zbt,-1.254442,122.487151,aust1307,ID
+baub1235,Bau-Jagoi Bidayuh,sne,1.54467,109.985,aust1307,ID MY
+bauz1241,Bauzi,bvz,-2.44717,137.629,geel1240,ID
+bayo1260,Bayono,byl,-5.21728,139.617,bayo1259,ID
+bedo1237,Mbaruan,bed,-2.74438,132.566,aust1307,ID
+beka1241,Riuk Bekati',bei,1.3307,109.576,aust1307,ID
+beng1239,Kata Kolok,bqy,-8.383,115.098,sign1238,ID
+beng1287,Benggoi,bgy,-3.13924,130.091,aust1307,ID
+bent1237,Bentong,bnu,-4.76004,119.806,aust1307,ID
+beny1237,Benyadu',byd,0.78534,109.753,aust1307,ID
+bera1262,Berau Malay,bve,1.6687,117.934,aust1307,ID
+beri1254,Berik,bkl,-2.26904,138.866,toro1256,ID
+beso1237,Besoa,bep,-1.60095,120.379,aust1307,ID
+beta1252,Betawi,bew,-6.21174,107.022,aust1307,ID
+beta1253,Betaf,bfe,-2.12422,139.255,toro1256,ID
+biak1248,Biak,bhw,-0.9523,135.879,aust1307,ID
+bian1251,Bian Marind,bpv,-7.35942,140.568,anim1240,ID
+biat1246,Biatah Bidayuh,bth,1.17596,110.254,aust1307,ID MY
+biga1238,Biga,bhc,-1.99574,130.272,aust1307,ID
+bilb1242,Bilba,bpz,-10.6503,123.307,aust1307,ID
+bima1247,Bima,bhp,-8.57376,118.445,aust1307,ID
+bint1245,Bintauna,bne,0.75069,123.486,aust1307,ID
+biri1259,Biritai,bqq,-2.92042,137.68,lake1255,ID
+blag1240,Blagar,beu,-8.31787,124.251,timo1261,ID
+boan1242,Boano (Maluku),bzn,-2.95535,127.953,aust1307,ID
+boan1243,Boano (Sulawesi),bzl,0.51152,120.992,aust1307,ID
+bobo1254,Bobot,bty,-3.43514,130.179,aust1307,ID
+bobo1255,Bobongko,bgb,-0.36759,121.922,aust1307,ID
+bola1252,Bolango,bld,0.39044,123.888,aust1307,ID
+bolo1268,Bolongan,blj,2.75927,117.293,aust1307,ID
+bone1254,Bonerate,bna,-7.37657,121.792,aust1307,ID
+bone1255,Bonerif,bnv,-2.09529,139.208,toro1256,ID
+bong1287,Bonggo,bpg,-2.28044,139.576,aust1307,ID
+budo1241,Budong-Budong,bdx,-2.07756,119.327,aust1307,ID
+bugi1244,Buginese,bug,-4.47,119.977,aust1307,ID
+buka1257,Bukar-Sadung Bidayuh,sdo,0.96817,110.657,aust1307,ID MY
+buka1261,Bukat,bvk,1.29075,113.246,aust1307,ID MY
+buki1247,Bukit Malay,bvu,-2.75049,115.64,aust1307,ID
+buki1248,Bukitan,bkn,2.34947,114.895,aust1307,ID MY
+buli1255,Buli (Indonesia),bzq,1.0008,128.443,aust1307,ID
+buna1278,Bunak,bfn,-9.13618,125.216,timo1261,ID TL
+bung1269,Bungku,bkz,-3.22197,122.212,aust1307,ID
+buol1237,Buol,blf,0.97727,121.519,aust1307,ID
+bura1276,Burate,bti,-2.79301,136.038,geel1240,ID
+burm1264,Burmeso,bzu,-2.47582,138.203,,ID
+buru1303,Buru (Indonesia),mhs,-3.43957,126.632,aust1307,ID
+buru1304,Burusu,bqr,3.36912,117.012,aust1307,ID
+buru1307,Burumakok,aip,-5.12217,140.03,nucl1709,ID
+buru1308,Buruwai,asi,-3.54561,133.327,nucl1709,ID
+busa1254,Busami,bsm,-1.73681,136.032,aust1307,ID
+busa1255,Busang Kayan,bfg,0.03494,115.401,aust1307,ID
+buso1238,Busoa,bup,-5.60524,122.622,aust1307,ID
+camp1262,Campalagian,cml,-3.47851,119.16863,aust1307,ID
+casu1237,Casuarina Coast Asmat,asc,-6.43005,138.566,nucl1709,ID
+cent2053,South Barisan Malay,pse,-3.79673,103.137,aust1307,ID
+cent2072,Central Masela,mxz,-8.15414,129.865,aust1307,ID
+cent2117,Central Asmat,cns,-5.80391,138.471,nucl1709,ID
+cent2118,Central Awyu,awu,-6.29363,139.693,nucl1709,ID
+ciac1237,Cia-Cia,cia,-5.68289,122.791,aust1307,ID
+cita1245,Citak,txt,-5.58276,139.461,nucl1709,ID
+coas1295,Coastal Konjo,kjc,-5.41532,120.304,aust1307,ID
+coll1240,Col,liw,-3.52245,103.451,aust1307,ID
+daak1235,Da'a Kaili,kzf,-1.21051,119.527,aust1307,ID
+dabe1239,Dabe,dbe,-2.05082,139.116,toro1256,ID
+daii1240,Dai,dij,-7.55894,129.687,aust1307,ID
+dakk1238,Dakka,dkk,-3.33671,119.235,aust1307,ID
+dama1272,Damal,uhn,-4.17345,137.496,,ID
+damp1237,Dampelas,dms,0.70234,120.219,aust1307,ID
+daoo1238,Dao,daz,-3.28643,136.421,nucl1709,ID
+dawe1237,Dawera-Daweloor,ddw,-7.76324,130.06,aust1307,ID
+dela1251,Dela-Oenale,row,-10.8469,122.852,aust1307,ID
+demi1242,Demisa,dei,-2.54564,136.694,geel1240,ID
+demm1245,Dem,dem,-3.72183,137.632,,ID
+demt1241,Demta,dmy,-2.38475,140.166,sent1261,ID
+deng1253,Dengka,dnk,-10.7866,122.946,aust1307,ID
+dera1245,Dera (Indonesia),kbv,-3.52309,140.947,sena1264,ID PG
+dhao1237,Dhao,nfa,-10.8098,122.658,aust1307,ID
+diuw1238,Diuwe,diy,-5.12627,139.455,nucl1709,ID
+dobe1238,Dobel,kvo,-6.32531,134.638,aust1307,ID
+dond1249,Dondo,dok,0.80348,120.707,aust1307,ID
+dout1240,Doutai,tds,-3.24832,138.22,lake1255,ID
+duan1242,Duano,dup,0.72162,103.46759,aust1307,ID MY
+dubu1240,Dubu,dmu,-3.62591,140.768,pauw1244,ID
+duri1242,Duri,mvp,-3.37081,119.871,aust1307,ID
+duri1243,Duriankere,dbn,-1.348,130.958,sout3418,ID
+dusn1237,Dusner,dsn,-2.73859,134.391,aust1307,ID
+dusu1267,Dusun Witu,duw,-1.57408,114.979,aust1307,ID
+dusu1269,Dusun Malang,duq,-0.85277,115.392,aust1307,ID
+dusu1271,Dusun Deyah,dun,-1.95514,115.578,aust1307,ID
+duvl1238,Duvle-Wano-Pidgin,,-3.013068,138.200358,pidg1258,ID
+duvl1242,Duvle,duv,-3.21832,137.964,lake1255,ID
+east2440,East Makian,mky,0.07337,127.423,aust1307,ID
+east2462,East Masela,vme,-8.13455,129.873,aust1307,ID
+east2465,East Tarangan,tre,-6.76213,134.288,aust1307,ID
+east2472,East Damar,dmr,-7.16991,128.636,aust1307,ID
+east2485,Eastern Penan,pez,4.5915,114.584,aust1307,BN ID MY
+eder1237,Edera Awyu,awy,-7.0038,139.914,nucl1709,ID
+edop1238,Edopi,dbf,-3.11078,137.387,lake1255,ID
+eipo1242,Eipomek,eip,-4.33691,140.045,nucl1709,ID
+ekar1243,Ekari,ekg,-3.88974,136.018,nucl1709,ID
+elpa1240,Elpaputih,elp,-3.078,128.263,book1242,ID
+else1239,Elseng,mrf,-3.00176,140.418,,ID
+emba1238,Embaloh,emb,1.3156,112.63,aust1307,ID
+empl1237,Emplawas,emw,-8.03209,129.721,aust1307,ID
+emum1240,Emumu,enr,-3.74242,140.903,pauw1244,ID
+ende1246,Ende,end,-8.70998,121.555,aust1307,ID
+engg1245,Enggano,eno,-5.38846,102.245,aust1307,ID
+enre1239,Enrekang,ptt,-3.53848,119.66,aust1307,ID
+erit1239,Eritai,ert,-2.71182,138.053,lake1255,ID
+erok1237,Yarikman,erw,-2.83746,132.705,aust1307,ID
+faiw1243,Faiwol,fai,-5.4967,141.656,nucl1709,ID PG
+fayu1238,Fayu,fau,-3.14497,136.867,lake1255,ID
+foau1240,Abawiri,flh,-3.04582,139.213,lake1255,ID
+ford1242,Fordata,frd,-7.28902,131.511,aust1307,ID
+gale1259,Galela,gbi,2.31461,128.44,nort2923,ID
+galo1243,Galoli-Talur,gal,-8.61074,125.959,aust1307,ID TL
+gamk1238,Gamkonora,gak,1.34308,127.506,nort2923,ID
+gane1237,Gane,gzn,-0.42618,127.976,aust1307,ID
+gayo1244,Gayo,gay,4.3733,97.3456,aust1307,ID
+gebe1237,Gebe,gei,-0.07877,129.424,aust1307,ID
+gese1240,Geser-Gorom,ges,-3.8016,130.701,aust1307,ID
+gora1261,Gorap,goq,2.13058,128.261,aust1307,ID
+goro1259,Gorontalo,gor,0.62689,122.288,aust1307,ID
+gres1240,Gresi,grs,-2.72229,140.279,nimb1257,ID
+haji1235,Haji,hji,-5.07781,104.714,aust1307,ID
+hama1240,Hamap,hmu,-8.26749,124.522,timo1261,ID
+haru1244,Haruku,hrk,-3.57029,128.476,aust1307,ID
+hata1243,Hatam,had,-1.13531,134.037,hata1242,ID
+helo1243,Helong,heg,-10.2647,123.377,aust1307,ID
+high1275,Highland Konjo,kjk,-5.26559,119.928,aust1307,ID
+hitu1239,Hitu,htu,-3.57478,128.186,aust1307,ID
+horu1241,Horuru,hrr,-3.12875,129.387,book1242,ID
+hoti1237,Hoti of East Seram,hti,-3.0083,130.168,aust1307,ID
+hovo1239,Hobongan,hov,0.9841,113.897,aust1307,ID
+huau1237,Huaulu,hud,-2.95835,129.202,aust1307,ID
+huku1237,Hukumina,huw,-3.274,126.194,aust1307,ID
+hulu1246,Hulung,huk,-2.87389,128.587,aust1307,ID
+hupl1238,Hupla,hap,-4.36349,139.164,nucl1709,ID
+iauu1242,Iau,tmu,-3.14537,137.69,lake1255,ID
+iban1264,Iban,iba,2.09041,112.934,aust1307,BN ID MY
+ibuu1240,Ibu,ibu,1.50556,127.542,nort2923,ID
+ihaa1241,Iha,ihp,-2.81013,132.271,west2604,ID
+ihab1241,Iha-based Pidgin,ihb,-2.935,132.294,pidg1258,ID
+ilea1237,Ile Ape,ila,-8.38636,123.442,aust1307,ID
+iliu1237,Ili'uun,ilu,-7.84385,125.902,aust1307,ID
+imro1237,Imroing,imr,-7.96772,129.651,aust1307,ID
+indo1291,Jakartan Sign Language,inl,-7.908,112.378,sign1238,ID
+indo1316,Standard Indonesian,ind,-7.33458,109.716,aust1307,ID NL PH SA SG US
+indo1317,Indonesian Bajau,bdl,-3.68664,122.253,aust1307,ID
+irar1238,Irarutu,irh,-2.94438,133.586,aust1307,ID
+ires1239,Yerisiam,ire,-3.62803,135.025,aust1307,ID
+isir1237,Isirawa,srl,-1.88775,138.595,kwer1242,ID
+isya1234,Isyarat Lama Asli Bali,,-8.54133,115.32536,sign1238,ID
+isya1235,Isyarat Lama Cicendo,,-6.91094,107.60412,sign1238,ID
+itik1240,Itik,itx,-2.18342,139.341,toro1256,ID
+iwur1240,Morop-Dintere,iwo,-5.11036,140.823,nucl1709,ID
+jair1235,Kia River Awyu,awv,-6.79732,140.104,nucl1709,ID
+jamb1236,Jambi Malay,jax,-2.6469,103.13,aust1307,ID
+jang1257,Jangkang,djo,0.29738,110.647,aust1307,ID
+java1254,Javanese,jav,-7.001,109.287,aust1307,ID MY
+javi1237,Javindo,jvd,-7.032902,110.419809,indo1319,ID
+jofo1235,Jofotek-Bromnya,jbr,-2.2478,139.2969,toro1256,ID
+kabo1247,Kabola,klz,-8.17316,124.539,timo1261,ID
+kabu1249,Kaburi,uka,-1.92547,132.528,sout3418,ID
+kada1286,Kadai,kzd,-1.74547,125.142,aust1307,ID
+kaer1234,Kaera,jka,-8.3287,124.0177,timo1261,ID
+kafo1240,Kafoa,kpu,-8.36572,124.446,timo1261,ID
+kaib1244,Kaibobo,kzb,-3.1603,128.211,aust1307,ID
+kaid1239,Kaidipang,kzp,0.85641,123.217,aust1307,ID
+kaim1241,Kaimbulawa,zka,-5.65447,122.538,aust1307,ID
+kais1235,Kais,kzm,-1.78077,132.312,sout3418,ID
+kaiy1239,Kaiy,tcq,-2.94448,138.161,lake1255,ID
+kala1256,Kalabra,kzz,-1.43074,131.617,west1493,ID
+kala1394,Kalao,kly,-7.31213,120.995,aust1307,ID
+kalu1247,Kalumpang,kli,-2.33388,119.474,aust1307,ID
+kama1362,Kamarian,kzx,-3.40779,128.526,aust1307,ID
+kama1364,Kamaru,kgx,-5.15696,123.045,aust1307,ID
+kama1365,Kamang,woi,-8.26897,124.792,timo1261,ID
+kamb1299,Kambera,xbr,-9.88447,120.235,aust1307,ID
+kamb1302,North Kamrau,irx,-3.53189,133.518,nucl1709,ID
+kamo1255,Kamoro,kgq,-4.30433,135.883,nucl1709,ID
+kang1289,Kangean,kkv,-7.98335,112.968,aust1307,ID
+kaoo1238,Kao,kax,1.16654,127.847,nort2923,ID
+kapo1250,Kapori,khp,-3.52696,139.766,,ID
+kapt1235,Kaptiau,kbi,-2.388426,139.795818,aust1307,ID
+kara1499,Kalamang,kgv,-3.47037,132.678,west2604,ID
+kare1339,Karey,kyd,-6.74181,134.375,aust1307,ID
+karo1303,Karon Dori,kgw,-0.7871,132.663,mayb1237,ID
+kaur1269,Kaur,vkk,-4.6251,103.512,aust1307,ID
+kaur1271,Kaure-Narau,bpp,-3.39188,140.14,kaur1274,ID
+kauw1242,Kauwera,xau,-2.22799,138.157,kwer1242,ID
+kawe1240,Kawe,kgb,-0.17313,130.327,aust1307,ID
+kawi1241,Kawi,kaw,-7.0,111.0,aust1307,ID
+kaya1324,Kayan Mahakam,xay,0.91787,114.452,aust1307,ID
+kaya1325,Kayan River Kayan,xkn,1.78269,115.827,aust1307,ID
+kaya1328,Kayagar,kyt,-6.37677,138.932,kaya1327,ID
+kaye1241,Kayeli,kzl,-3.39247,127.118,aust1307,ID
+kayu1243,Kayupulau,kzu,-2.54455,140.72068,aust1307,ID
+keda1252,Kedang,ksx,-8.23039,123.77,aust1307,ID
+kede1239,Keder,kdy,-2.03589,139.081,toro1256,ID
+kehu1238,Kehu,khh,-3.19328,136.14,,ID
+keii1239,Kei,kei,-5.63948,133.02,aust1307,ID
+kela1258,Kelabit,kzi,3.31783,115.428,aust1307,BN ID MY
+kelo1247,Klon,kyo,-8.40688,124.429,timo1261,ID
+kema1243,Kemak,kem,-9.00299,125.159,aust1307,ID TL
+kemb1235,Kemberano,bzp,-2.24495,132.988,sout3418,ID
+kemb1249,Mateq,xem,0.66181,110.468,aust1307,ID MY
+kemb1250,Kembra,xkw,-3.89065,140.434,lepk1239,ID
+kemt1242,Kemtuik,kmt,-2.64894,140.372,nimb1257,ID
+kend1254,Kendayan-Belangin,knx,1.47957,109.467,aust1307,ID MY
+keni1248,Keninjal,knl,-0.63184,111.808,aust1307,ID
+keoo1238,Kéo,xxk,-8.8704,121.256,aust1307,ID
+kepo1237,Kepo',kuk,-8.603241,120.775273,aust1307,ID
+kere1285,Kereho,xke,0.64649,113.644,aust1307,ID
+keri1250,Kerinci,kvr,-1.93668,101.403,aust1307,ID
+kete1254,Ketengban,xte,-4.50417,140.443,nucl1709,ID
+ketu1238,Ketum,ktt,-5.34647,140.604,nucl1709,ID
+kima1246,Kimaama,kig,-8.01899,138.355,kolo1268,ID
+kimk1238,Kimki,sbt,-4.2742,140.884,,ID
+kiok1239,Kioko,ues,-4.99012,122.951,aust1307,ID
+kiri1256,Kirikiri,kiy,-3.18494,137.282,lake1255,ID
+kisa1266,Kisar,kje,-8.05122,127.18,aust1307,ID
+koba1240,Koba,kpd,-6.47901,134.61,aust1307,ID
+kode1237,Kodeoha,vko,-3.39566,120.937,aust1307,ID
+kodi1247,Kodi,kod,-9.6373,119.114,aust1307,ID
+kofe1239,Kofei,kpi,-2.414345,136.813619,geel1240,ID
+kohi1250,Kohin,kkx,-1.43973,111.905,aust1307,ID
+koke1241,Kokenop Mandobo,,-5.551923,140.598971,nucl1709,ID
+koko1265,Kokoda,xod,-2.12872,132.449,sout3418,ID
+kola1285,Kola,kvv,-5.48833,134.592,aust1307,ID
+kolo1266,Kolo,,-8.3727,118.7209,aust1307,ID
+komb1274,Kombai,tyn,-5.54543,139.902,nucl1709,ID
+kome1238,Komering,kge,-3.79215,105.107,aust1307,ID
+komo1261,Komodo,kvh,-8.64518,119.477,aust1307,ID
+komp1237,Kompane,kvp,-5.64348,134.742,aust1307,ID
+komy1238,Komyandaret,kzv,-5.25453,140.213,nucl1709,ID
+kond1303,Yaben (Konda),knd,-1.82635,132.06,kond1302,ID
+kone1241,Koneraw,kdw,-8.37424,138.0675,momb1255,ID
+kopk1238,Kopkaka,opk,-4.91191,139.926,nucl1709,ID
+kora1298,Korapun-Bromley,,-4.535733,139.680215,nucl1709,ID
+koro1311,Koroni,xkq,-2.6367,121.977,aust1307,ID
+koro1312,Korowai,khe,-5.26952,140.047,nucl1709,ID
+koru1245,Korupun-Sela,kpq,-4.53497,139.678,nucl1709,ID
+kosa1249,Kosarek Yale,kkl,-4.06603,139.645,nucl1709,ID
+kosa1251,Kosadle,kiq,-3.78748,140.197,kaur1274,ID
+kota1275,Kota Bangun Kutai Malay,mqg,-0.27049,116.297,aust1307,ID
+kowi1239,Kowiai,kwh,-4.21954,133.468,aust1307,ID
+kubu1239,Kubu,kvb,-2.42661,102.193,aust1307,ID
+kuii1253,Kui (Indonesia),kvd,-8.38204,124.791,timo1261,ID
+kula1280,Kula (Indonesia),tpg,-8.2384,125.004,timo1261,ID
+kuli1254,Kulisusu,vkl,-4.58411,123.045,aust1307,ID
+kumb1274,Kumbewaha,xks,-5.34485,123.154,aust1307,ID
+kupa1239,Kupang Malay,mkn,-10.2526,123.63,aust1307,ID
+kuri1260,Nabi,nbn,-2.80683,134.098,aust1307,ID
+kurr1245,Kur,kuv,-5.34077,131.986,aust1307,ID
+kuru1305,Kurudu,kjr,-1.8444,137.018,aust1307,ID
+kwer1263,Kwerba Mamberamo,xwr,-2.56457,138.436,kwer1242,ID
+kwer1264,Kwerisa,kkb,-2.99145,138.135,lake1255,ID
+kwer1265,Kwer,kwr,-5.02008,140.012,nucl1709,ID
+kwes1245,Kwesten,kwt,-2.03622,138.853,toro1256,ID
+kwin1242,Kwinsu,kuc,-2.3038,139.5137,toro1256,ID
+laba1241,Laba,lau,1.66675,127.583,book1242,ID
+laha1251,Laha (Indonesia),lhh,-3.70755,128.073,aust1307,ID
+laiy1246,Laiyolo,lji,-6.45512,120.483,aust1307,ID
+lama1277,Lamaholot,slp,-8.36439,122.803,aust1307,ID
+lama1278,Peripheral Lembata,lmr,-8.53225,123.442,aust1307,ID
+lama1279,Lamatuka,lmq,-8.39374,123.586,aust1307,ID
+lamb1273,Lamboya,lmy,-9.70434,119.344,aust1307,ID
+lamm1241,Western Pantar,lev,-8.52787,124.057,timo1261,ID
+lamp1242,Lampung Nyo,abl,-4.43957,105.397,aust1307,ID
+lamp1243,Lampung Api,ljp,-5.73463,105.037,aust1307,ID
+lara1260,Larantuka Malay,lrt,-8.4746,122.7619,aust1307,ID
+lari1255,Larike-Wakasihu,alo,-3.76522,127.956,aust1307,ID
+lasa1237,Lasalimu,llm,-5.23602,123.129,aust1307,ID
+lata1235,Latala,,2.85,117.1,uncl1493,ID
+latu1237,Latu,ltu,-3.41302,128.667,aust1307,ID
+lauj1238,Lauje,law,0.50708,120.262,aust1307,ID
+lawa1257,Lawangan,lbx,-1.80261,115.876,aust1307,ID
+ledo1238,Ledo Kaili,lew,-1.03033,120.132,aust1307,ID
+lege1241,Legenyem,lcc,-0.3592,130.749,aust1307,ID
+lemo1243,Lemolang,ley,-2.63313,120.27,aust1307,ID
+leng1260,Lengilu,lgi,3.69641,115.91,aust1307,ID
+lepk1238,Lepki,lpe,-4.1059,140.464,lepk1239,ID
+leti1246,Leti (Indonesia),lti,-8.19808,127.674,aust1307,ID
+levu1239,Central Lembata-Lewokukun,lvu,-8.47094,123.44,aust1307,ID
+lewo1243,Lewo Eleng,lwe,-8.35741,123.652,aust1307,ID
+lewo1244,Lewotobi,lwt,-8.54573,122.747,aust1307,ID
+liab1237,Liabuku,lix,-5.32268,122.699,aust1307,ID
+lian1255,Liana-Seti,ste,-3.11832,129.899,aust1307,ID
+liki1241,Liki,lio,-1.60652,138.731,aust1307,ID
+lind1248,Tado-Lindu,klw,-1.35748,120.063,aust1307,ID
+lioo1240,Li'o,ljl,-8.68615,121.832,aust1307,ID
+lisa1239,Lisabata-Nuniali,lcs,-2.87434,128.265,aust1307,ID
+lise1239,Lisela,lcl,-3.27358,126.981,aust1307,ID
+lola1248,Lola,lcd,-6.34188,134.879,aust1307,ID
+lola1250,Lolak,llq,0.85544,124.117,aust1307,ID
+lole1239,Lole,llg,-10.8069,123.085,aust1307,ID
+lolo1264,Loloda-Laba,loa,1.95461,127.772,nort2923,ID
+lonc1237,Loncong,lce,-0.02586,103.548,aust1307,ID
+lora1237,Lorang,lrn,-6.30338,134.41,aust1307,ID
+loun1239,Loun,lox,-2.8778,128.912,aust1307,ID
+lowe1415,Lower Grand Valley Dani,dni,-4.25684,138.992,nucl1709,ID
+luan1263,Luang,lex,-8.18378,127.944,aust1307,ID
+lubu1241,Lubu,lcf,0.63989,99.74549,aust1307,ID
+luhu1243,Luhu-Piru,lcq,-3.13187,127.966,aust1307,ID
+lund1271,Lundayeh,lnd,4.25064,115.5,aust1307,BN ID MY
+maan1238,Ma'anyan,mhy,-2.1239,115.092,aust1307,ID
+maba1278,Maba (Indonesia),mqa,0.59011,128.418,aust1307,ID
+made1253,Salawati,xmx,-1.05325,130.833,aust1307,ID
+maib1239,Maybrat,ayz,-1.3679,132.591,mayb1237,ID
+main1275,Usun Apau Kenyah,xkl,3.42975,116.47431,aust1307,ID MY
+maiw1250,Maiwa (Indonesia),wmm,-3.59444,119.978,aust1307,ID
+maka1305,Makassar Malay,mfp,-5.16108,119.408,aust1307,ID
+maka1311,Makasar,mak,-5.65551,119.838,aust1307,ID
+makl1246,Maklew,mgf,-7.74424,139.273,bula1259,ID
+mala1479,Central Malay,zlm,1.85856,103.0,aust1307,ID MY SG TH
+mala1480,Malayic Dayak,xdy,-2.78384,111.136,aust1307,ID
+mala1481,Manado Malay,xmm,1.48099,124.843,aust1307,ID
+mali1283,Malimpung,mli,-3.6996,119.76,aust1307,ID
+mama1276,Mamasa,mqj,-3.0811,119.484,aust1307,ID
+mamb1305,Mamboru,mvd,-9.42302,119.55,aust1307,ID
+mamu1255,Mamuju,mqx,-2.50762,119.082,aust1307,ID
+mand1442,Mandar,mdr,-3.34717,119.068,aust1307,ID
+mand1443,Mander,mqr,-2.29479,138.751,toro1256,ID
+mand1444,Mandobo Atas,aax,-5.69357,140.624,nucl1709,ID
+mand1445,Mandobo Bawah,bwp,-6.37255,140.451,nucl1709,ID PG
+mane1266,Manem,jet,-2.99145,141.02,bord1247,ID PG
+mang1405,Manggarai,mqy,-8.55748,120.329,aust1307,ID
+mani1235,Sougb,mnx,-1.49611,133.95,east1459,ID
+mani1297,Manipa,mqp,-3.30342,127.565,aust1307,ID
+mano1275,Manombai,woo,-5.94468,134.329,aust1307,ID
+mans1260,Mansim,,-0.915054,134.011116,hata1242,ID
+manu1258,Manusela,wha,-3.1109,129.429,aust1307,ID
+mapi1250,Mapia,mpy,0.908889,134.304722,aust1307,ID
+mara1397,Marau,mvr,-1.66738,135.797,aust1307,ID
+mare1261,Maremgi,mrx,-2.31915,139.673,toro1256,ID
+mari1430,Mariri,mqi,-6.15097,134.88107,aust1307,ID
+masi1265,Masimasi,ism,-2.00717,139.04,aust1307,ID
+masi1266,Masiwang,bnf,-3.29547,130.601,aust1307,ID
+mass1263,Massep,mvs,-1.74679,138.294,,ID
+matb1237,Matbat,xmt,-1.8801,130.075,aust1307,ID
+mawe1251,Mawes,mgk,-2.36944,139.752,,ID
+maya1282,Misool-Salawati Ma'ya,slz,-1.22329,130.909,aust1307,ID
+mekw1241,Mekwei,msf,-2.52264,140.326,nimb1257,ID
+mend1267,Mendalam Kayan,xkd,0.98794,113.286,aust1307,ID
+ment1249,Mentawai,mwv,-1.41092,98.9401,aust1307,ID
+ment1251,Menterap,,-0.293181,110.670512,aust1307,ID
+meos1237,Meoswar,mvx,-2.07828,134.378,aust1307,ID
+merr1239,Mer,mnu,-3.3828,134.731,mair1253,ID
+meya1236,Meyah,mej,-1.18016,133.618,east1459,ID
+midg1235,Mid Grand Valley Dani,dnt,-4.06322,138.945,nucl1709,ID
+mina1268,Minangkabau,min,-0.896,100.44,aust1307,ID
+mlap1238,Mlap,kja,-2.57316,140.264,nimb1257,ID
+moda1244,Modang,mxd,0.80793,116.573,aust1307,ID
+modo1249,Modole,mqo,1.40199,127.752,nort2923,ID
+moii1235,Moi (Indonesia),mxn,-0.96532,131.52,west1493,ID
+moks1249,Moksela,vms,-3.098,128.654,unat1236,ID
+molo1262,Molof,msl,-3.41946,140.557,,ID
+moma1242,Moma,myl,-1.4313,120.009,aust1307,ID
+momi1242,Momina,mmb,-4.812,139.821,book1242,ID
+momu1241,Momuna,mqf,-5.04431,139.26,,ID
+mong1342,Mongondow,mog,0.64616,124.114,aust1307,ID
+moni1261,Moni,mnz,-3.72962,136.886,nucl1709,ID
+mora1239,Moraid,msg,-1.04083,131.965,west1493,ID
+morb1239,Mor (Bomberai Peninsula),moq,-2.85747,132.845,,ID
+mori1268,Mori Bawah,xmz,-2.56016,121.37,aust1307,ID
+mori1269,Mori Atas,mzq,-2.2555,121.035,aust1307,ID
+morm1235,Mor (Mor Islands),mhz,-2.87055,135.95,aust1307,ID
+moro1287,Moronene,mqn,-4.62361,121.824,aust1307,ID
+moro1289,Marori,mok,-8.5692,140.688,,ID
+mosk1236,Moskona,mtj,-1.62201,133.145,east1459,ID
+mpur1239,Mpur,akc,-0.7489,133.166,,ID
+mual1241,Mualang,mtd,0.31083,111.077,aust1307,ID
+muna1247,Muna,mnb,-5.40419,122.541,aust1307,ID
+mung1269,Munggui,mth,-1.66773,135.918,aust1307,ID
+murk1238,Murkim,rmh,-4.07548,140.913,lepk1239,ID
+musi1241,Musi,mui,-2.93987,103.945,aust1307,ID
+nafr1241,Nafri,nxx,-2.65036,140.727,sent1261,ID
+nage1237,Nage,nxe,-8.70513,121.31,aust1307,ID
+naka1263,Naka'ela,nae,-2.85543,128.516,aust1307,ID
+naka1265,Nakai,nkj,-5.19377,140.512,nucl1709,ID
+nalc1240,Nalca,nlc,-4.26068,139.883,nucl1709,ID
+naml1240,Namla,naa,-3.58,140.66,naml1239,ID
+namu1249,Namut-Nginamanu,,-8.578948,120.975435,aust1307,ID
+napu1241,Napu,npy,-1.43707,120.338,aust1307,ID
+nara1265,Narau,nxu,-3.43594,139.876,book1242,ID
+nasa1239,Nasal,nsy,-4.8652,103.5719,aust1307,ID
+ndom1245,Ndom,nqm,-7.93553,138.019,kolo1268,ID
+ndug1245,Nduga,ndx,-4.34043,138.411,nucl1709,ID
+nede1245,Nedebang,nec,-8.28776,124.192,timo1261,ID
+ngad1261,Ngad'a,nxg,-8.79508,120.976,aust1307,ID
+ngaj1237,Ngaju,nij,-1.58463,112.794,aust1307,ID
+ngal1298,Ngalum,szb,-4.67682,141.03,nucl1709,ID PG
+ngga1239,Garo (Sumba),,-9.71011,119.25403,aust1307,ID
+ngge1241,Nggem,nbq,-3.62735,139.011,nucl1709,ID
+ngka1235,Ngkontar Ngkolmpu,kcd,-8.87044,140.818,more1255,ID PG
+nias1242,Nias,nia,0.90691,97.4961,aust1307,ID
+nila1244,Nila,nil,-6.734956,129.512131,aust1307,ID TL
+ning1274,Ninggerum,nxr,-5.43194,141.158,nucl1709,ID PG
+nini1235,Ninia Yali,nlk,-4.4737,139.39,nucl1709,ID
+nips1240,Nipsan,nps,-4.14421,139.753,nucl1709,ID
+nisa1239,Nisa-Anasi,njs,-1.95386,137.6,geel1240,ID
+nort2828,North Moluccan Malay,max,-0.86437,128.323,aust1307,ID
+nort2860,North Babar,bcd,-7.84311,129.743,aust1307,ID
+nort2864,Wemale,weo,-3.05143,128.839,aust1307,ID
+nort2867,North Nuaulu,nni,-2.93154,129.277,aust1307,ID
+nort2916,North Muyu,kti,-5.55319,140.84,nucl1709,ID
+nort2917,Momogo-Pupis-Irogo,nks,-4.89854,138.405,nucl1709,ID
+nort2918,North Awyu,yir,-5.93647,140.068,nucl1709,ID
+nucl1452,Mombum,mso,-8.27141,138.773,momb1255,ID
+nucl1454,Yawa,yva,-1.77196,136.263,yawa1259,ID
+nucl1460,Madurese,mad,-7.0,113.0,aust1307,ID
+nucl1594,Mairasi,zrs,-3.4511,134.071,mair1253,ID
+nucl1595,Kwerba,kwe,-2.2137,138.486,kwer1242,ID
+nucl1622,Marind,mrz,-8.15651,140.009,anim1240,ID PG
+nucl1632,Sentani,set,-2.6013,140.512,sent1261,ID
+nucl1633,Nimboran,nir,-2.5803,140.179,nimb1257,ID
+nucl1634,Skou,skv,-2.64378,140.902,skoo1245,ID
+nusa1245,Nusa Laut,nul,-3.67727,128.776,aust1307,ID
+obok1239,Obokuitai,afz,-2.88029,137.924,lake1255,ID
+oira1263,Oirata,oia,-8.09044,127.201,timo1261,ID
+okol1241,Okolod,kqv,4.53989,115.753,aust1307,ID MY
+oldm1243,Old Malay,,-0.648259,103.353479,aust1307,ID
+onin1237,Onin Pidgin,onx,-2.83,132.083,pidg1258,ID
+onin1245,Onin,oni,-2.75976,132.062,aust1307,ID
+ormu1248,Ormu,orz,-2.51361,140.6015,aust1307,ID
+orya1242,Orya,ury,-2.76483,139.89,toro1256,ID
+osin1237,Osing,osi,-8.25262,114.292,aust1307,ID
+otda1235,Ot Danum,otd,-0.3955,113.469,aust1307,ID
+pado1242,Padoe,pdo,-2.60642,121.236,aust1307,ID
+pagu1249,Pagu,pgu,1.2134,127.78,nort2923,ID
+paku1239,Paku,pku,-1.9063,115.087,aust1307,ID
+palu1237,Palumata,pmc,-3.024,128.762,unat1236,ID
+palu1252,Palu'e,ple,-8.32877,121.718,aust1307,ID
+pamo1252,Pamona,pmf,-1.62663,121.268,aust1307,ID
+pana1303,Panasuan,psn,-2.24049,119.65,aust1307,ID
+panc1247,Pancana,pnp,-5.29587,122.968,aust1307,ID
+pann1239,Pannei,pnc,-3.21973,119.191,aust1307,ID
+papa1269,Papasena,pas,-2.87535,138.605,lake1255,ID
+papu1250,Papuan Malay,pmy,-2.53482,139.651,aust1307,ID
+papu1251,Papuma,ppm,-1.77301,135.907,aust1307,ID
+pass1247,Pass Valley Yali,yac,-3.76869,139.26,nucl1709,ID
+pata1260,Patani,ptn,0.34096,128.634,aust1307,ID
+paul1238,Paulohi,plh,-3.25404,128.779,aust1307,ID
+pauw1243,Pauwi,,-1.65,137.8,aust1307,ID
+peka1242,Pekal,pel,-3.02248,101.691,aust1307,ID
+pend1242,Pendau,ums,-0.11396,119.862,aust1307,ID
+pera1256,Peranakan Indonesian,pea,-7.982,112.619,aust1307,ID
+pera1257,Perai,wet,-7.62349,126.576,aust1307,ID
+petj1238,Petjo,pey,-6.16593,106.8,indo1319,ID
+pidg1257,Pidgin Tukang Besi,,-5.30464,123.54364,pidg1258,ID
+piru1241,Piru,ppr,-3.05368,128.197,book1242,ID
+pode1237,Podena,pdn,-2.20572,139.456,aust1307,ID
+pomm1237,Pom,pmo,-1.64224,135.619,aust1307,ID
+pono1240,Ponosakan,pns,0.91716,124.712,aust1307,ID
+pose1234,Pose,,5.0615,97.45463,uncl1493,ID
+puka1244,Pukaunu,,-8.405661,122.690759,aust1307,ID
+puna1266,Punan Tubu,puj,2.86972,116.26,aust1307,ID
+puna1267,Punan Aput,pud,1.38035,116.089,aust1307,ID
+puna1268,Punan Merah,puf,0.50763,115.588,aust1307,ID
+puna1274,Punan Merap,puc,3.10143,116.251,book1242,ID
+pura1253,Puragi,pru,-2.05779,132.304,sout3418,ID
+puto1237,Putoh,put,3.42467,116.443,book1242,ID
+pyuu1245,Pyu,pby,-4.45003,141.018,,ID PG
+raha1237,Rahambuu,raz,-3.24627,121.059,aust1307,ID
+rajo1237,Rajong,rjg,-8.658096,120.874418,aust1307,ID
+ramp1243,Rampi,lje,-2.1399,120.356,aust1307,ID
+rara1235,Rara Bakati',lra,1.27026,109.539,aust1307,ID MY
+rasa1243,Rasawa,rac,-2.37609,136.352,lake1255,ID
+rata1244,Ratahan,rth,1.07592,124.858,aust1307,ID
+reja1240,Rejang,rej,-3.33056,102.434,aust1307,ID
+remb1250,Rembong-Wangka,reb,-8.53361,120.973,aust1307,ID
+rett1240,Reta,ret,-8.22481,124.36,timo1261,ID
+rian1263,Riantana,ran,-7.50746,138.484,kolo1268,ID
+ribu1241,Ribun,rir,0.32189,110.207,aust1307,ID
+ring1244,Ringgou,rgu,-10.5515,123.311,aust1307,ID
+riun1237,Riung,riu,-8.60342,121.122,aust1307,ID
+roma1332,Roma,rmm,-7.58643,127.428,aust1307,ID
+rong1269,Rongga,ror,-8.84604,120.702,aust1307,ID
+roon1237,Roon,rnn,-2.43005,134.556,aust1307,ID
+saba1265,Sa'ban,snv,3.58723,115.664,aust1307,ID MY
+sabu1255,Hawu,hvn,-10.5522,121.847,aust1307,ID
+sahu1245,Sahu,saj,1.00742,127.493,nort2923,ID
+saja1241,Sajau-Latti,sjb,2.43432,117.401,aust1307,ID
+sala1269,Salas,sgu,-3.14654,130.53,aust1307,ID
+sale1244,Saleman,sau,-2.82548,129.427,aust1307,ID
+salu1253,Saluan,loe,-0.873,122.746,aust1307,ID
+sama1240,Samarokena,tmj,-1.84878,138.34,kwer1242,ID
+sang1334,Sangar,,-8.376,118.29287,aust1307,ID
+sang1336,Sangir,sxn,3.50554,125.56523,aust1307,ID PH
+sang1339,Sanggau,scg,-0.13152,110.404,aust1307,ID
+sapa1251,Saparua,spr,-3.58314,128.639,aust1307,ID
+sapo1254,Saponi,spi,-2.385,136.497,lake1255,ID
+sara1329,Sara Bakati',sre,1.20403,109.6155,aust1307,ID
+sarr1247,Sar (Indonesia),,-8.33,124.42,timo1261,ID
+saru1242,Sarudu,sdu,-1.7094,119.349,aust1307,ID
+sasa1249,Sasak,sas,-8.58349,116.284,aust1307,ID
+saur1251,Sauri,srt,-2.33349,136.79,geel1240,ID
+saus1247,Sause,sao,-3.16632,139.627,,ID
+sawa1247,Sawai,szw,0.51111,128.086,aust1307,ID
+sawe1240,Saweru,swr,-1.91473,136.296,yawa1259,ID
+sawi1256,Sawila,swt,-8.29105,125.078,timo1261,ID
+sawi1257,Sawi,saw,-5.99286,138.643,nucl1709,ID
+sebe1242,Seberuang,sbx,-0.02463,111.212,aust1307,ID
+sedo1237,Sedoa,tvw,-1.37295,120.378,aust1307,ID
+sega1243,Segai,sge,1.97695,116.954,aust1307,ID
+sege1235,Seget,sbg,-1.36931,131.218,west1493,ID
+seit1239,Seit-Kaitetu,hik,-3.6111,128.068,aust1307,ID
+seka1247,Sekar,skz,-2.65849,132.469,aust1307,ID
+seko1242,Seko Tengah,sko,-2.22069,119.823,aust1307,ID
+seko1243,Seko Padang,skx,-2.14311,119.959,aust1307,ID
+sela1259,Selaru,slu,-8.18376,130.961,aust1307,ID
+sela1260,Selayar,sly,-6.10145,120.496,aust1307,ID
+selu1242,Seluwasan,sws,-7.59918,131.25,aust1307,ID
+selu1243,Selungai Murut,slg,4.34788,116.45,aust1307,ID MY
+sema1269,Onya Darat,sdm,-0.75188,110.527,aust1307,ID
+semb1240,Sembakung Murut,sbr,4.22102,116.799,aust1307,ID MY
+semi1264,Semimi,etz,-3.71553,134.454,mair1253,ID
+semp1241,Sempan,xse,-5.17582,137.588,nucl1709,ID
+seng1285,Senggi,snu,-3.41983,140.77,bord1247,ID
+sepa1242,Sepa (Indonesia),spb,-3.36682,129.243,aust1307,ID
+seri1255,Serili,sve,-8.11241,129.901,aust1307,ID
+seru1244,Serui-Laut,seu,-1.87766,136.252,aust1307,ID
+seru1245,Serua,srw,-6.31107,130.017294,aust1307,ID
+seru1246,Serudung Murut,srk,4.39954,117.279,aust1307,ID MY
+sian1254,Siang,sya,-0.38398,114.693,aust1307,ID
+sika1262,Sika,ski,-8.67302,122.38,aust1307,ID
+sika1263,Sikaritai,tty,-2.80285,138.287,lake1255,ID
+siku1242,Sikule,skh,2.69113,95.9636,aust1307,ID
+sili1249,Silimo,wul,-4.52544,139.003,nucl1709,ID
+sime1241,Simeulue,smr,2.50288,96.2757,aust1307,ID
+smar1235,Smärky Kanum,kxq,-8.91812,140.897,more1255,ID PG
+sobe1238,Sobei,sob,-1.86998,138.75,aust1307,ID
+sota1242,Sota Kanum,krz,-8.40452,140.969,more1255,ID PG
+sout2883,Southeast Babar,vbb,-7.94359,129.8,aust1307,ID
+sout2892,South Wemale,tlw,-3.29102,128.547,book1242,ID
+sout2895,South Nuaulu,nxl,-3.23411,129.148,aust1307,ID
+sout2896,Eastern Atadei,lmf,-8.49783,123.531,aust1307,ID
+sout2918,Southern Sama,ssb,4.755836,119.483887,aust1307,ID MY PH
+sout2940,South Muyu,kts,-6.01385,140.815,nucl1709,ID PG
+sout2941,South Awyu,aws,-7.36301,139.538,nucl1709,ID
+sout3241,Southern Tidung,itd,4.0,117.75,aust1307,ID
+sout3425,South Kamrau,,-3.62525,133.44698,nucl1709,ID
+sowa1245,Sowanda,sow,-3.28373,140.92,bord1247,ID PG
+suab1238,Suabo,szp,-2.07971,132.157,sout3418,ID
+suga1249,Suganga,sug,-4.5071,141.2,nucl1709,ID PG
+sula1248,Sula,szn,-2.30765,125.9656,aust1307,ID
+sumb1241,Sumbawa,smw,-8.71919,117.472,aust1307,ID
+sund1252,Sundanese,sun,-6.89708,107.106,aust1307,ID
+suwa1241,Suwawa,swu,0.4907,123.362,aust1307,ID
+taba1263,Tabaru,tby,1.46563,127.633,nort2923,ID
+tabl1243,Tabla,tnm,-2.45368,140.396,sent1261,ID
+taee1237,Tae',rob,-2.58205,120.139,aust1307,ID
+taga1273,Tagal Murut,mvv,4.42907,116.177,aust1307,ID MY
+taik1255,Taikat,aos,-2.9408,140.7495,bord1247,ID
+taje1237,Taje,pee,-0.72583,120.078,aust1307,ID
+taji1246,Tajio,tdj,-0.31553,120.01,aust1307,ID
+tala1285,Talaud,tld,4.11846,126.795,aust1307,ID
+tali1262,Taliabu,tlv,-1.79516,124.869,aust1307,ID
+talo1251,Talondo',tln,-2.4525,119.35,aust1307,ID
+talo1252,Taloki,tlk,-4.6478,122.872,aust1307,ID
+tama1335,Taman (Indonesia),tmn,1.00003,112.975,aust1307,ID
+tama1336,Tamagario,tcg,-6.64493,138.892,kaya1327,ID
+tamb1257,Tambora,xxt,-8.25,118.0,,ID
+tamn1235,Tamnim Citak,tml,-5.57962,139.233,nucl1709,ID
+tana1288,Tanahmerah,tcm,-2.5523,133.18,,ID
+tand1253,Tandia,tni,-2.84228,134.532,aust1307,ID
+tang1353,Tangko,tkx,-5.13343,140.269,nucl1709,ID
+tarp1240,Tarpia,tpf,-2.322279,140.115497,aust1307,ID
+taus1251,Tausug,tsg,5.12236,118.88,aust1307,ID MY PH
+taus1252,Tause,tad,-2.8406,136.899,lake1255,ID
+tawo1243,Tawoyan,twy,-1.30017,115.204,aust1307,ID
+tawo1244,Taworta,tbp,-3.43455,139.061,lake1255,ID
+tefa1238,Tefaro,tfo,-2.35042,136.753,geel1240,ID
+tehi1237,Tehit,kps,-1.51049,131.985,west1493,ID
+teiw1235,Teiwa,twe,-8.37662,124.174,timo1261,ID
+tela1241,Tela-Masbuar,tvm,-8.01195,129.687,aust1307,ID
+telu1263,Teluti,tlt,-3.2969,129.663,aust1307,ID
+teng1267,Tenggarong Kutai Malay,vkt,0.71803,117.645,aust1307,ID
+teng1272,Tengger,tes,-7.89069,113.037,aust1307,ID
+teor1240,Teor,tev,-4.74159,131.737,aust1307,ID
+tere1277,Tereweng,twg,-8.48063,124.271,timo1261,ID
+term1237,Termanu,twu,-10.7326,123.169,aust1307,ID
+tern1247,Ternate,tft,0.80562,127.333,nort2923,ID
+tern1248,Ternateño,tmg,14.28,120.72,indo1319,ID
+tetu1245,Tetum,tet,-9.11217,125.528,aust1307,ID TL
+teun1241,Te'un,tve,-6.97086,129.143718,aust1307,ID
+tido1248,Tidore,tvo,0.02461,127.746,nort2923,ID
+tiii1241,Tii,txq,-10.8425,122.963,aust1307,ID
+toal1234,Toala',tlz,,,book1242,ID
+toba1266,Tobati,tti,-2.56434,140.71,aust1307,ID
+tobe1252,Tobelo,tlb,1.0946,128.154,nort2923,ID
+tofa1246,Tofanma,tlg,-3.74322,140.591,naml1239,ID
+tola1247,Tolaki,lbw,-4.03577,121.888,aust1307,ID
+toma1248,Tomadino,tdi,-2.56493,121.944,aust1307,ID
+tomb1243,Tombulu,tom,1.39715,124.754,aust1307,ID
+tomb1245,Tombelala,ttp,-2.50998,121.915,aust1307,ID
+tomi1243,Tomini,txm,0.42569,120.89,aust1307,ID
+tond1251,Tondano,tdn,1.28024,124.964,aust1307,ID
+tons1239,Tonsawang,tnw,1.0539,124.652,aust1307,ID
+tons1240,Tonsea,txs,1.51393,125.052,aust1307,ID
+tont1239,Tontemboan,tnt,1.24813,124.654,aust1307,ID
+topo1243,Topoiyo,toy,-2.06702,119.314,aust1307,ID
+tora1261,Toraja-Sa'dan,sda,-2.97144,119.829,aust1307,ID
+toto1304,Totoli,txe,1.14995,120.875,aust1307,ID
+towe1240,Towei,ttn,-3.87428,140.803,pauw1244,ID
+trim1239,Trimuris,tip,-2.15863,138.027,kwer1242,ID
+trin1271,Tringgus-Sembaan Bidayuh,trx,1.4313,109.95,aust1307,ID MY
+tsak1250,Tsaukambo,kvz,-5.39076,140.186,nucl1709,ID
+tugu1245,Tugun,tzn,-7.72555,126.7,aust1307,ID
+tugu1246,Tugutil,tuj,0.5806,128.223,nort2923,ID
+tuka1248,Tukang Besi North,khc,-5.30994,123.578,aust1307,ID
+tuka1249,Tukang Besi South,bhq,-5.7478,123.948,aust1307,ID
+tule1244,Tulehu,tlu,-3.57785,128.31,aust1307,ID
+tung1293,Tunggare,trt,-3.37462,135.551,geel1240,ID
+tunj1244,Tunjung,tjg,-0.29048,115.883,aust1307,ID
+uabm1237,Uab Meto,aoz,-9.77284,124.144,aust1307,ID TL
+ujir1237,Ujir,udj,-5.69329,134.257,aust1307,ID
+ulum1237,Ulumanda',ulm,-3.00933,118.994,aust1307,ID
+umaa1242,Uma,ppk,-1.70416,119.968,aust1307,ID
+umal1238,Uma' Lung,ulu,3.25,116.5,aust1307,ID
+umal1239,Uma' Lasan,xky,2.14141,114.205,aust1307,ID MY
+unaa1239,Una,mtg,-4.69676,140.1,nucl1709,ID
+unde1235,Unde Kaili,unz,-0.85876,119.673,aust1307,ID
+uppe1430,Upper Grand Valley Dani,dna,-3.94368,138.901,nucl1709,ID
+urua1244,Uruangnirin,urn,-3.45498,132.745,aust1307,ID
+usku1243,Usku,ulf,-3.63853,140.502,,ID
+vito1235,Vitou,vto,-2.1111,139.1098,toro1256,ID
+wabo1240,Wabo,wbb,-1.77297,136.757,aust1307,ID
+waer1237,Kolor,wrx,-8.78645,120.70299,aust1307,ID
+waha1238,Eastern Lowland Kenyah,whk,1.56635,116.655,aust1307,ID
+waha1239,Wahau Kayan,whu,1.42088,116.6795,book1242,ID
+waig1244,Ambel,wgo,-0.17957,130.917,aust1307,ID
+waio1238,Waioli,wli,1.2341,127.494,nort2923,ID
+wakd1237,Wakde,wkd,-1.98457,139.008,aust1307,ID
+wala1269,Walak,wlw,-3.8238,138.84,nucl1709,ID
+wamb1259,Wambon,wms,-5.44334,140.48,nucl1709,ID
+wana1273,Wanam Yelmek,,-7.451,139.108,bula1259,ID
+wand1267,Wandamen,wad,-2.25622,133.996,aust1307,ID
+wang1299,Wanggom,wng,-5.60094,140.194,nucl1709,ID
+wano1243,Wano,wno,-3.47858,137.678,nucl1709,ID
+wanu1241,Wanukaka,wnk,-9.69834,119.468,aust1307,ID
+ware1253,Warembori,wsa,-1.65941,137.566,aust1307,ID
+ware1254,Wares,wai,-2.47357,139.337,unat1236,ID
+wari1264,Waritai,wbe,-3.23021,138.456,lake1255,ID
+wari1266,Waris,wrs,-3.139,140.931,bord1247,ID PG
+wark1247,Warkay-Bipim,bgv,-5.7716,138.638,anim1240,ID
+waro1242,Waropen,wrp,-2.31142,136.633,aust1307,ID
+waru1266,Waru,wru,-3.412,122.058,aust1307,ID
+watu1247,Watubela,wah,-4.47294,131.641,aust1307,ID
+wauy1237,Wauyai,wuy,-0.2828,130.597,aust1307,ID
+wawo1239,Wawonii,wow,-4.13587,123.1,aust1307,ID
+weje1237,Wewewa,wew,-9.55099,119.349,aust1307,ID
+wers1238,Wersing,kvw,-8.33936,124.932,timo1261,ID
+west2535,West Masela,mss,-8.1804,129.833,aust1307,ID
+west2538,West Tarangan,txn,-6.62046,134.168,aust1307,ID
+west2541,West Lembata,lmj,-8.49669,123.298,aust1307,ID
+west2548,West Damar,drn,-7.12065,128.585,aust1307,ID
+west2594,Western Dani,dnw,-3.77127,138.217,nucl1709,ID
+west2600,West Makian,mqs,0.45332,127.63,nort2923,ID
+woii1237,Woi,wbw,-1.62746,135.484,aust1307,ID
+wola1243,Wolani,wod,-3.41642,136.703,nucl1709,ID
+woli1241,Wolio,wlo,-5.33,122.67,aust1307,ID
+wori1246,Woria,wor,-2.37997,136.519,geel1240,ID
+wotu1240,Wotu,wtw,-2.59593,120.9,aust1307,ID
+wutu1244,Wutung,wut,-2.64636,141.104,skoo1245,ID PG
+yafi1240,Yafi,wfg,-3.39765,140.897,pauw1244,ID
+yaha1248,Yahadian,ner,-1.94317,132.096,kond1302,ID
+yala1266,Yalahatan-Haruru-Awaiya,jal,-3.3619,129.315,aust1307,ID
+yamd1240,Yamdena,jmd,-7.73722,131.44,aust1307,ID
+yamn1237,Yamna,ymn,-2.09118,139.206,aust1307,ID
+yaos1235,Yaosakor Asmat,asy,-5.61024,138.582,nucl1709,ID
+yaqa1246,Yaqay,jaq,-6.66632,139.249,anim1240,ID
+yars1234,Yarsun,yrs,-2.21222,139.472,book1242,ID
+yaur1239,Yaur,jau,-3.32519,134.879,aust1307,ID
+yeii1239,Yei,jei,-7.87489,140.863,more1255,ID PG
+yelm1242,Southern Yelmek,jel,-7.93,139.32,bula1259,ID
+yere1243,Yeretuar,gop,-3.01713,134.656,aust1307,ID
+yetf1238,Yetfa,yet,-4.05884,140.653,,ID PG
+yogy1234,Yogyakarta Sign Language,,-7.800018,110.368664,sign1238,ID
+yoke1238,Yoke,yki,-1.68798,138.028,aust1307,ID
+yong1280,Yonggom,yon,-6.42956,141.213,nucl1709,ID PG

@@ -1,0 +1,12 @@
+{
+  "slug": "regional-languages",
+  "title": "Per-province first-language aggregates derived from official Indonesian census figures, plus the Glottolog language catalogue (attribution: BPS-Statistics Indonesia; Glottolog CC BY 4.0)",
+  "published_at": "2026-08-05T07:33:18Z",
+  "source_commit": "0ff2a804",
+  "fingerprint": "6871c00f80e9671b",
+  "license": "CC BY 4.0",
+  "files": [
+    { "file": "bahasa-daerah-out-provinsi_bahasa_pertama.csv", "source": "bahasa-daerah/out/provinsi_bahasa_pertama.csv", "bytes": 1635, "sha256": "70fc4de991fed138d4026f7e27e821347d4746303ddff4a857d955a9dc2131ac" },
+    { "file": "bahasa-daerah-out-glottolog_indonesia.csv", "source": "bahasa-daerah/out/glottolog_indonesia.csv", "bytes": 39120, "sha256": "9ef961fab3c660152b844d9c01e976030bc32f000f03c718aa2b28a8109096c3" }
+  ]
+}
