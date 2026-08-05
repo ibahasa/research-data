@@ -17,7 +17,8 @@ sumber pihak ketiga di dalamnya, sehingga tidak ada syarat lisensi yang terseret
 | `rerata_tokens_out` | rerata token keluaran per panggilan |
 | `rerata_tokens_in` | rerata token masukan per panggilan |
 | `rerata_latency_detik` | rerata waktu satu panggilan, dari kirim sampai balasan lengkap |
-| `tokens_per_detik` | `rerata_tokens_out` dibagi `rerata_latency_detik` |
+| `median_latency_detik` | median waktu itu. **Ini angka yang sebaiknya dipakai**, lihat di bawah |
+| `tokens_per_detik_median` | `rerata_tokens_out` dibagi `median_latency_detik` |
 | `n_panggilan` | jumlah panggilan berhasil yang masuk hitungan |
 | `n_run` | jumlah run berbeda yang menyumbang |
 
@@ -51,6 +52,31 @@ gagal dan tidak ada satu pun pengukuran yang tersisa:
 
 Menampilkannya sebagai "0 token, 0,0 token per detik" akan terbaca sebagai
 pengukuran, padahal artinya model itu tidak pernah menjawab sekali pun.
+
+## Kenapa median disertakan, dan kenapa ia yang sebaiknya dipakai
+
+`latency_ms` mengukur waktu dinding satu panggilan, dan itu **termasuk jeda tunggu
+percobaan ulang di dalam klien** ketika penyedia menjawab 429 atau 5xx. Segelintir
+panggilan yang kebetulan menabrak penyedia yang sedang penuh karenanya membawa
+latensi puluhan detik, dan rerata ikut terseret.
+
+Seberapa jauh, diukur 2026-08-05:
+
+| Model | Rerata | Median | Rerata lebih tinggi |
+|---|---:|---:|---:|
+| `gpt-5.4-pro` | 30,5 dtk | 12,1 dtk | **152%** |
+| `claude-haiku-4-5` | 2,4 dtk | 1,0 dtk | **149%** |
+| `qwen-3.5-flagship` | 15,3 dtk | 9,8 dtk | 56% |
+| `mistral-small-3.2-24b` | 1,0 dtk | 1,0 dtk | 4% |
+
+Akibatnya bisa membalik kesimpulan. Pada run 5 Agustus 2026, `claude-haiku-4-5`
+tampak **52 persen lebih lambat** dari `claude-sonnet-4-6` menurut rerata (2,4
+lawan 1,6 detik), padahal menurut median ia **32 persen lebih cepat** (1,0 lawan
+1,4 detik). Penyedia sedang mengembalikan 529 selama giliran haiku, dan seluruh
+selisih itu adalah jeda tunggu, bukan kecepatan model.
+
+Kolom rerata tetap disertakan karena itu yang biasa diharapkan orang, tetapi untuk
+membandingkan model, pakai mediannya.
 
 ## Batas yang melekat pada angka ini
 
