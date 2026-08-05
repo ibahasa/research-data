@@ -1,0 +1,18 @@
+{
+  "slug": "system-audit-aggregates",
+  "title": "Aggregate tables behind the system-audit findings: enrichment gate coverage, review-queue ordering by corpus frequency, post-model human editing, and AI job failure taxonomy with its classification rules",
+  "published_at": "2026-08-05T07:52:01Z",
+  "source_commit": "0ff2a804",
+  "fingerprint": "14a5c34c315b0994",
+  "license": "CC BY 4.0",
+  "files": [
+    { "file": "data-besar-suntingan-per-bagian.csv", "source": "data/besar-suntingan-per-bagian.csv", "bytes": 236, "sha256": "123458c4435ed642332d7c26d34ab94507fc398537d3ac34fb0b94545e6501af" },
+    { "file": "data-cakupan-lapisan-pengayaan.csv", "source": "data/cakupan-lapisan-pengayaan.csv", "bytes": 234, "sha256": "d716f3cd16f5b94206ed4b2664750c8a06d2b3fee59445c84e1727d475ed7cc2" },
+    { "file": "data-gerbang-per-desil-frekuensi.csv", "source": "data/gerbang-per-desil-frekuensi.csv", "bytes": 211, "sha256": "e642cafd22687f3f0c9f7119cd1fe7be9475d3f10b6595a959b6f19db129cff7" },
+    { "file": "data-ringkasan-pekerjaan-ai.csv", "source": "data/ringkasan-pekerjaan-ai.csv", "bytes": 94, "sha256": "c937b56b184091f8cf8fc05af77eed7e7a7a5a8e5e93c6cd711a4d1635e37614" },
+    { "file": "data-sebaran-suntingan-per-makna.csv", "source": "data/sebaran-suntingan-per-makna.csv", "bytes": 132, "sha256": "a1215c0777eb80ff7405b50fc0f1b4410ed3c291e7d28da0ba8ef0765a8fe8bc" },
+    { "file": "data-taksonomi-kegagalan-job-ai.csv", "source": "data/taksonomi-kegagalan-job-ai.csv", "bytes": 173, "sha256": "10c3dabaae88b74f7fbedcdc0988702a4042c18a85c78ca433aab42026101aa2" },
+    { "file": "data-PROVENANCE.md", "source": "data/PROVENANCE.md", "bytes": 5126, "sha256": "e9392ac7734824b37a22d329ab86935a00b915209f4446d51bebe274e10f6d08" },
+    { "file": "data-ATURAN-KLASIFIKASI-KEGAGALAN.md", "source": "data/ATURAN-KLASIFIKASI-KEGAGALAN.md", "bytes": 4235, "sha256": "c3f6a08af4baaeb9d3560772ba0aa39a341c8c7c00a456cebc9a08b320b7d69b" }
+  ]
+}
