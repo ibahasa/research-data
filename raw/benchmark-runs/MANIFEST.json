@@ -5,6 +5,7 @@
   "source_commit": "38d77fa0",
   "fingerprint": "c216de1fece642f0",
   "license": "CC BY 4.0",
+  "cited_by": ["https://ibahasa.com/id/riset/claude-haiku-salah-10-dari-36-soal-tingkat-tutur-jawa-claude-sonnet-cuma-3", "https://ibahasa.com/id/riset/uji-coba-38-soal-slang-mengungkap-kegagalan-model-ai-melihat-jawaban-gratis", "https://ibahasa.com/id/riset/ketika-buku-tata-bahasa-salah-dan-penutur-benar", "https://ibahasa.com/id/riset/tujuh-model-ai-diuji-dengan-satu-huruf-jawaban-dan-selisih-token-mencapai-876-ka", "https://ibahasa.com/id/riset/2-model-ai-dengan-harga-sama-persis-diuji-pada-benchmark-bahasa-indonesia-56-52"],
   "files": [
     { "file": "runs-2026-07-25-jv-A-gate-meta.json", "source": "runs/2026-07-25-jv-A-gate/meta.json", "bytes": 1374, "sha256": "d0fb368538e761d5fce4c162520f5f18285842459222800508242e57b416ce07" },
     { "file": "runs-2026-07-25-jv-A-procurement-meta.json", "source": "runs/2026-07-25-jv-A-procurement/meta.json", "bytes": 1611, "sha256": "5434e0fae01ed4367928b12fd08d6787a4b2813e2712f79bd36800f1096161e5" },
