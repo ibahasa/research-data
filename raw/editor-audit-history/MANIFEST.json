@@ -5,6 +5,7 @@
   "source_commit": "6212330a",
   "fingerprint": "b9ad399e3c048338",
   "license": "CC BY 4.0",
+  "cited_by": ["https://ibahasa.com/id/riset/model-bahasa-memperburuk-koreksi-ejaan"],
   "files": [
     { "file": "docs-audit-history.tsv", "source": "docs/audit-history.tsv", "bytes": 36784, "sha256": "99f883fea168e36534377d1fe8020936b6447b12ab494644d1507d25e1e5d1a6" }
   ]
