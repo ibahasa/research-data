@@ -5,6 +5,7 @@
   "source_commit": "de0f90c4",
   "fingerprint": "3109cab89bdfbf73",
   "license": "CC BY 4.0",
+  "cited_by": ["https://ibahasa.com/id/riset/tidak-ada-aturan-bahasa-indonesia-di-languagetool"],
   "files": [
     { "file": "languagetools-out-SUMMARY.md", "source": "scrape/languagetools/out/SUMMARY.md", "bytes": 24829, "sha256": "f42491a326bac7602c6dd2eac091b6eaf7f244b692ed0e46675dde56c95a13af" },
     { "file": "languagetools-out-rules.jsonl", "source": "scrape/languagetools/out/rules.jsonl", "bytes": 2040767, "sha256": "62e802937a3697dd883f4993dceea17db8e0f431e03dbe2f7058689231be4c3a" },
