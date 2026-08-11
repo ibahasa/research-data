@@ -5,6 +5,7 @@
   "source_commit": "38d77fa0",
   "fingerprint": "ea9a0d95fa6ecf3b",
   "license": "CC BY 4.0",
+  "cited_by": ["https://ibahasa.com/id/riset/claude-haiku-salah-10-dari-36-soal-tingkat-tutur-jawa-claude-sonnet-cuma-3", "https://ibahasa.com/id/riset/2-model-ai-dengan-harga-sama-persis-diuji-pada-benchmark-bahasa-indonesia-56-52"],
   "files": [
     { "file": "export-agregat-model.csv", "source": "export/agregat-model.csv", "bytes": 731, "sha256": "ff52a3ae21423b5eaab28b0c85fc9525ba267ee60e3aa38f223110b72a4eb907" },
     { "file": "export-README.md", "source": "export/README.md", "bytes": 4904, "sha256": "528f1dbe876091fd195e95e467e247375257e0b3b9223bb7790f7c598dd89f39" }
