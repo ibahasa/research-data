@@ -5,6 +5,7 @@
   "source_commit": "ab90fa7f",
   "fingerprint": "f3809691510794a6",
   "license": "CC BY 4.0",
+  "cited_by": ["https://ibahasa.com/id/riset/kesenjangan-kamus-bahasa-indonesia"],
   "files": [
     { "file": "frequency-corpus-out-coverage_report.txt", "source": "scrape/frequency-corpus/out/coverage_report.txt", "bytes": 224, "sha256": "7946e1537b23d6abbeaa66c4c228a10841b2997806d45f0d5d9c994e6ed1f8f5" },
     { "file": "frequency-corpus-out-foreign_candidates_ranked.tsv", "source": "scrape/frequency-corpus/out/foreign_candidates_ranked.tsv", "bytes": 56165, "sha256": "bbeaf7160e0dcc791ce293798334f8632fa9359d3d4ee9a83fece3357126358f" },
