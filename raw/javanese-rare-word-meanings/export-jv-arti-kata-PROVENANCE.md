@@ -27,7 +27,7 @@ Konsekuensinya mengikat:
 - **Pengukuran berikutnya wajib memakai lema yang belum pernah diterbitkan.**
 - Set ini beralih fungsi jadi **kanari kontaminasi**: bila model yang terbit
   belakangan tiba-tiba mengenal keempat puluh tiga lema ini sementara model
-  2026-08-10 hanya 2 sampai 91 persen, selisih itu mengukur seberapa cepat data
+  2026-08-11 hanya 2 sampai 93 persen, selisih itu mengukur seberapa cepat data
   yang diterbitkan masuk ke data latih.
 
 Itu sebabnya berkas ini diterbitkan penuh alih-alih dipangkas. Kadaluwarsanya
@@ -46,22 +46,33 @@ penutur.
 | `mistral-small-3` | 2 dari 43 | **1 dari 43** |
 | `deepseek-v4-flash` | 23 dari 43 | **22 dari 43** |
 | `gpt-5.6-luna` | 35 dari 43 | 35 dari 43 |
-| `gemini-3.5-flash` | 39 dari 43 | 39 dari 43 |
+| `gemini-3.5-flash` | 39 dari 43 | **40 dari 43** |
 
-Tiga sunting kunci menyebabkannya:
+Empat sunting kunci menyebabkannya:
 
 - **`gremet gremet` dibuang dari lema `Gremet`.** Kunci itu lemanya sendiri,
   diulang. Model selalu mengulang kata yang ditanyakan, jadi kunci itu meloloskan
   jawaban apa pun. Dua model lolos lewatnya dengan jawaban yang salah total.
 - **`bunyi` dibuang dari lema `klotekan`.** Ia menggambarkan jenis makna, bukan
   maknanya.
-- **Padanan ditambahkan** pada `Gendakan`, `Leksanani`, dan `Pimen`.
+- **`slang` dan `slang jawa` dibuang** dari `Coeg`, `Gondes`, `Kupret`, `Ndlogok`,
+  dan `sompret`. Setiap kata Jawa gaul adalah "slang", jadi kunci itu meloloskan
+  jawaban yang tidak menyatakan apa pun tentang maknanya.
+- **Padanan ditambahkan** pada `Gendakan`, `Leksanani`, `Pimen`, dan `Gondes`.
+
+`Gondes` kasus tersendiri dan ia menyingkap batas rancangan ini. Kamus kami
+merekamnya sebagai sapaan akrab; asal-usulnya "gondrong ndeso", dan makna itu
+masih dipakai. Satu model menjawab dengan asal-usulnya, tepat sampai ke
+etimologinya, lalu dinilai salah karena kami hanya merekam satu makna. Padanan
+`gondrong` dan `ndeso` ditambahkan. **Ini persoalan rujukan tunggal**, kelas yang
+sama yang dulu menggugurkan rancangan terjemahan kami: di sana satu kalimat punya
+banyak terjemahan sah, di sini satu lema punya lebih dari satu makna sah.
 
 Satu usulan **ditolak** setelah ditimbang: `bertanya` untuk `Pimen`. Kata itu
 fungsi gramatikal `pimen`, bukan artinya, sekelas dengan `bunyi` yang dibuang di
 atas.
 
-Lantai kebetulan penilai turun dari **1,3 ke 0,8 persen**. Untuk pertama kalinya
+Lantai kebetulan penilai turun dari **1,3 ke 0,7 persen**. Untuk pertama kalinya
 sebuah putaran tinjau membuat alat ukur ini lebih ketat, bukan lebih longgar.
 
 ## Apa yang diukur
@@ -145,6 +156,18 @@ Artinya **63 persen kemiripan pada teks apa adanya bukan makna**, melainkan
 bingkai kalimat yang dipakai jawaban dan definisi sama-sama. Angka di berkas ini
 dihitung setelah pembersihan.
 
+`sim_kunci_maks` punya lantainya sendiri, diukur dengan cara yang sama tetapi
+menyilangkan jawaban ke kunci 42 lema lain:
+
+| | lantai | pasangan sebenarnya | selisih |
+|---|---:|---:|---:|
+| `sim_definisi` | 0,143 | 0,344 | 0,202 |
+| `sim_kunci_maks` | 0,168 | 0,458 | **0,290** |
+
+Jaraknya lebih lebar, tetapi kolom itu **memakai kunci**, sehingga ia tidak dapat
+dipakai memeriksa apakah kunci kami bias. Untuk keperluan itu hanya `sim_definisi`
+yang berdiri sendiri.
+
 Daya pisah kolom semantik terhadap vonis kunci, atas seluruh 172 baris: **0,937**.
 Terhadap vonis penutur: 0,73 sampai 0,94 bergantung model. Cukup untuk mengurutkan
 antrean baca, tidak cukup untuk memvonis.
@@ -157,7 +180,7 @@ Satu baris per lema. 43 baris.
 |---|---|
 | `lema`, `definisi_id` | sebagaimana terbit di halaman kamus kami |
 | `kunci` | padanan yang diterima, dipisah ` \| ` |
-| `jumlah_kunci` | banyaknya padanan; rata-rata 3,2 |
+| `jumlah_kunci` | banyaknya padanan; rata-rata 3,1 |
 | `kunci_asal` | `penutur` bila sudah ditinjau manusia, `mesin` bila belum. 39 dari 43 sudah |
 | `nusax_leksikon`, `nusax_nusawrites_teks`, `jv_wiktionary` | kemunculan lema di tiap sumber. Nol di ketiganya adalah syarat masuk set ini |
 
