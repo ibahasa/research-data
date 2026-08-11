@@ -5,6 +5,7 @@
   "source_commit": "bac4de78",
   "fingerprint": "a317b6f9ae84b898",
   "license": "CC BY 4.0",
+  "cited_by": ["https://ibahasa.com/id/riset/mesin-koreksi-kami-gagal-di-teks-liar"],
   "files": [
     { "file": "content-crawler-out-wild_audit_ringkasan_snapshot.csv", "source": "scrape/content-crawler/out/wild_audit_ringkasan_snapshot.csv", "bytes": 813, "sha256": "e2e640efc28292462fa5cbcd0e38c8d53e20d6c73b846d93cfedf059f3a70910" }
   ]
