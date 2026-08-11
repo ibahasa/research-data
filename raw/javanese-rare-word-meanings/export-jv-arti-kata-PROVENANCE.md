@@ -1,6 +1,6 @@
 # Arti 43 kata Jawa langka: empat model, kunci jamak yang ditinjau penutur
 
-**Tanggal:** 2026-08-10 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
+**Tanggal:** 2026-08-11 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
 **Berkas:** `hasil-model.csv`, `kunci.csv`
 **Sumber:** lema berbahasa Jawa dari kamus kami, seluruhnya berstatus terverifikasi
 manusia dan sudah terbit di halaman kamus publik
@@ -27,13 +27,42 @@ Konsekuensinya mengikat:
 - **Pengukuran berikutnya wajib memakai lema yang belum pernah diterbitkan.**
 - Set ini beralih fungsi jadi **kanari kontaminasi**: bila model yang terbit
   belakangan tiba-tiba mengenal keempat puluh tiga lema ini sementara model
-  2026-08-10 hanya 5 sampai 91 persen, selisih itu mengukur seberapa cepat data
+  2026-08-10 hanya 2 sampai 91 persen, selisih itu mengukur seberapa cepat data
   yang diterbitkan masuk ke data latih.
 
 Itu sebabnya berkas ini diterbitkan penuh alih-alih dipangkas. Kadaluwarsanya
 datang cepat atau lambat, sebab halaman kamusnya sudah terindeks; menerbitkan
 kuncinya membuat **tanggalnya diketahui**, dan tanggal yang diketahui dapat
 diukur.
+
+## Perubahan sejak terbitan pertama (2026-08-10)
+
+Terbitan ini menggantikan versi 2026-08-10. **Tidak satu pun jawaban model
+berubah**; yang berubah kunci jawaban kami, setelah model keempat akhirnya dibaca
+penutur.
+
+| model | 2026-08-10 | sekarang |
+|---|---:|---:|
+| `mistral-small-3` | 2 dari 43 | **1 dari 43** |
+| `deepseek-v4-flash` | 23 dari 43 | **22 dari 43** |
+| `gpt-5.6-luna` | 35 dari 43 | 35 dari 43 |
+| `gemini-3.5-flash` | 39 dari 43 | 39 dari 43 |
+
+Tiga sunting kunci menyebabkannya:
+
+- **`gremet gremet` dibuang dari lema `Gremet`.** Kunci itu lemanya sendiri,
+  diulang. Model selalu mengulang kata yang ditanyakan, jadi kunci itu meloloskan
+  jawaban apa pun. Dua model lolos lewatnya dengan jawaban yang salah total.
+- **`bunyi` dibuang dari lema `klotekan`.** Ia menggambarkan jenis makna, bukan
+  maknanya.
+- **Padanan ditambahkan** pada `Gendakan`, `Leksanani`, dan `Pimen`.
+
+Satu usulan **ditolak** setelah ditimbang: `bertanya` untuk `Pimen`. Kata itu
+fungsi gramatikal `pimen`, bukan artinya, sekelas dengan `bunyi` yang dibuang di
+atas.
+
+Lantai kebetulan penilai turun dari **1,3 ke 0,8 persen**. Untuk pertama kalinya
+sebuah putaran tinjau membuat alat ukur ini lebih ketat, bukan lebih longgar.
 
 ## Apa yang diukur
 
@@ -47,8 +76,7 @@ Kata: <lema>
 ```
 
 Jawaban dinilai benar bila memuat **salah satu** padanan yang terdaftar di
-`kunci.csv`. Pencocokannya membandingkan kata utuh dengan pemuatan, sehingga
-`lihat` cocok dengan `melihat` dan `selingkuh` dengan `perselingkuhan`.
+`kunci.csv`. Pencocokannya membandingkan akar kata.
 
 Rancangan ini menggantikan rancangan sebelumnya yang menilai terjemahan kalimat
 terhadap satu glos, dan gugur karena satu kalimat dapat diterjemahkan dengan
@@ -82,10 +110,44 @@ Satu baris per pasangan model dan lema. 172 baris, yaitu 4 model dikali 43 lema.
 | `model_id` | pengenal model di perantara yang kami pakai |
 | `lema` | kata Jawa yang ditanyakan |
 | `jawaban_model` | jawaban apa adanya, baris baru diganti spasi |
-| `kunci_hadir` | 1 bila salah satu padanan di `kunci.csv` muncul di jawaban |
+| `kunci_hadir` | 1 bila salah satu padanan di `kunci.csv` muncul di jawaban. **Inilah vonis benchmark** |
+| `sim_definisi` | kedekatan makna jawaban terhadap definisi lemanya, 0 sampai 1 |
+| `persentil_vs_lantai` | posisi `sim_definisi` di antara 7.224 pasang yang dijamin tidak berhubungan |
+| `sim_kunci_maks` | kedekatan makna tertinggi terhadap salah satu padanan di `kunci.csv` |
+| `peringkat_dalam_lema` | 1 sampai 4, urutan keempat model pada lema itu menurut `sim_definisi` |
+| `vonis_penutur` | 1 atau 0, vonis manusia atas jawaban ini. Kosong bila belum ditinjau |
 | `latency_ms` | waktu satu panggilan, dari kirim sampai balasan lengkap |
 | `biaya_usd` | biaya yang **dilaporkan penyedia**, bukan dihitung dari tabel harga |
 | `tokens_in`, `tokens_out` | token masukan dan keluaran menurut penyedia |
+
+### Kolom semantik bukan vonis
+
+Empat kolom kemiripan dihitung dengan
+[IndoBERT versi ONNX](https://huggingface.co/asmud/LazarusNLP-indobert-onnx),
+turunan [`LazarusNLP/congen-indobert-lite-base`](https://huggingface.co/LazarusNLP/congen-indobert-lite-base),
+dijalankan lokal. Ia deterministik; dua jalan berturut-turut menghasilkan berkas
+identik bita per bita.
+
+**Kolom ini tidak pernah mengubah `kunci_hadir`.** Ia dilaporkan berdampingan
+supaya peringkat model dapat diperiksa dengan alat ukur yang tidak memakai kunci
+sama sekali.
+
+Cosine tidak punya makna absolut, jadi `persentil_vs_lantai` adalah kolom yang
+layak dikutip, bukan `sim_definisi` mentahnya. Lantainya diukur dengan
+menyilangkan jawaban tiap lema ke definisi 42 lema lain:
+
+| | rerata pasangan tak berhubungan | rerata pasangan sebenarnya |
+|---|---:|---:|
+| teks apa adanya | 0,389 | 0,527 |
+| lema & 49 kata pembingkai dibuang | 0,143 | 0,344 |
+
+Artinya **63 persen kemiripan pada teks apa adanya bukan makna**, melainkan
+bingkai kalimat yang dipakai jawaban dan definisi sama-sama. Angka di berkas ini
+dihitung setelah pembersihan.
+
+Daya pisah kolom semantik terhadap vonis kunci, atas seluruh 172 baris: **0,937**.
+Terhadap vonis penutur: 0,73 sampai 0,94 bergantung model. Cukup untuk mengurutkan
+antrean baca, tidak cukup untuk memvonis.
 
 ## Kolom `kunci.csv`
 
@@ -99,47 +161,30 @@ Satu baris per lema. 43 baris.
 | `kunci_asal` | `penutur` bila sudah ditinjau manusia, `mesin` bila belum. 39 dari 43 sudah |
 | `nusax_leksikon`, `nusax_nusawrites_teks`, `jv_wiktionary` | kemunculan lema di tiap sumber. Nol di ketiganya adalah syarat masuk set ini |
 
-## Perlakuan yang TIDAK sama antarmodel
+## Batas
 
-Ini kekurangan terbesar berkas ini, dan ia tidak dapat diperbaiki tanpa membaca
-ulang seluruh jawaban.
+**Keempat model kini sudah dibaca penutur satu per satu.** Perlakuan tak sama yang
+menjadi batasan terbesar terbitan pertama sudah tertutup. `vonis_penutur` terisi
+pada 171 dari 172 baris; satu baris dikosongkan karena penilainya menandainya
+ambigu alih-alih benar atau salah.
 
-**Hanya keluaran GPT-5.6 Luna yang ditinjau penutur satu per satu.** Tinjauan itu
-menambahkan padanan yang belum terdaftar, dan skornya naik 14 poin tanpa satu
-panggilan pun diulang. Tiga model lain tidak pernah mendapat perlakuan yang sama.
-
-Akibatnya seluruh angka di bawah skor tertinggi adalah **batas bawah**, dan ruang
-di atasnya tidak sama besar. Jawaban yang dinilai salah tetapi memuat kata dari
-definisi lemanya sendiri, yaitu tanda kuat bahwa kuncinya yang meleset:
-
-| Model | Dinilai salah | Berpotensi salah vonis |
-|---|---:|---:|
-| `mistral-small-3` | 41 | 4 |
-| `deepseek-v4-flash-0731` | 20 | 6 |
-| `gpt-5.6-luna` | 8 | 3 |
-| `gemini-3.5-flash` | 4 | 1 |
-
-## Lantai kebetulan
-
-Kunci jamak menaikkan peluang mengenainya tanpa memahami. Diukur dengan
-menyilangkan kunci tiap lema terhadap jawaban seluruh lema lain: **23 dari 1.806
-pasang, atau 1,3 persen**, naik dari 0,8 persen ketika kuncinya masih tunggal.
-
-Angka itu wajib diukur ulang setiap kali kunci diperluas. Bila melewati sekitar 5
-persen, skornya mulai mengukur keberuntungan.
-
-Satu usulan padanan ditolak karena pengukuran ini: kata `jawa` muncul di 37 persen
-jawaban seluruh lema, sebab pertanyaannya sendiri menyebut "kata Jawa".
-
-## Batas lain
-
-Kunci ditulis satu penutur, yaitu penyusun kamusnya sendiri, tanpa angka
+**Kunci ditulis satu penutur**, yaitu penyusun kamusnya sendiri, tanpa angka
 kesepakatan antar-penilai.
 
-Satu ulangan per lema per model. Ragam antar-ulangan tidak terukur, sehingga
-selisih beberapa lema antara dua model yang berdekatan tidak dapat dipisahkan
-dari derau. Dengan 43 lema, satu lema bernilai 2,3 poin.
+**Satu ulangan per lema per model.** Ragam antar-ulangan tidak terukur, sehingga
+selisih beberapa lema antara dua model yang berdekatan tidak dapat dipisahkan dari
+derau. Dengan 43 lema, satu lema bernilai 2,3 poin.
 
-Biaya diambil dari yang dilaporkan penyedia per panggilan. Yang benar-benar
+**Satu keterbatasan sengaja tidak diperbaiki.** Pencocokan kunci tidak mengupas
+akhiran `-lah`, sehingga jawaban "laksanakanlah" tidak dianggap memuat kunci
+"melaksanakan". Menambalnya akan menaikkan dua model di tengah pengukuran, jadi ia
+dicatat sebagai batas alat dan angka di sini adalah angka dengan batas itu
+terpasang.
+
+**Model embeddingnya terkuantisasi 8 bit** dan dilatih untuk bahasa Indonesia
+umum, sementara teks di sini memuat kata Jawa dan ragam kamus. Pengaruh keduanya
+tidak diukur terpisah.
+
+**Biaya diambil dari yang dilaporkan penyedia** per panggilan. Yang benar-benar
 terpotong dari saldo dapat berbeda bila perantara menerapkan biaya di tingkat
 akun.
