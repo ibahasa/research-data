@@ -1,6 +1,6 @@
 # ibahasa Research Data
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21793396.svg)](https://doi.org/10.5281/zenodo.21793396)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21793395.svg)](https://doi.org/10.5281/zenodo.21793395)
 
 Raw data behind ibahasa research.
 
