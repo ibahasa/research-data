@@ -1,0 +1,174 @@
+# jv-B: arti 135 kata Jawa, 6 model AI, kunci jamak yang ditinjau penutur
+
+**Tanggal:** 2026-08-12 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
+**Berkas:** `hasil-model.csv`, `kunci.csv`
+**Sumber:** lema berbahasa Jawa dari kamus kami, seluruhnya berstatus terverifikasi
+manusia dan sudah terbit di halaman kamus publik
+
+Pengukuran kami sendiri atas 6 model yang dipanggil lewat satu perantara. Lema,
+definisi, dan kunci jawabannya milik kami.
+
+---
+
+## Set ini BUKAN sekali pakai, tetapi bukan pula bebas kontaminasi
+
+Berbeda dari set 43 lema langka yang kami terbitkan sebelumnya, 135 lema di sini
+**bukan kata langka**. Seluruhnya ada di halaman kamus kami yang terindeks publik,
+dan sudah dapat dibaca siapa pun sebelum berkas ini terbit.
+
+Konsekuensinya perlu dinyatakan terang:
+
+- **Skor tinggi pada set ini tidak dapat dibedakan** antara menguasai bahasa Jawa
+  dan pernah membaca kamus kami. Halaman kamusnya sudah lama terindeks, jadi
+  keadaan itu berlaku bahkan sebelum berkas ini ada.
+- **Yang baru diterbitkan oleh berkas ini adalah kuncinya**, yaitu daftar padanan
+  yang kami terima sebagai jawaban benar, ditambah 28 makna yang tidak terekam di
+  halaman kamus kami. Itulah bagian yang dapat mencemari pengukuran berikutnya.
+- **Kami TIDAK menahan sebagian set ini.** Alasannya di bagian berikut.
+
+## Kenapa tidak ada bagian yang ditahan
+
+Menahan sebagian item (`held_out`) berguna ketika yang ditahan benar-benar tidak
+tersedia di tempat lain. Pada set 43 lema langka, syarat itu terpenuhi: lemanya
+memang tidak ada di sumber Jawa terbuka mana pun, sehingga menahannya menahan
+sesuatu yang nyata.
+
+Di sini syarat itu tidak terpenuhi. Lema dan definisinya sudah publik. Menahan
+sebagian hanya akan menyembunyikan kuncinya, sementara harga yang dibayar jauh
+lebih besar: **pembaca tidak lagi dapat memeriksa angka yang kami terbitkan.**
+Artikel kami melaporkan 128 dari 135 untuk model tertinggi; kalau hanya 100 lema
+yang terbit, angka itu berhenti dapat diverifikasi siapa pun.
+
+Untuk kebutuhan mengukur kontaminasi, kami menyiapkan jalan lain yang tidak
+menuntut korban itu: **192 lema kata tunggal di kolam yang sama belum pernah
+dipakai maupun diterbitkan.** Set kendali dapat disusun dari sana kapan pun, dengan
+protokol yang sama, tanpa memotong berkas ini.
+
+## Apa yang diukur
+
+Tiap model ditanya hal yang sama, pada `temperature` 0, satu ulangan per lema:
+
+```
+Apa arti kata Jawa berikut dalam bahasa Indonesia?
+Jawab singkat, maksimal satu kalimat.
+
+Kata: <lema>
+```
+
+Jawaban dinilai benar bila memuat **salah satu** padanan yang terdaftar di
+`kunci.csv`. Pencocokannya membandingkan akar kata.
+
+Bentuk soalnya dikenal sebagai *definition modeling*; cara menilainya *exact match*
+dengan kumpulan alias, dan struktur kuncinya paling dekat dengan *bilingual lexicon
+induction*. Ketiganya berbeda kelas dari BLEU dan chrF, yang menilai kalimat
+terjemahan terhadap satu rujukan.
+
+## Urutan kerjanya, dan kenapa urutannya penting
+
+Pada pengukuran kami sebelumnya, kunci diperbaiki setelah membaca jawaban satu
+model, lalu model berikutnya dijalankan. Akibatnya model yang jawabannya dibaca
+lebih dulu menerima seluruh keuntungan dari perbaikan itu: pada set 43 lema, satu
+model naik 14 poin sendirian sementara dua model lain tidak bergerak.
+
+Di sini urutannya dibalik:
+
+```
+1. seluruh 6 model dijalankan
+2. jawaban keenamnya dibaca penutur, satu putaran per model
+3. baru seluruh skor dihitung ulang dengan kunci final
+```
+
+Karena penilaian berjalan atas jawaban tersimpan, langkah 3 tidak menuntut satu
+panggilan pun ke model. Hasilnya: enam putaran perbaikan menaikkan setiap model
+antara 1 sampai 4 poin, tanpa ada yang naik jauh melampaui yang lain.
+
+## Kolom `hasil-model.csv`
+
+810 baris, yaitu 6 model dikali 135 lema.
+
+| Kolom | Arti |
+|---|---|
+| `model_id` | pengenal model di perantara yang kami pakai |
+| `lema` | kata Jawa yang ditanyakan |
+| `jawaban_model` | jawaban apa adanya, baris baru diganti spasi |
+| `kunci_hadir` | 1 bila salah satu padanan di `kunci.csv` muncul di jawaban. **Inilah vonis benchmark** |
+| `sim_definisi` | kedekatan makna jawaban ke makna lemanya, diambil yang terdekat bila lemanya bermakna lebih dari satu |
+| `persentil_vs_skor_kebetulan` | posisi `sim_definisi` di antara 72.360 pasang jawaban-makna yang dijamin tidak berhubungan |
+| `peringkat_dalam_lema` | 1 sampai 6, urutan keenam model pada lema itu |
+| `jumlah_makna` | banyaknya makna yang direkam untuk lema itu |
+| `latency_ms` | waktu satu panggilan, dari kirim sampai balasan lengkap |
+| `biaya_usd` | biaya yang **dilaporkan penyedia**, bukan dihitung dari tabel harga |
+| `tokens_in`, `tokens_out` | token masukan dan keluaran menurut penyedia |
+
+Empat kolom kemiripan makna dihitung dengan
+[IndoBERT versi ONNX](https://huggingface.co/asmud/LazarusNLP-indobert-onnx) yang
+dijalankan lokal, dan **tidak pernah mengubah `kunci_hadir`**. Kolom itu ada supaya
+peringkat model dapat diperiksa oleh alat ukur yang tidak memakai kunci sama sekali.
+
+## Kolom `kunci.csv`
+
+135 baris, satu per lema.
+
+| Kolom | Arti |
+|---|---|
+| `lema`, `definisi_kamus` | sebagaimana terbit di halaman kamus kami |
+| `definisi_tambahan` | makna sah yang TIDAK terekam di kamus kami, ditulis untuk benchmark ini, dipisah ` \| ` |
+| `jumlah_makna` | 1 bila hanya definisi kamus; lebih bila ada tambahan |
+| `kunci` | padanan yang diterima, dipisah ` \| ` |
+| `jumlah_kunci` | banyaknya padanan; rata-rata 4,00 |
+| `kunci_asal` | `penutur` bila sudah disunting manusia, `mesin` bila masih draf agen. 11 dari 135 sudah |
+
+### Kenapa ada `definisi_tambahan`
+
+23 lema ternyata punya arti sah yang tidak terekam di kamus kami. Contohnya
+`bajigur`, yang kamus kami rekam hanya sebagai umpatan halus, padahal ia juga nama
+minuman santan tradisional.
+
+Kami TIDAK mengubah definisi kamusnya. Makna tambahan disimpan sebagai medan
+terpisah milik benchmark, dan penilaian kemiripan mengambil **yang terdekat** di
+antara seluruh makna, bukan menggabungkannya jadi satu teks. Menggabungkan justru
+menurunkan kedekatan jawaban yang benar menurut makna aslinya, dari 0,505 ke 0,383
+pada `bajigur`, sebab vektor satu teks adalah rata-rata isinya.
+
+## Skor kebetulan
+
+Kunci yang melebar menaikkan skor sekaligus menaikkan peluang mengenai secara
+kebetulan, dan keduanya terlihat sama di tabel hasil. Karena itu kami mengukur
+berapa skor yang didapat tanpa memahami apa pun: silangkan kunci tiap lema ke
+jawaban seluruh lema lain, lalu hitung yang lolos.
+
+**694 dari 108.540 pasang, atau 0,6 persen.** Angka itu dihitung ulang tiap kali
+kunci disunting, dan sepanjang enam putaran tidak pernah naik.
+
+Untuk penilai kemiripan makna, ukuran yang sama memberi rerata 0,116 atas 72.360
+pasang yang dijamin tidak berhubungan.
+
+## Batas
+
+**Ragam antar-ulangan 4 lema, dan itu lebih besar dari jarak dua model teratas.**
+`mistral-small-3` dijalankan 3 kali berturut-turut pada `temperature` 0 dengan
+prompt yang sama: skornya 25, 21, 21 dari 135, dan 49 dari 135 jawaban berbeda
+antara dua jalan terakhir. Jarak `gpt-5.6-luna` dan `gemma-4-31b` hanya 1 lema,
+jadi keduanya tidak dapat dibedakan oleh data ini. Ragam ini diukur pada satu
+model saja, yang terlemah.
+
+**Pembacaan penutur tidak mencakup seluruh jawaban.** Untuk 3 model terakhir,
+lembar tinjaunya disaring hanya memuat jawaban berpersentil semantik di atas 90
+persen, sehingga 26 jawaban salah tidak pernah dibaca.
+
+**Kunci didraf agen AI** dari definisi kamus kami, lalu 11 dari 135 lema kuncinya
+disunting penutur. Sisanya belum pernah disentuh manusia. Penulis kuncinya bukan
+salah satu dari 6 model yang diuji.
+
+**Kunci ditulis satu penutur**, yaitu penyusun kamusnya sendiri, tanpa angka
+kesepakatan antar-penilai.
+
+**Satu ulangan per lema per model.**
+
+**Celah yang tersisa terukur 14 persen:** dari seluruh jawaban yang dinilai salah,
+14 persen berpersentil kemiripan di atas 95, artinya sangat dekat dengan definisi
+kamus kami tetapi tidak menyebut kata yang terdaftar di kunci. Menambah padanan
+mempersempit celah itu, tidak pernah menutupnya.
+
+**Biaya diambil dari yang dilaporkan penyedia** per panggilan. Yang benar-benar
+terpotong dari saldo dapat berbeda bila perantara menerapkan biaya di tingkat akun.
