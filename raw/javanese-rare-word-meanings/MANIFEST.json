@@ -5,6 +5,7 @@
   "source_commit": "5a64f7f4",
   "fingerprint": "7c157aaf703a7006",
   "license": "CC BY 4.0",
+  "cited_by": ["https://ibahasa.com/id/riset/indobert-adu-kunci-manusia-benchmark-jawa", "https://ibahasa.com/id/riset/empat-ai-43-kata-jawa-langka"],
   "files": [
     { "file": "export-jv-arti-kata-hasil-model.csv", "source": "export/jv-arti-kata/hasil-model.csv", "bytes": 27028, "sha256": "8c426f7dcaa04f3d69ad1ec402f69b298e467f85f4465259d10d08edb2fa64b4" },
     { "file": "export-jv-arti-kata-kunci.csv", "source": "export/jv-arti-kata/kunci.csv", "bytes": 12060, "sha256": "7aa11f095ebbcdd48bd5a9d5d4d32485853e0659feb79f8ef38c5a07311f9cfc" },
