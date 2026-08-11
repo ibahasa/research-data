@@ -5,6 +5,7 @@
   "source_commit": "28eec5d1",
   "fingerprint": "834443559287ed45",
   "license": "CC BY 4.0",
+  "cited_by": ["https://ibahasa.com/id/riset/glos-kamus-kami-bukan-langit-langit"],
   "files": [
     { "file": "export-jv-id-pilot-hasil-model.csv", "source": "export/jv-id-pilot/hasil-model.csv", "bytes": 8523, "sha256": "e618afacc94dd031d1db6269ad2d2b278db10f007acef2b8c95603a6c5e4e897" },
     { "file": "export-jv-id-pilot-adu-buta.csv", "source": "export/jv-id-pilot/adu-buta.csv", "bytes": 5110, "sha256": "98202a2475293c5bb28a408d6701d1cd11749fc7bc53c71809574bb0845393ee" },
