@@ -1,11 +1,11 @@
-# jv-B: arti 135 kata Jawa, 6 model AI, kunci jamak yang ditinjau penutur
+# jv-B: arti 135 kata Jawa, 10 model AI, kunci jamak yang ditinjau penutur
 
-**Tanggal:** 2026-08-12 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
-**Berkas:** `hasil-model.csv`, `kunci.csv`
+**Tanggal:** 2026-08-13 (panel diperluas 6 → 10 model) · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
+**Berkas:** `hasil-model.csv`, `kunci.csv`, `ragam.csv`
 **Sumber:** lema berbahasa Jawa dari kamus kami, seluruhnya berstatus terverifikasi
 manusia dan sudah terbit di halaman kamus publik
 
-Pengukuran kami sendiri atas 6 model yang dipanggil lewat satu perantara. Lema,
+Pengukuran kami sendiri atas 10 model yang dipanggil lewat satu perantara. Lema,
 definisi, dan kunci jawabannya milik kami.
 
 ---
@@ -46,7 +46,8 @@ protokol yang sama, tanpa memotong berkas ini.
 
 ## Apa yang diukur
 
-Tiap model ditanya hal yang sama, pada `temperature` 0, satu ulangan per lema:
+Tiap model ditanya hal yang sama, pada `temperature` 0, satu ulangan per lema.
+Tiga model diulang tiga kali untuk mengukur ragamnya; lihat bagian ragam:
 
 ```
 Apa arti kata Jawa berikut dalam bahasa Indonesia?
@@ -81,6 +82,48 @@ Di sini urutannya dibalik:
 Karena penilaian berjalan atas jawaban tersimpan, langkah 3 tidak menuntut satu
 panggilan pun ke model. Hasilnya: enam putaran perbaikan menaikkan setiap model
 antara 1 sampai 4 poin, tanpa ada yang naik jauh melampaui yang lain.
+
+## Panel diperluas 6 → 10 model, dan prediksinya dikunci lebih dulu
+
+Empat model ditambahkan pada 2026-08-13: NVIDIA Nemotron 3.5 Lightning, Alibaba
+Qwen3-30B-A3B, Ant Group Ling 3.0 Flash, dan Tencent Hunyuan A13B.
+
+Ketiga model terakhir **dipilih untuk membantah** pola yang terlihat pada panel 7
+model: skor menumpuk di 64–95% dan 18–19%, dengan pita 20–63% kosong sama sekali.
+Prediksi bahwa pita itu akan tetap kosong ditulis dan dikunci **sebelum** satu
+panggilan pun dilakukan, lengkap dengan alasan tiap kandidat.
+
+**Prediksi itu gugur.** Dua dari tiga model baru mendarat di dalam pita: Ling
+51,9% dan Qwen 38,5%. Deret sepuluh model menaik mulus tanpa jurang, sehingga
+"dua kelompok" ternyata artefak dari model mana yang kebetulan diuji lebih dulu.
+Dokumen prediksinya ada di repo kami, `apps/benchmark/docs/tasks/task-25`.
+
+Menambah empat model menuntut tinjauan penutur ulang atas jawabannya, dan itu
+menambah **6 kunci pada 4 lema** (540 → 546), tanpa satu pun penghapusan.
+Skor sepuluh model dihitung ulang seluruhnya terhadap kunci baru: **enam model
+yang sudah terbit sebelumnya tidak bergeser satu lema pun.** Kunci tambahan hanya
+menyelamatkan jawaban model yang sebelumnya belum pernah masuk panel.
+
+## Ragam antar-jalan: berapa skor bergeser tanpa apa pun berubah
+
+`temperature` 0 tidak menjamin jawaban yang sama. Tiga model yang berdesakan di
+puncak dipanggil **tiga kali dengan 135 pertanyaan yang sama persis**:
+
+| Model | Skor tiap jalan | Rentang | Teks jawaban berbeda | Vonis benar↔salah berbalik |
+|---|---|---:|---:|---:|
+| GPT-5.6 Luna | 118 · 121 · 119 | 3 | 74% | 8% |
+| Gemma 4 31B | 117 · 115 · 116 | 2 | 65% | 4% |
+| DeepSeek V4 Flash | 114 · 110 · 110 | 4 | 84% | 7% |
+
+**Selisih yang lebih kecil dari 4 lema tidak dapat dibaca sebagai selisih
+kemampuan.** Itu mencakup jarak Luna–Gemma (1 lema) dan Gemma–DeepSeek (3 lema)
+pada tabel utama. Angka ini juga menjawab pertanyaan yang kami tinggalkan terbuka
+sebelumnya: ragam sebesar itu **bukan** ciri model lemah saja — ketiga model di
+atas ada di kelompok teratas.
+
+Kolom `persentil_vs_skor_kebetulan` dan `peringkat_dalam_lema` **relatif terhadap
+panel**. Keduanya dihitung ulang saat panel tumbuh 6 → 10, jadi nilainya tidak
+sebanding dengan versi berkas ini sebelum 2026-08-13. Skor kunci tidak terpengaruh.
 
 ## Kolom `hasil-model.csv`
 

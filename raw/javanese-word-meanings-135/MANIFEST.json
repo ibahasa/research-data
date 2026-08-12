@@ -1,13 +1,14 @@
 {
   "slug": "javanese-word-meanings-135",
-  "title": "Javanese word meanings, 135 lemmas x 6 AI models: answers, multi-key answer sets with speaker-reviewed additional senses, and a key-free semantic cross-check column. Read-all-then-score protocol, see PROVENANCE",
-  "published_at": "2026-08-11T20:14:14Z",
-  "source_commit": "ce4c72cd",
-  "fingerprint": "dea45183374e3b71",
+  "title": "Javanese word meanings, 135 lemmas x 10 AI models: answers, multi-key answer sets with speaker-reviewed additional senses, and a key-free semantic cross-check column. Read-all-then-score protocol, pre-registered prediction, plus between-run variance on three models. See PROVENANCE",
+  "published_at": "2026-08-12T18:22:02Z",
+  "source_commit": "030493eb",
+  "fingerprint": "7f6d9e22fdebede6",
   "license": "CC BY 4.0",
   "files": [
-    { "file": "export-jv-B-hasil-model.csv", "source": "export/jv-B/hasil-model.csv", "bytes": 110514, "sha256": "af813f51c9b8060ad98ef245b50d065ddc3742a58f9ff9b28eb11ef018dc2b86" },
-    { "file": "export-jv-B-kunci.csv", "source": "export/jv-B/kunci.csv", "bytes": 42787, "sha256": "81756c9fb0d075b7741fb048262ce6e6271a233bb502491a94dc68244c96b973" },
-    { "file": "export-jv-B-PROVENANCE.md", "source": "export/jv-B/PROVENANCE.md", "bytes": 8170, "sha256": "ce3735e5899e250d6cedbbb3377269316ee7198c9d5152037932146611dc102b" }
+    { "file": "export-jv-B-hasil-model.csv", "source": "export/jv-B/hasil-model.csv", "bytes": 182947, "sha256": "ed3f5cc4aba01a02f13d6f25d8e30adc1dea700775ccec3887d75f1f2777ae6b" },
+    { "file": "export-jv-B-kunci.csv", "source": "export/jv-B/kunci.csv", "bytes": 42862, "sha256": "42a764bcbf5350573c153ea364f678f2cdba8fbbf36791f80f28bfef5784577d" },
+    { "file": "export-jv-B-ragam.csv", "source": "export/jv-B/ragam.csv", "bytes": 106731, "sha256": "e5205616b9da16c393ad03d1419a17abeb63e3dead985c78a828155048cb6d92" },
+    { "file": "export-jv-B-PROVENANCE.md", "source": "export/jv-B/PROVENANCE.md", "bytes": 10619, "sha256": "54317608e791f7ed940ffe53cf247c80ffd63257049ee267c59340ea85caef99" }
   ]
 }
