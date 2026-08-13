@@ -1,53 +1,53 @@
-# Alur kerja repo ini
+# Contributing
 
-Dokumen ini untuk tim ibahasa yang mengelola repo ini. Kalau Anda cuma mau
-mengutip atau memverifikasi data, baca `README.md` saja.
+This repository does not accept pull requests that add or change data.
 
-## Dari riset sampai artikel terbit
+Everything under `raw/` is generated output. The data is exported from our
+private research repository by tooling that also writes each dataset's
+`MANIFEST.json` and `PROVENANCE.md` and regenerates `INDEX.md`. A file edited
+here by hand would be overwritten on the next export, and its `sha256` in
+`MANIFEST.json` would stop matching in the meantime — which is the one thing
+this repository exists to guarantee.
 
-1. Riset selesai, ekspor datanya lewat `scripts/publish-research-data.sh`.
-   Skrip ini yang mendorong `MANIFEST.json`, `PROVENANCE.md`, dan
-   memperbarui `INDEX.md` — tidak perlu ditulis manual.
-2. Ambil commit SHA hasil push tadi, tempelkan sebagai tautan provenance di
-   artikel riset (di admin ibahasa.com, bukan di repo ini).
-3. Artikel ditinjau ulang dan direvisi sebelum naik produksi.
-4. Artikel terbit.
+## What is useful to us
 
-## Langkah yang sering kelewat: setelah artikel terbit
+**Tell us a number looks wrong.** Open an issue naming the dataset, the file,
+and the row or figure you are looking at. Include the commit SHA you read it at,
+since files change between exports and permalinks do not.
 
-Begitu artikel yang memakai dataset di sini sudah live, balik ke
-`MANIFEST.json` dataset yang bersangkutan dan tambahkan field `cited_by`:
+**Tell us a `PROVENANCE.md` is unclear or overstates something.** Those files are
+where we declare what a dataset cannot be used for, and they are the part most
+worth arguing with.
 
-```json
-{
-  "slug": "...",
-  "title": "...",
-  "cited_by": ["https://ibahasa.com/id/riset/slug-artikelnya"]
-}
-```
+**Tell us a link is broken.** Especially a link from an article at ibahasa.com
+that lands here and 404s.
 
-Array, karena satu dataset bisa dipakai lebih dari satu artikel. Field ini
-**opsional** dan **aditif** — jangan mengubah atau menghapus field yang
-sudah ada (`sha256`, `source_commit`, `fingerprint`, dll.), karena itu yang
-sudah dikutip dari luar.
+We would rather hear that a published figure is wrong than have it stay up.
+Corrections are recorded in the open, in the article and in the dataset.
 
-Kenapa ini langkah terpisah, bukan bagian dari langkah 1: saat data
-diekspor, artikelnya belum ada dan slug-nya belum ditentukan. Tautan
-baliknya baru bisa diisi setelah artikel benar-benar live.
+## Citing
 
-Tanpa langkah ini, orang yang mengunduh data langsung dari repo (tanpa
-lewat artikelnya) tidak tahu artikel mana yang memakainya — cuma bisa
-menebak dari nama dataset.
+Use a permalink pinned to a commit, never to `main`. See "Citing a file" in
+[`README.md`](./README.md). Datasets carry a DOI through Zenodo; the concept DOI
+always resolves to the latest version, and the version DOI is the reproducible
+one.
 
-## Kapan bikin GitHub Release baru (versi Zenodo baru)
+## Conventions, for anyone reading a MANIFEST
 
-**Tidak per artikel.** Tiap Release baru mencetak DOI versi baru di
-Zenodo, dan kalau itu terjadi tiap artikel terbit (rutin tiap beberapa
-hari berdasarkan `INDEX.md`), version DOI-nya jadi terlalu banyak dan
-jarang beda berarti dari versi sebelumnya.
+`cited_by` lists the articles that use a dataset. It is added after an article
+goes live, not at export time, because the article does not exist yet when the
+data is exported. It is an array, since one dataset can support several
+articles, and it is additive — the fields that outside citations depend on
+(`sha256`, `source_commit`, `fingerprint`) are never rewritten.
 
-Rilis versi baru pada titik yang benar-benar berarti — misalnya setelah
-beberapa artikel terkumpul, atau saat memang ada pihak luar yang mau
-mengutip arsip ini secara formal. Reproduksibilitas per-artikel sudah
-terjamin lewat tautan commit SHA (lihat "Citing a file" di `README.md`),
-jadi tidak ada tekanan untuk merilis versi baru tiap kali.
+Releases are cut when they mean something — after several articles accumulate,
+or when someone wants to cite this archive formally — not once per article. A
+new Release mints a new version DOI, and a long list of near-identical versions
+would make the DOIs less useful, not more. Per-article reproducibility already
+rests on the commit-pinned links.
+
+## Language
+
+The root of this repository is in English, since readers arrive here from a DOI
+or a citation. The `PROVENANCE.md` inside each dataset is in Indonesian, since it
+is written alongside the research itself. That split is deliberate.
