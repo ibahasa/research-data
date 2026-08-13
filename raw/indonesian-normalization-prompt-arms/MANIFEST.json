@@ -1,0 +1,14 @@
+{
+  "slug": "indonesian-normalization-prompt-arms",
+  "title": "Indonesian text normalization: the same 69 items and answer key put to four AI models under three different prompt wordings, scored as two opposing abilities — substituting non-standard words versus leaving already-standard words alone. Sentences and key withheld, figures only. See PROVENANCE",
+  "published_at": "2026-08-13T13:06:37Z",
+  "source_commit": "ae5dac98",
+  "fingerprint": "16d158a89724be89",
+  "license": "CC BY 4.0",
+  "files": [
+    { "file": "export-id-N-ringkas-model.csv", "source": "export/id-N/ringkas-model.csv", "bytes": 1963, "sha256": "5fa36e72da010d0c2763de759c14150154b3413b60fba057a561395e5ceff91c" },
+    { "file": "export-id-N-per-item.csv", "source": "export/id-N/per-item.csv", "bytes": 97723, "sha256": "545bf6655e84fd92ee8efa4fd4f7df3d645ff39c45cb7b5c3ff479659f412b4b" },
+    { "file": "export-id-N-rumusan.csv", "source": "export/id-N/rumusan.csv", "bytes": 1237, "sha256": "1e7e39dc26589fba7d8ff93f6ca1bced9bf5c7c93b5f46b1ad8d4928ec4a9736" },
+    { "file": "export-id-N-PROVENANCE.md", "source": "export/id-N/PROVENANCE.md", "bytes": 6973, "sha256": "72812e16444cc144e09352fd7de96c78579baf0458a55721cb8302b77c99d29a" }
+  ]
+}
