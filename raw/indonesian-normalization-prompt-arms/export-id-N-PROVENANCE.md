@@ -1,7 +1,8 @@
 # id-N: satu tugas normalisasi, tiga rumusan prompt, empat model AI — angka saja
 
 **Tanggal:** 2026-08-13 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
-**Berkas:** `ringkas-model.csv`, `per-item.csv`, `rumusan.csv`
+**Berkas:** `export-id-N-ringkas-model.csv`, `export-id-N-per-item.csv`,
+`export-id-N-rumusan.csv`
 **Sumber:** set normalisasi teks informal Indonesia milik kami, 69 kalimat,
 seluruhnya diverifikasi dua penutur asli
 
@@ -38,8 +39,8 @@ Riwayat perubahannya ada di riwayat git repo ini — kutiplah SHA commit, bukan
 nama berkas.
 
 Satu hal yang SHA commit tidak jawab: sebuah berkas dapat memuat baris dari
-beberapa tanggal sekaligus. Karena itu tiap baris `per-item.csv` membawa
-`waktu_amat` dan `cap_token` sendiri, dan `ringkas-model.csv` membawa rentang
+beberapa tanggal sekaligus. Karena itu tiap baris `export-id-N-per-item.csv` membawa
+`waktu_amat` dan `cap_token` sendiri, dan `export-id-N-ringkas-model.csv` membawa rentang
 `waktu_amat_awal`–`waktu_amat_akhir`. Kolom `dijalankan_pada` berbeda artinya:
 itu waktu berkasnya disusun, bukan waktu modelnya dipanggil.
 
@@ -51,7 +52,7 @@ seragam 600 kecuali Ling — lihat batasan di bawah.
 `item_id` mengikat baris antar-berkas, jadi tanpa tahu isi satu item pun pembaca
 tetap dapat:
 
-- menghitung ulang **seluruh** tabel A/B dari `per-item.csv`, termasuk setiap
+- menghitung ulang **seluruh** tabel A/B dari `export-id-N-per-item.csv`, termasuk setiap
   angka yang kami kutip
 - menguji apakah selisih dua rumusan signifikan — pasangannya per item, jadi
   uji McNemar berlaku langsung
@@ -92,7 +93,7 @@ hanya 63 yang setidaknya satu model benar-benar ganti. Sisanya — `hari`, `buku
 — tidak seorang pun tergoda menyentuh, dan memasukkannya cuma mengencerkan
 penyebut sampai semua model tampak patuh. Penyebut 63 itu dihitung dari seluruh
 label sekaligus, jadi sama untuk setiap model dan tetap sebanding. Angka B untuk
-penyebut 243 dapat dihitung sendiri dari `per-item.csv` bila pembaca tidak
+penyebut 243 dapat dihitung sendiri dari `export-id-N-per-item.csv` bila pembaca tidak
 sependapat dengan pilihan ini.
 
 **Ling 3.0 Flash tidak setara ongkosnya.** Pada `open-py3` ia berulang kali habis
@@ -140,7 +141,7 @@ guru SMA di Semarang. Tidak ada item yang bersandar pada satu verifikator.
 
 ```python
 import pandas as pd
-d = pd.read_csv("per-item.csv")
+d = pd.read_csv("export-id-N-per-item.csv")
 g = d.groupby(["model", "rumusan"])[["kunci_hadir", "a_kena", "a_total",
                                      "b_kena", "b_total"]].sum()
 g["A"] = g.a_kena / g.a_total
@@ -148,4 +149,4 @@ g["B"] = g.b_kena / g.b_total
 print(g[["kunci_hadir", "A", "B"]])
 ```
 
-Hasilnya harus sama persis dengan `ringkas-model.csv`.
+Hasilnya harus sama persis dengan `export-id-N-ringkas-model.csv`.
