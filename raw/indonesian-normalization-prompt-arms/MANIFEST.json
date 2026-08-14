@@ -1,14 +1,14 @@
 {
   "slug": "indonesian-normalization-prompt-arms",
-  "title": "Indonesian text normalization: the same 69 items and answer key put to four AI models under three different prompt wordings, scored as two opposing abilities — substituting non-standard words versus leaving already-standard words alone. Sentences and key withheld, figures only. See PROVENANCE",
-  "published_at": "2026-08-13T13:07:23Z",
-  "source_commit": "ae5dac98",
-  "fingerprint": "65f9997aeeb514b1",
+  "title": "Indonesian text normalization: the same 69 items and answer key put to nine AI models under three different prompt wordings, one of them an 8B model quantised to 4 bits and run on local hardware, scored as two opposing abilities — substituting non-standard words versus leaving already-standard words alone. Sentences and key withheld, figures only. See PROVENANCE",
+  "published_at": "2026-08-14T16:48:05Z",
+  "source_commit": "07ac0e3f",
+  "fingerprint": "646d4b021abbf0be",
   "license": "CC BY 4.0",
   "files": [
-    { "file": "export-id-N-ringkas-model.csv", "source": "export/id-N/ringkas-model.csv", "bytes": 1963, "sha256": "5fa36e72da010d0c2763de759c14150154b3413b60fba057a561395e5ceff91c" },
-    { "file": "export-id-N-per-item.csv", "source": "export/id-N/per-item.csv", "bytes": 97723, "sha256": "545bf6655e84fd92ee8efa4fd4f7df3d645ff39c45cb7b5c3ff479659f412b4b" },
-    { "file": "export-id-N-rumusan.csv", "source": "export/id-N/rumusan.csv", "bytes": 1237, "sha256": "1e7e39dc26589fba7d8ff93f6ca1bced9bf5c7c93b5f46b1ad8d4928ec4a9736" },
+    { "file": "export-id-N-ringkas-model.csv", "source": "export/id-N/ringkas-model.csv", "bytes": 4307, "sha256": "d551ed953ed586997a8c287c9cd057adda6aa4349fc48a72b6dfa8757c612c02" },
+    { "file": "export-id-N-per-item.csv", "source": "export/id-N/per-item.csv", "bytes": 224878, "sha256": "28806bb2e7d2ce8a4850962a35770e809fc060f0481937ea1850c9930ee8f5af" },
+    { "file": "export-id-N-rumusan.csv", "source": "export/id-N/rumusan.csv", "bytes": 1237, "sha256": "4c22372c9cb8c50af42758f3cd7683e3ebd57bece54b16d7a18bc36c41d534de" },
     { "file": "export-id-N-PROVENANCE.md", "source": "export/id-N/PROVENANCE.md", "bytes": 7081, "sha256": "57fcd90f96c0ec9b148f96173078154d33b61e237856f2afbd4a803f52076ac7" }
   ]
 }
