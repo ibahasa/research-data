@@ -1,12 +1,13 @@
 {
   "slug": "javanese-word-meanings-135",
   "title": "Javanese word meanings, 135 lemmas x 10 AI models: answers, multi-key answer sets with speaker-reviewed additional senses, and a key-free semantic cross-check column. Read-all-then-score protocol, pre-registered prediction, plus between-run variance on three models. See PROVENANCE",
-  "published_at": "2026-08-12T18:22:02Z",
-  "source_commit": "030493eb",
-  "fingerprint": "7f6d9e22fdebede6",
+  "published_at": "2026-08-15T11:38:57Z",
+  "source_commit": "d99b1add",
+  "fingerprint": "2065943424204735",
   "license": "CC BY 4.0",
   "files": [
     { "file": "export-jv-B-hasil-model.csv", "source": "export/jv-B/hasil-model.csv", "bytes": 182947, "sha256": "ed3f5cc4aba01a02f13d6f25d8e30adc1dea700775ccec3887d75f1f2777ae6b" },
+    { "file": "export-jv-B-ringkas-model.csv", "source": "export/jv-B/ringkas-model.csv", "bytes": 3584, "sha256": "f3f3f2746534002ce49d75883ebf65aef3b8be2faf4d870bf1a0b4417cf22024" },
     { "file": "export-jv-B-kunci.csv", "source": "export/jv-B/kunci.csv", "bytes": 42862, "sha256": "42a764bcbf5350573c153ea364f678f2cdba8fbbf36791f80f28bfef5784577d" },
     { "file": "export-jv-B-ragam.csv", "source": "export/jv-B/ragam.csv", "bytes": 106731, "sha256": "e5205616b9da16c393ad03d1419a17abeb63e3dead985c78a828155048cb6d92" },
     { "file": "export-jv-B-PROVENANCE.md", "source": "export/jv-B/PROVENANCE.md", "bytes": 10619, "sha256": "54317608e791f7ed940ffe53cf247c80ffd63257049ee267c59340ea85caef99" }
