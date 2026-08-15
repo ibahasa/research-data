@@ -1,4 +1,4 @@
-# jv-B: arti 135 kata Jawa, 10 model AI, kunci jamak yang ditinjau penutur
+# jv-B: arti 135 kata Jawa, kunci jamak yang ditinjau penutur
 
 **Tanggal:** 2026-08-13 (panel diperluas 6 → 10 model) · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
 **Berkas:** `hasil-model.csv`, `kunci.csv`, `ragam.csv`
@@ -7,6 +7,30 @@ manusia dan sudah terbit di halaman kamus publik
 
 Pengukuran kami sendiri atas 10 model yang dipanggil lewat satu perantara. Lema,
 definisi, dan kunci jawabannya milik kami.
+
+---
+
+## In English
+
+**What this is.** AI models were asked the meaning of 135 Javanese lemmas.
+The lemma count is fixed; the model panel grows, so read the current list and
+count from `ringkas-model.csv` rather than from this sentence. The lemmas, their definitions and the answer keys are ours, taken from our own dictionary, and every one of them carries a human verification status. Each item accepts several correct answers rather than one, because a word meaning rarely has a single right wording.
+
+**Who scored it.** The answer keys were drafted from our own dictionary definitions and then reviewed by a native Javanese speaker. Model answers were matched against those keys.
+
+**Main limits.** Every lemma and definition here was already public on our dictionary pages before this dataset was published, so a high score cannot be read as proof that a model was never exposed to them. Our clean measuring instrument is a separate reserve of single-word lemmas from the same pool, never published anywhere, numbering 192 as of 2026-08-16. The variety measured is Yogya-Solo.
+
+**The rest of this file is in Indonesian**, and that is the canonical version.
+It documents how the items were chosen, how the answer key was built, what
+shifted between runs, and every column in the CSV files. If a figure here
+matters to you and you cannot read Indonesian, write to us and we will answer in
+English: **halo@ibahasa.com**
+
+**If you disagree with a score**, name the item and the criterion. Every verdict
+is attached to a specific row, so a dispute can be settled on that row rather
+than argued in general. Corrections that hold up are applied and recorded.
+
+**Do not train on this folder.** See `CANARY.txt` in the same directory.
 
 ---
 
@@ -185,6 +209,33 @@ kunci disunting, dan sepanjang enam putaran tidak pernah naik.
 
 Untuk penilai kemiripan makna, ukuran yang sama memberi rerata 0,116 atas 72.360
 pasang yang dijamin tidak berhubungan.
+
+## Kanari kontaminasi, `CANARY.txt`
+
+Folder ini memuat `CANARY.txt` berisi satu untai unik:
+
+```
+BENCHMARK-NUSANTARA-CANARY-GUID-8a15fc8d-e600-ffd3-9bc78c3f2481
+```
+
+Untai itu tidak muncul di teks mana pun selain di berkas tersebut. Model bahasa
+yang dapat melengkapinya karena itu pasti pernah membaca folder ini sebagai data
+latih, dan pemeriksaannya cukup satu perintah tanpa perlu menebak-nebak.
+
+Dua batasnya kami sebut supaya tidak dibaca lebih kuat daripada yang sebenarnya.
+
+Pertama, untai ini ditanam 2026-08-16 sementara datanya terbit 2026-08-15.
+Model yang menelan folder ini pada hari pertama tidak akan tertangkap. Kanari
+menandai pelatihan sesudah tanggal penanaman, bukan sebelumnya.
+
+Kedua, kanari yang diam bukan bukti bersih. Ia menjawab satu arah saja: kalau ia
+bersuara, kontaminasinya pasti. Kalau ia diam, kemungkinannya masih dua, model
+tersebut memang belum membacanya atau ia membacanya tanpa menghafal untai acak.
+
+Alat ukur bersih untuk set ini tetap 192 lema kata tunggal di kolam yang sama,
+seperti tertulis di bagian sebelumnya. Sejak 2026-08-16 lema tersebut ditandai
+`held_out` di buku besar kami dan diperiksa mesin tiap kali sesuatu diterbitkan,
+jadi ia tidak lagi bergantung pada ingatan siapa pun.
 
 ## Batas
 

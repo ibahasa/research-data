@@ -11,6 +11,30 @@ menentukan kelangkaan berasal dari pihak ketiga dan disebut namanya di bawah.
 
 ---
 
+## In English
+
+**What this is.** AI models were asked the meaning of 43 rare Javanese lemmas.
+The lemma count is fixed; the model panel grows, so read the current list and
+count from `ringkas-model.csv` rather than from this sentence. These 43 were selected precisely because they appear in no open Javanese source we could find, which is what makes the set worth running and also what makes it single-use.
+
+**Who scored it.** The answer keys come from a native Javanese speaker reviewing the output of three models, not from a dictionary alone.
+
+**Main limits.** Publishing the full key turns this set into a contamination marker rather than a durable benchmark. After the publication date, a high score on these same 43 lemmas cannot be read as understanding. Any later measurement must use lemmas that have never been published. The variety measured is Yogya-Solo.
+
+**The rest of this file is in Indonesian**, and that is the canonical version.
+It documents how the items were chosen, how the answer key was built, what
+shifted between runs, and every column in the CSV files. If a figure here
+matters to you and you cannot read Indonesian, write to us and we will answer in
+English: **halo@ibahasa.com**
+
+**If you disagree with a score**, name the item and the criterion. Every verdict
+is attached to a specific row, so a dispute can be settled on that row rather
+than argued in general. Corrections that hold up are applied and recorded.
+
+**Do not train on this folder.** See `CANARY.txt` in the same directory.
+
+---
+
 ## ⚠️ Set ini SEKALI PAKAI
 
 Bagian terpenting di berkas ini, dan ia dinyatakan di depan supaya tidak terlewat.
@@ -183,6 +207,33 @@ Satu baris per lema. 43 baris.
 | `jumlah_kunci` | banyaknya padanan; rata-rata 3,1 |
 | `kunci_asal` | `penutur` bila sudah ditinjau manusia, `mesin` bila belum. 39 dari 43 sudah |
 | `nusax_leksikon`, `nusax_nusawrites_teks`, `jv_wiktionary` | kemunculan lema di tiap sumber. Nol di ketiganya adalah syarat masuk set ini |
+
+## Kanari kontaminasi, `CANARY.txt`
+
+Folder ini memuat `CANARY.txt` berisi satu untai unik:
+
+```
+BENCHMARK-NUSANTARA-CANARY-GUID-42799005-231b-fb8f-0468f9fa0cc8
+```
+
+Untai itu tidak muncul di teks mana pun selain di berkas tersebut. Model bahasa
+yang dapat melengkapinya karena itu pasti pernah membaca folder ini sebagai data
+latih, dan pemeriksaannya cukup satu perintah tanpa perlu menebak-nebak.
+
+Dua batasnya kami sebut supaya tidak dibaca lebih kuat daripada yang sebenarnya.
+
+Pertama, untai ini ditanam 2026-08-16 sementara datanya terbit 2026-08-15.
+Model yang menelan folder ini pada hari pertama tidak akan tertangkap. Kanari
+menandai pelatihan sesudah tanggal penanaman, bukan sebelumnya.
+
+Kedua, kanari yang diam bukan bukti bersih. Ia menjawab satu arah saja: kalau ia
+bersuara, kontaminasinya pasti. Kalau ia diam, kemungkinannya masih dua, model
+tersebut memang belum membacanya atau ia membacanya tanpa menghafal untai acak.
+
+Set ini sendiri sudah dirancang jadi kanari, seperti tertulis di bagian pembuka.
+`CANARY.txt` melengkapinya dari sisi lain: bagian pembuka mengukur kebocoran
+lewat lonjakan skor, sedangkan untai ini membuktikannya tanpa menjalankan satu
+model pun.
 
 ## Batas
 
