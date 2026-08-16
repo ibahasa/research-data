@@ -7,6 +7,20 @@ Raw data behind ibahasa research.
 Every figure we publish links back to a file here, pinned to the commit it was
 cited at. If you want to check a number, this is where you check it.
 
+## Benchmark data moved
+
+Benchmark data left this repository on 2026-08-16 and is now maintained at
+[`ibahasa/benchmark-nusantara`](https://github.com/ibahasa/benchmark-nusantara).
+
+The two change at completely different speeds. An article pins its provenance
+link to a commit SHA so the reader sees the data exactly as it stood when the
+sentence was written, and a Zenodo release must not move. Benchmark data is the
+opposite: it changes every time a model is run.
+
+**Links published before that date still work.** They are pinned to commit SHAs,
+and a commit permalink serves the tree as it stood at that commit rather than
+whatever `main` holds today.
+
 ## Layout
 
 ```
