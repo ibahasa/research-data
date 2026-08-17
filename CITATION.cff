@@ -2,12 +2,12 @@ cff-version: 1.2.0
 message: "If you use this data, please cite it using the metadata below, pinned to the version you actually used. See README.md for the concept DOI (always latest) versus the version DOI (reproducible)."
 title: "ibahasa Research Data"
 type: dataset
-version: "v0.1.0"
-date-released: "2026-08-04"
+version: "v0.2.0"
+date-released: "2026-08-17"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.21793396"
-    description: "Version-specific DOI for v0.1.0"
+    value: "10.5281/zenodo.21982949"
+    description: "Version-specific DOI for v0.2.0"
   - type: doi
     value: "10.5281/zenodo.21793395"
     description: "Concept DOI, always resolves to the latest version"

@@ -61,7 +61,7 @@ dataset. This repository is archived on [Zenodo](https://zenodo.org), which
 mints a permanent, version-pinned DOI for every GitHub Release.
 
 - **Cite the exact version you used** (recommended, for reproducibility):
-  `10.5281/zenodo.21793396` (`v0.1.0`)
+  `10.5281/zenodo.21982949` (`v0.2.0`)
 - **Cite "whatever is current"** (a concept DOI that always resolves to the
   latest version): `10.5281/zenodo.21793395`
 
@@ -72,9 +72,9 @@ mints a permanent, version-pinned DOI for every GitHub Release.
   month     = aug,
   year      = 2026,
   publisher = {Zenodo},
-  version   = {v0.1.0},
-  doi       = {10.5281/zenodo.21793396},
-  url       = {https://doi.org/10.5281/zenodo.21793396}
+  version   = {v0.2.0},
+  doi       = {10.5281/zenodo.21982949},
+  url       = {https://doi.org/10.5281/zenodo.21982949}
 }
 ```
 
