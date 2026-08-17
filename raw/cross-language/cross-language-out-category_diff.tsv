@@ -1,0 +1,158 @@
+category_id	langs_with_it	total_rules	example_name	example_lang
+CONFUSIONS	ca,es	2223	Confusions	ca
+CAT_GRAMMAIRE	fr	2195	Grammaire	fr
+INCORRECT_EXPRESSIONS	ca,es	2191	Expressions incorrectes	ca
+CAT_HOMONYMES_PARONYMES	fr	1689	Confusion d’homonymes et paronymes	fr
+OUDERWETS	nl	1632	Ouderwets	nl
+INCORRECT_WORDS_IN_CONTEXT	ca	1094	Paraules incorrectes segons el context	ca
+SPELLING	ca,pl,uk	896	Errors ortogràfics	ca
+PREFERABLE_EXPRESSIONS	ca,es	890	Expressions preferibles	ca
+DIACRITICS	ca,es	863	Accents diacrítics comuns	ca
+DYSLEXIE	nl	789	Speciale regels m.b.t. dyslexie	nl
+CAT_TOURS_CRITIQUES	fr	784	Tours critiqués divers (barbarismes, impropriétés, solécismes, etc.)	fr
+BARBARISM	uk	729	Варваризми	uk
+CAT_CALQUES	fr	623	Calques (anglicismes, emprunts directs, etc.)	fr
+MISSPELLING	es,pt	608	Ortografía	es
+VERBS	ca	467	Verbs	ca
+CAT_TYPOGRAPHIE	fr	459	Typographie	fr
+FORMAL	pt	447	🤵 Linguagem formal	pt
+CAT_ANGLICISMES_FOREIGN_TERMS	fr	401	Anglicismes non adaptés	fr
+SEKSE_ZAKEN	nl	385	stimuleren sekseneutraal schrijven	nl
+SYNTAX	ca,pl,pt	384	Sintaxi	ca
+PREPOSITIONS	ca,es	379	Preposicions	ca
+PRONOMS_FEBLES	ca	368	Pronoms febles	ca
+CONCORDANCES_NOUNS	ca	315	Concordances en grups nominals	ca
+COLLOQUIALISMS	de,nl	305	Umgangssprache	de
+MISC	de,nl,pl,pt	304	Sonstiges	de
+OVERIG	nl	299	Diverse regels	nl
+AGREEMENT	fr	287	Concordances	fr
+LOGIC	ru	276	Логические ошибки	ru
+CLARITY	pt	266	Clareza	pt
+EIGENNAMEN	nl	261	Eigennamen beroemdheden etc.	nl
+CONFUSIONS2	ca,es	223	Confusions	ca
+SHORTEN_IT	pt	218	✂️ Linguagem concisa	pt
+CAT_PLEONASMES	fr	186	Pléonasmes	fr
+FORMAL_SPEECH_PT_PT	pt	179	🇵🇹 Linguagem Formal	pt
+CLICHES	nl	171	Uit: Hoe bereidt je een paard? : clichés	nl
+NOT_FORMAL	ca	166	Evita formes impròpies d'un registre formal	ca
+AGREEMENT_NOUNS	es	162	Concordancia en grupos nominales	es
+DNV_PRIMARY_FORM	ca	157	Paraules admeses pel DNV (AVL), però no per altres diccionaris	ca
+ADVERBS	ca	154	Adverbis	ca
+CAT_REGIONALISMES	fr	150	Régionalismes	fr
+EXTEND	ru	139	Дополнительные правила	ru
+AUTOMATIC_TRANSLATION	ca	137	Errors de traductor automàtic	ca
+EMPFOHLENE_RECHTSCHREIBUNG	de	119	Empfohlene/Modernere Rechtschreibung	de
+PONCTUATION_VIRGULE	fr	115	Punctuation virgule	fr
+CRITERIS_ADMINISTRACIO_VALENCIANA	ca	110	Criteris de l'Administració Valenciana	ca
+WOORDGROEPEN	nl	105	Woordgroepen	nl
+REPETITIONS	ca,es,nl	103	Repeticions	ca
+IDIOMS	de	103	Redewendungen	de
+STYLE_OPTIONAL	ca	103	Qüestions estilístiques opcionals	ca
+REFLEXIVE_VERBS	ca	98	verbs reflexius	ca
+CAT_MAJUSCULES	fr	98	Majuscules	fr
+TYPOGRAPHY_OPTIONS	ca	95	Opcions de tipografia	ca
+OUDERWETS_TO_IMPROVE	nl	90	Regels die verbeterd moeten worden	nl
+APOSTROPHATION	ca	89	Apostrofació	ca
+CAT_ALLEEN_BE	nl	83	Verschil België en Nederland	nl
+DNV_SECONDARY_FORM	ca	83	Paraules admeses pel DNV (AVL), però com a formes secundàries	ca
+ACADEMIC	pt	79	🎓 Linguagem acadêmica	pt
+EUROPEAN_PORTUGUESE_PT_PT	pt	78	🇵🇹 Português de Portugal	pt
+UNEXPECTED	nl	70	onverwachte woordreeksen	nl
+LEENWOORDEN	nl	70	Leenwoorden en anglicismen met een gangbaar alternatief	nl
+CAT_REGLES_DE_BASE	fr	70	Règles de base	fr
+DIACRITICS_TRADITIONAL	ca	69	Accents diacrítics segons les normes tradicionals	ca
+CONSTRUCTIEFOUT	nl	67	Constructiefout	nl
+RESTRICTED_VOCABULARY	ca	67	Vocabulari d'ús restringit	ca
+CONCORDANCES_SUBJECT_VERB	ca	67	Concordances entre subjecte, verb i complements	ca
+REGIONAL_VERBS	ca	67	Variants regionals: verbs	ca
+REDUNDANCIES	ca,es	66	Redundàncies	ca
+ACCENTUACIO	ca	65	accentuació	ca
+VORMFOUTEN	nl	64	Vormfouten	nl
+AGREEMENT_VERBS	es	61	Concordancia sujeto/predicado	es
+DNV_COLLOQUIAL	ca	61	paraules col·loquials segons el DNV	ca
+CORRESPONDENCE	de	60	Briefe und E-Mails	de
+CAT_ELISION	fr	57	Élision	fr
+NOMS_PROPIS_MULTI	ca	56	noms de persones i llocs	ca
+SECONDARY_FORMS	ca	54	Formes secundàries	ca
+AFKORTINGEN	nl	52	Afkortingen	nl
+DETERMINANTS	ca	51	Determinants	ca
+OBJECTIVE	pt	49	Linguagem objetiva	pt
+AO90_RULES_PT_PT	pt	48	🇵🇹 Regras do Acordo Ortográfico de 90 (pós-AO90)	pt
+CONCORDANCES_NOUNS_PRIORITY	ca	48	Concordances en grups nominals	ca
+FORMAL_SPEECH_PT_BR	pt	47	🇧🇷 Linguagem Formal	pt
+SHORTEN_IT_PT_PT	pt	43	🇵🇹✂️ Linguagem concisa	pt
+HILFESTELLUNG_KOMMASETZUNG	de	43	Kommasetzung	de
+CAT_MARQUES_DE_COMMERCE	fr	42	Marques de commerce	fr
+CONGRUENTIE	nl	41	Congruentie	nl
+GEOGRAFIE	nl	40	Geografie	nl
+REGIONAL_NON_VERBS	ca	38	Variants regionals: accentuació, possessius, demostratius, pronoms	ca
+CONTRACTIONS	pt	37	Contrações	pt
+NUMERALS	ca	37	Numerals	ca
+SLORDIG	nl	36	Slordig, maar informeel geaccepteerd	nl
+INCORRECT_ORDER_STYLE	ca	33	Ordenació incorrecta	ca
+REDUNDANCY_PT_PT	pt	32	🇵🇹 Pleonasmos/Redundância	pt
+CONDEMNED_BY_SOME	ca	30	Construccions desaconsellades per alguns manuals d'estil	ca
+CONJUNCTIONS	ca	27	Conjuncions	ca
+STRICT_CHECKINGS	ca	27	Comprovacions estrictes	ca
+NOTATIES	nl	25	Notaties	nl
+PONCTUATION_POINT	fr	25	Punctuation point	fr
+PHONETICS	pl	24	Błędy fonetyczne	pl
+REGISTERED_BRANDS	pt	23	Regras de Marcas e Termos Registados	pt
+ACCURATE_TYPOGRAPHY	es	22	tipografía avanzada	es
+VOLUIT_SCHRIJVEN	nl	20	Voluit schrijven	nl
+AO45_RULES	pt	18	Regras do Acordo Ortográfico de 45 (pré-AO90)	pt
+CAT_ARCHAISMES	fr	18	Archaïsmes (tours vieillis, anciens et vieux)	fr
+ACADEMIC_SCIENTIFIC_PT_PT	pt	16	🇵🇹🎓🔬 Regras académicas e científicas	pt
+POSSESSIVES	ca	16	Possessius	ca
+OPTIONAL_CHECKINGS	ca	16	Revisions opcionals	ca
+WORDS_NOT_ACCEPTED_BY_ALL	ca	16	Evita paraules incloses només en alguns diccionaris	ca
+GETALLEN	nl	15	Getallen	nl
+CAMBIOS_NORMA	es	15	Cambios en las normas lingüísticas	es
+CRITERIS_UNIVERSITATS_VALENCIANES	ca	15	Criteris de les universitats valencianes	ca
+REGIONALISMS_PT_PT	pt	14	🇵🇹 Regionalismos	pt
+MOM__GRAMMAR__CONSTITUENT_AGREEMENT__NOUN_PHRASE	nl	14	noun phrase agreement	nl
+OPTIONAL_FORMS	nl	14	niet-noodzakelijke correcte spellingvarianten	nl
+CONTEXT	es	14	Errores según el contexto	es
+BE_NL	nl	13	Verschil België en Nederland	nl
+GENDER	pl	13	Błędy rodzaju gramatycznego	pl
+REMOVE_PRONOUN	pt	12	Remoção de pronomes	pt
+CAT_ALLEEN_NL	nl	12	Schrijven voor het hele taalgebied	nl
+DATES	ca	11	Expressions de temps i datació	ca
+PLURAL_OPTIONAL	ca	11	Formes de plural opcionals	ca
+NUMBERS	pl	11	Formatowanie liczb	pl
+EGGCORNS	pt	10	Calinadas	pt
+AO45_RULES_PT_PT	pt	10	🇵🇹 Regras do Acordo Ortográfico de 45 (pré-AO90)	pt
+SCIENTIFIC	pt	9	🔬 Linguagem científica	pt
+FULL_SENTENCES	nl	9	volledige zinnen met fout	nl
+LLENGUATGE_INCLUSIU	ca	9	Llenguatge inclusiu	ca
+PONCTUATION_STYLE_OS	fr	9	Ponctuation style OS	fr
+MOZAMBIQUE_PORTUGUESE	pt	8	Português de Moçambique (pré-AO90)	pt
+ANGOLA_PORTUGUESE	pt	8	Português de Angola (pré-AO90)	pt
+VASTE_UITDRUKKINGEN	nl	8	Vaste uitdrukkingen	nl
+CONFIDENT	nl	8	Duidelijk en zelfverzekerd schrijven	nl
+WORD_ORDER	pl	8	Błędy w szyku wyrazów	pl
+TRANSLATION_ERRORS	pt	6	Erros de Tradução	pt
+CONTRACTIONS_PT_PT	pt	6	🇵🇹 Contrações	pt
+LOGICAL_ERRORS	uk	6	Логічні помилки	uk
+GENDER_NEUTRALITY	de,nl	6	Geschlechtergerechte Sprache	de
+DIACRITICS_EXPERIMENTAL	es	6	diacríticos (experimental)	es
+LANGUAGE_VARIANTS	es	6	Variedades de lengua	es
+INFORMAL	pt	5	Linguagem informal	pt
+CONFUSED_WORDS_PT_PT	pt	5	🇵🇹 Confusão de Palavras	pt
+ADAPTADOR_VALENCIA	ca	5	adaptador valencià	ca
+STREEKTAAL	nl	4	Streektaal	nl
+DISPUTED_FORMS	ca	4	Formes normatives discutides: ressituar	ca
+SELECT_SENTENCES	ca	4	utilitats per a seleccionar frases	ca
+VALENCIAN_RULES	ca	4	Regles específiques per al diccionari valencià	ca
+BR_SPELLING	pt	3	🇧🇷 ortografia brasileira	pt
+BELEDIGEND	nl	3	Beledigend	nl
+POSITIVE	pt	2	🎯 Linguagem positiva	pt
+GENERAL	pt	2	🖌️ Regras gerais de estilo	pt
+TRANSLATION_ERRORS_PT_PT	pt	2	🇵🇹 Erros de Tradução	pt
+LEESBAARHEID	nl	2	Leesbaarheid	nl
+NEG	pl,ru	2	negation	pl
+DEVELOPMENT	pt	1	Desenvolvimento	pt
+STYLE_NLBE	nl	1	style rules	nl
+DIACRITICS_IEC	ca	1	Z) Accents diacrítics segons l'IEC	ca
+ADMINISTRATIVE_LANGUAGE	ca	1	Llenguatge administratiu	ca
+FALSE_FRIENDS	nl	0	Woorden die verward worden met een gelijkend woord in een andere taal.	nl

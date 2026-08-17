@@ -21,6 +21,9 @@ opposite: it changes every time a model is run.
 and a commit permalink serves the tree as it stood at that commit rather than
 whatever `main` holds today.
 
+The benchmark snapshots as they stood before the split remain archived in the
+v0.1.0 Zenodo deposit (`10.5281/zenodo.21793396`).
+
 ## Layout
 
 ```

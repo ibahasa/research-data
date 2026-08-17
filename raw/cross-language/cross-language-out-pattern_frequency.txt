@@ -1,0 +1,29 @@
+Korpus: 100000 kalimat (ind_news_2020_100K, Leipzig, CC BY 4.0)
+
+== Partikel berulang dalam jarak <= 8 token (per jenis) ==
+  yang         2409/100000 (2.41%)  contoh: Aa Gym kemudian mempertegas pertanyaanya soal isu yang berkembang di masyarakat yang menye
+  di           2254/100000 (2.25%)  contoh: "1.154 sampel diperiksa di Lab Unand dan 26 lainnya di Lab Baso Agam, warga Sumbar positif
+  dengan        548/100000 (0.55%)  contoh: "Aabila terjadi kebakaran hutan dan lahan maka dapat dipastikan masyarakat kita yang punya
+  untuk         456/100000 (0.46%)  contoh: "70 persen untuk koperasi produksi, sisanya untuk koperasi Simpan Pinjam.
+  dari          436/100000 (0.44%)  contoh: Acara ini juga menampilkan penampilan dari Jrx SID yang melakukan pertunjukan musik virtua
+  dalam         240/100000 (0.24%)  contoh: Ada 4 tusukan (di dada), ada tiga tidak terlalu dalam, tapi yang terakhir dalam, 12 cm.
+  pada          224/100000 (0.22%)  contoh: Adalah berupa subsidi bunga 3% pada tiga bulan pertama dan 2% pada tiga bulan berikutnya.
+  ke            162/100000 (0.16%)  contoh: Abraham Damar Grahita dan kawan-kawan dijadwalkan bertandang ke Thailand pada 27 November,
+
+== Kandidat litotes tetap (bigram harfiah, BUKAN pemindai negasi umum) ==
+  "bukan tidak": 16/100000 (0.016%)
+  "tidak bukan": 0/100000 (0.000%)
+  "bukan berarti tidak": 5/100000 (0.005%)
+  "tak bukan": 3/100000 (0.003%)
+
+== Distribusi jumlah koma per kalimat ==
+   0 koma:  37033 kalimat  (kumulatif  37.0%)
+   1 koma:  37289 kalimat  (kumulatif  74.3%)
+   2 koma:  15679 kalimat  (kumulatif  90.0%)
+   3 koma:   6044 kalimat  (kumulatif  96.0%)  <-- persentil
+   4 koma:   2472 kalimat  (kumulatif  98.5%)  <-- persentil
+   5 koma:    868 kalimat  (kumulatif  99.4%)  <-- persentil
+   6 koma:    341 kalimat  (kumulatif  99.7%)  <-- persentil
+   7 koma:    169 kalimat  (kumulatif  99.9%)
+   8 koma:     71 kalimat  (kumulatif 100.0%)
+   9 koma:     34 kalimat  (kumulatif 100.0%)

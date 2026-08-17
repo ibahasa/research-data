@@ -1,13 +1,16 @@
 {
   "slug": "proper-nouns",
-  "title": "Tokens that are simultaneously a personal name and an ordinary word",
-  "published_at": "2026-08-05T07:19:40Z",
-  "source_commit": "0ff2a804",
-  "fingerprint": "389768c5aec2978f",
+  "title": "Tokens that are simultaneously a proper noun (person, place, or company) and an ordinary word, plus the full name gazetteer and the production suppression scope",
+  "published_at": "2026-08-16T17:18:56Z",
+  "source_commit": "3b79e64e",
+  "fingerprint": "027f086428dcd3c4",
   "license": "CC0 1.0",
   "files": [
-    { "file": "proper-nouns-out-token_homograf.tsv", "source": "proper-nouns/out/token_homograf.tsv", "bytes": 75880, "sha256": "7966ff8b718e684827baf8ea48ba78bbe04a6919ef28616db5300c2a5dd26a9f" },
-    { "file": "proper-nouns-out-nama_orang_frekuen.tsv", "source": "proper-nouns/out/nama_orang_frekuen.tsv", "bytes": 167440, "sha256": "83b3ed472a0b4131e9e128dbbe52f18a23613df37614de215d5be0e3d70f9105" },
-    { "file": "proper-nouns-out-PROVENANCE.md", "source": "proper-nouns/out/PROVENANCE.md", "bytes": 1160, "sha256": "3c2688c35ba7be37dacca4aae4a485345b3dbc09b977dbfa61e582b030b1811d" }
+    { "file": "proper-nouns-out-token_homograf.tsv", "source": "proper-nouns/out/token_homograf.tsv", "bytes": 96137, "sha256": "c7e4a619a437c70d1fc766825c64f0c0593e77ad7e31dabc1bd323d0b5823e20" },
+    { "file": "proper-nouns-out-nama_orang_frekuen.tsv", "source": "proper-nouns/out/nama_orang_frekuen.tsv", "bytes": 166240, "sha256": "5676b2fc1a095082d1dccb80058eb6f4ae5ee060a33453938cecfb48364492f0" },
+    { "file": "proper-nouns-out-organisasi_perusahaan.tsv", "source": "proper-nouns/out/organisasi_perusahaan.tsv", "bytes": 43244, "sha256": "c62b04633f110cde4fe9d5d2c1e52402febaea7797ae6e33782dbc47b03ff20f" },
+    { "file": "proper-nouns-out-gazetteer.jsonl", "source": "proper-nouns/out/gazetteer.jsonl", "bytes": 1680192, "sha256": "2989f0bea28fb9ce981330fc65883e2d134e3887c5ef65fb7488f53638fb3965" },
+    { "file": "proper-nouns-out-v1_seed.tsv", "source": "proper-nouns/out/v1_seed.tsv", "bytes": 337263, "sha256": "2804a91acbb8e24c816e92a097032022ec825c35b3d9b708a47fee0c02df3c9b" },
+    { "file": "proper-nouns-out-PROVENANCE.md", "source": "proper-nouns/out/PROVENANCE.md", "bytes": 7596, "sha256": "3f8a36c5d046381a56f8686e8684b79558919ba8cc0436e367b432a7caffbfdd" }
   ]
 }

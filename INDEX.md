@@ -4,12 +4,14 @@ Generated automatically when data is published. Do not edit by hand.
 
 | Dataset | Files | Published | Source commit |
 |---|---|---|---|
-| [`editor-audit-history`](./raw/editor-audit-history/) — Editor engine audit history, labelled runs with per-rule breakdown | 1 | 2026-08-06 | `6212330a` |
+| [`cross-language`](./raw/cross-language/) — Comma distribution, repeated particles and litotes across 100,000 news sentences | 2 | 2026-08-16 | `3b79e64e` |
+| [`editor-audit-history`](./raw/editor-audit-history/) — Editor engine audit history, labelled runs with per-rule breakdown | 1 | 2026-08-16 | `3b79e64e` |
 | [`frequency-corpus`](./raw/frequency-corpus/) — Lexicon coverage against the Leipzig frequency corpus, plus ranked foreign-word candidates | 3 | 2026-08-01 | `ab90fa7f` |
 | [`languagetool-rules`](./raw/languagetool-rules/) — LanguageTool rule base analysis, 2909 entries plus the 44 Tagalog rules | 3 | 2026-08-03 | `de0f90c4` |
-| [`proper-nouns`](./raw/proper-nouns/) — Tokens that are simultaneously a personal name and an ordinary word | 3 | 2026-08-05 | `0ff2a804` |
+| [`proper-nouns`](./raw/proper-nouns/) — Tokens that are simultaneously a proper noun (person, place, or company) and an ordinary word, plus the full name gazetteer and the production suppression scope | 6 | 2026-08-16 | `3b79e64e` |
 | [`regional-languages`](./raw/regional-languages/) — Per-province first-language aggregates derived from official Indonesian census figures, plus the Glottolog language catalogue (attribution: BPS-Statistics Indonesia; Glottolog CC BY 4.0) | 2 | 2026-08-05 | `0ff2a804` |
 | [`system-audit-aggregates`](./raw/system-audit-aggregates/) — Aggregate tables behind the system-audit findings: enrichment gate coverage, review-queue ordering by corpus frequency, post-model human editing, and AI job failure taxonomy with its classification rules | 8 | 2026-08-05 | `0ff2a804` |
 | [`wiki-corrections`](./raw/wiki-corrections/) — Mined correction candidates and the subset that survived human verification (word pairs extracted from Wikipedia revision history; attribution to Wikipedia contributors) | 2 | 2026-08-05 | `0ff2a804` |
 | [`wiki-kesehatan`](./raw/wiki-kesehatan/) — Digital health survey of 15 Indonesian regional-language Wikipedias | 1 | 2026-08-03 | `de0f90c4` |
+| [`wikipedia-typos`](./raw/wikipedia-typos/) — Spelling-error patterns mined from Indonesian Wikipedia | 3 | 2026-08-16 | `3b79e64e` |
 | [`wild-audit`](./raw/wild-audit/) — Correction engine audit on real text: per-snapshot aggregate counts (sentences from Leipzig Corpora ind_news_2020) | 1 | 2026-08-03 | `bac4de78` |

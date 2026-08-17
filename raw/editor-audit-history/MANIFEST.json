@@ -1,12 +1,12 @@
 {
   "slug": "editor-audit-history",
   "title": "Editor engine audit history, labelled runs with per-rule breakdown",
-  "published_at": "2026-08-06T06:37:23Z",
-  "source_commit": "6212330a",
-  "fingerprint": "b9ad399e3c048338",
+  "published_at": "2026-08-16T17:18:56Z",
+  "source_commit": "3b79e64e",
+  "fingerprint": "c1058aed6720bf16",
   "license": "CC BY 4.0",
   "cited_by": ["https://ibahasa.com/id/riset/model-bahasa-memperburuk-koreksi-ejaan"],
   "files": [
-    { "file": "docs-audit-history.tsv", "source": "docs/audit-history.tsv", "bytes": 36784, "sha256": "99f883fea168e36534377d1fe8020936b6447b12ab494644d1507d25e1e5d1a6" }
+    { "file": "docs-audit-history.tsv", "source": "docs/audit-history.tsv", "bytes": 39771, "sha256": "f1ac9fac8a3edf192ad0131f43d4d55c973240e3ec61be68d02ab83e26b6db4a" }
   ]
 }

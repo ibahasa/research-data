@@ -1,0 +1,13 @@
+{
+  "slug": "wikipedia-typos",
+  "title": "Spelling-error patterns mined from Indonesian Wikipedia",
+  "published_at": "2026-08-16T17:18:56Z",
+  "source_commit": "3b79e64e",
+  "fingerprint": "b04eafdba9e80aae",
+  "license": "CC BY-SA 4.0",
+  "files": [
+    { "file": "wikipedia-typos-out-typos.jsonl", "source": "wikipedia-typos/out/typos.jsonl", "bytes": 1413672, "sha256": "d5edb257022dcdb0e7e09117e363eb1ec2e45b7d91684a758e2511ad7f5b5975" },
+    { "file": "wikipedia-typos-out-varian_kbbi.csv", "source": "wikipedia-typos/out/varian_kbbi.csv", "bytes": 27038, "sha256": "12ce2ba5262c6a1c458a59fc746c360a1ab146af00e294e3837ed1ce5ba5fab1" },
+    { "file": "wikipedia-typos-out-PROVENANCE.md", "source": "wikipedia-typos/out/PROVENANCE.md", "bytes": 1198, "sha256": "8e1f1d7242dca438f2f83cc91f8c02ab5d4a87fd309e5b3d84887c3d35fdd90c" }
+  ]
+}

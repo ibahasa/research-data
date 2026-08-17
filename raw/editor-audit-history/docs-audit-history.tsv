@@ -149,3 +149,22 @@ waktu_utc	gerbang	label	ringkasan
 2026-08-04T08:59Z	lintas_bahasa	-	id_kamus=46449 | en_kamus=46449 | id_tabrakan=796/46449 (1.71%) | en_tabrakan=308/46449 (0.66%) | selisih_poin=-1.05
 2026-08-04T08:59Z	lintas_bahasa	riset-C populasi penuh tanpa tutup 20k	id_kamus=46449 | en_kamus=46449 | id_tabrakan=796/46449 (1.71%) | en_tabrakan=308/46449 (0.66%) | selisih_poin=-1.05
 2026-08-04T08:59Z	stemmer	riset-C populasi penuh tanpa tutup 20k	lema=49708 | titik_tetap=32742 (65.9%) | turunan_sah=16945 (34.1%) | salah_lucut=21 (0.0%) | tak_idempoten=0 (0.00%) | salah_terima=2301/46449 (4.95%) | jalur_tabrakan=796 (1.71%) | jalur_klitik=19 (0.04%) | jalur_pemenggal=1486 (3.20%) | crash_bermusuhan=0
+2026-08-07T08:09Z	lema_baru	task-35: 8 lema baru masuk leksikon	dasar=8/9 | berimbuhan=2/4
+2026-08-07T08:11Z	lema_baru	task-35: 8 lema baru masuk leksikon	dasar=8/8 | berimbuhan=2/4
+2026-08-07T08:12Z	fp	task-35: 8 lema baru (congkel,distro,instal,jagad,literatur,milis,problematika,ribet)	fp_total=0 | per_1k=0.00 | per_rule=- | crash=0 | kata=2430 | lexicon=72616
+2026-08-07T08:12Z	recall	task-35: 8 lema baru	recall=78/80 (97.5%) | saran=78/78 (100.0%) | miss=2 | saran_salah=0 | over_flag=2 | lexicon=72616 | onnx=ready
+2026-08-07T08:13Z	lema_baru	task-35: 8 lema baru masuk leksikon	dasar=8/8 | berimbuhan=2/4 | temuan_selesai=20 | temuan_tersisa=6
+2026-08-07T08:46Z	lema_baru	task-35: diagnosis hibrida	dasar=8/8 | berimbuhan=2/4 | temuan_selesai=20 | temuan_tersisa=6
+2026-08-07T15:46Z	sinyal_asing	task-35: calon kosakata komputasi modern, 157 kata	populasi=905 wild-typo, 3000 korupsi | bentuk_ortografis=tutup 45.4% rusak 19.87% | kamus_inggris_min5=tutup 24.5% rusak 0.43% | daftar_korpus=tutup 42.0% rusak 0.03% | gabungan_aktif=tutup 45.3% rusak 0.43% | kosakata_modern=tutup 0.1% rusak 0.00% | gabungan_plus_modern=tutup 45.4% rusak 0.43%
+2026-08-07T15:48Z	sinyal_asing	task-35: kosakata modern, korupsi diperbanyak jadi populasi penuh	populasi=905 wild-typo, 46457 korupsi | bentuk_ortografis=tutup 45.4% rusak 20.28% | kamus_inggris_min5=tutup 24.5% rusak 0.33% | daftar_korpus=tutup 42.0% rusak 0.01% | gabungan_aktif=tutup 45.3% rusak 0.33% | kosakata_modern=tutup 0.1% rusak 0.00% | gabungan_plus_modern=tutup 45.4% rusak 0.33%
+2026-08-07T15:49Z	fp	task-35: kosakata modern dipasang + cpanel homograf	fp_total=0 | per_1k=0.00 | per_rule=- | crash=0 | kata=2430 | lexicon=72616
+2026-08-07T15:49Z	recall	task-35: kosakata modern dipasang + cpanel homograf	recall=78/80 (97.5%) | saran=78/78 (100.0%) | miss=2 | saran_salah=0 | over_flag=2 | lexicon=72616 | onnx=ready
+2026-08-08T09:24Z	lema_baru	task-35: intisari masuk leksikon	dasar=9/9 | berimbuhan=2/4 | temuan_selesai=29 | temuan_tersisa=6
+2026-08-08T09:25Z	lema_baru	task-35: intisari masuk leksikon	dasar=9/9 | berimbuhan=2/4 | temuan_selesai=29 | temuan_tersisa=6
+2026-08-08T09:25Z	fp	task-35: intisari	fp_total=0 | per_1k=0.00 | per_rule=- | crash=0 | kata=2430 | lexicon=72617
+2026-08-08T09:25Z	recall	task-35: intisari	recall=78/80 (97.5%) | saran=78/78 (100.0%) | miss=2 | saran_salah=0 | over_flag=2 | lexicon=72617 | onnx=ready
+2026-08-08T14:48Z	lema_baru	-	dasar=9/9 | berimbuhan=2/4 | temuan_selesai=29 | temuan_tersisa=6
+2026-08-08T15:19Z	kamus_pemenggal	riset-21 koreksi: dua kegagalan berlawanan arah	kamus=29932 | akar_meragukan=628 (68 <=4 huruf) | over_ke_meragukan=20 | over_bukan_kata=0 | kandidat_buntu=2142
+2026-08-09T07:14Z	lema_baru	-	dasar=9/9 | berimbuhan=2/4 | temuan_selesai=29 | temuan_tersisa=6
+2026-08-09T07:16Z	lema_baru	-	dasar=9/9 | berimbuhan=2/4 | temuan_selesai=29 | temuan_tersisa=6
+2026-08-09T07:18Z	lema_baru	-	dasar=9/9 | berimbuhan=2/4 | temuan_selesai=29 | temuan_tersisa=6

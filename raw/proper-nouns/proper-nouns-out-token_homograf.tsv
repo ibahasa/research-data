@@ -1,5 +1,6 @@
 token	kelas	kbbi_pos	kbbi_semantic_class
 abad	wilayah:kecamatan	Nomina	
+abadi	organisasi:perusahaan	Adjektiva	
 abang	wilayah:kecamatan	Nomina	
 abdi	orang:nama-depan	Nomina	
 abdul	orang:nama-depan,orang:nama-keluarga		
@@ -7,36 +8,44 @@ abidin	orang:nama-depan,orang:nama-keluarga	Nomina
 abrar	orang:nama-depan	Adjektiva	
 abu	orang:nama-depan	Nomina	
 aceh	wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	proper
+ada	organisasi:perusahaan	Verba	
 adam	orang:nama-depan,orang:nama-keluarga	Nomina	proper
+adiluhung	organisasi:perusahaan	Adjektiva	
 adinda	orang:nama-depan	Nomina	
 adnan	orang:nama-depan,orang:nama-keluarga	Nomina	
 afiat	orang:nama-depan	Adjektiva	
 agam	orang:nama-depan,wilayah:kabupaten-kota	Adjektiva	
-agung	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Adjektiva	
+agung	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 agus	orang:nama-depan,orang:nama-keluarga	Nomina	
+ahad	organisasi:perusahaan	Nomina	tempo
 ahsan	orang:nama-keluarga	Adjektiva	
-air	wilayah:kecamatan	Nomina	
+air	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 aji	orang:nama-depan,wilayah:kecamatan	Adjektiva	
 ajung	wilayah:kecamatan		
-akbar	orang:nama-depan,orang:nama-keluarga	Adjektiva	
+akademi	organisasi:perusahaan	Nomina	
+akbar	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan	Adjektiva	
 akli	orang:nama-depan	Adjektiva	
 akmal	orang:nama-depan	Adjektiva	
+aktif	organisasi:perusahaan	Adjektiva	
 alahan	wilayah:kecamatan		
 alai	wilayah:kecamatan	Nomina	
 alak	wilayah:kecamatan	Verba	
-alam	orang:nama-keluarga,wilayah:kabupaten-kota,wilayah:kecamatan		
+alam	orang:nama-keluarga,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan		
 alang	wilayah:kecamatan	Nomina	
 alas	wilayah:kecamatan	Nomina	
+alfa	organisasi:perusahaan	Nomina	
 ali	orang:nama-depan,orang:nama-keluarga	Verba	
 alif	orang:nama-depan	Nomina	
+alih	organisasi:perusahaan	Verba	
 alim	orang:nama-depan,orang:nama-keluarga	Adjektiva	
 alin	orang:nama-depan	Verba	
 alip	wilayah:kecamatan	Nomina	tempo
 alis	orang:nama-depan	Nomina	
 alor	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+aluminium	organisasi:perusahaan	Nomina	
 amal	orang:nama-depan,orang:nama-keluarga	Nomina	
-aman	orang:nama-depan,wilayah:kecamatan	Adjektiva	
-amar	orang:nama-depan,wilayah:kecamatan	Nomina	
+aman	orang:nama-depan,organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
+amar	orang:nama-depan,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 amat	orang:nama-keluarga	Adverbia	
 ambai	wilayah:kecamatan	Nomina	
 ambal	wilayah:kecamatan	Nomina	
@@ -54,28 +63,37 @@ amril	orang:nama-depan	Nomina
 ana	orang:nama-depan	Nomina	
 anak	wilayah:kecamatan	Nomina	
 ananda	orang:nama-depan	Nomina	
+ancol	organisasi:perusahaan	Nomina	
 anda	orang:nama-depan	Pronomina	action
+andalan	organisasi:perusahaan	Nomina	
 andam	wilayah:kecamatan	Nomina	
-andika	orang:nama-depan	Nomina	
+andika	orang:nama-depan,organisasi:perusahaan	Nomina	
 andong	wilayah:kecamatan	Nomina	
+aneka	organisasi:perusahaan		
 angel	orang:nama-depan	Adjektiva	
 angga	orang:nama-depan	Verba	
 anggai	orang:nama-keluarga	Nomina	
 anggrek	wilayah:kecamatan	Nomina	
 anggun	orang:nama-depan		
-angin	wilayah:kecamatan	Nomina	
+angin	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+angkasa	organisasi:perusahaan	Nomina	
 angkur	orang:nama-keluarga	Nomina	
 angsana	wilayah:kecamatan	Nomina	
 ani	orang:nama-depan	Nomina	
 anis	orang:nama-depan,orang:nama-keluarga	Nomina	
 anjir	wilayah:kecamatan		
 ansari	orang:nama-keluarga	Nomina	
-antara	wilayah:kecamatan	Nomina	
+antara	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+antaran	organisasi:perusahaan	Nomina	
+anugerah	organisasi:perusahaan	Nomina	
 anyar	wilayah:kecamatan	Adjektiva	
 ape	wilayah:kecamatan	Nomina	
+api	organisasi:perusahaan	Nomina	
 apit	wilayah:kecamatan		
+apotek	organisasi:perusahaan		
 april	orang:nama-depan	Nomina	tempo
 ara	wilayah:kecamatan	Nomina	
+arah	organisasi:perusahaan	Nomina	
 arahan	wilayah:kecamatan	Nomina	
 aras	orang:nama-depan	Adjektiva	
 ardi	orang:nama-depan,orang:nama-keluarga	Nomina	
@@ -88,33 +106,47 @@ aries	orang:nama-depan	Nomina	locus
 arif	orang:nama-depan,orang:nama-keluarga	Adjektiva	
 arifin	orang:nama-keluarga	Nomina	
 aris	orang:nama-depan	Nomina	
+armada	organisasi:perusahaan	Nomina	
 aron	wilayah:kecamatan	Adjektiva	
+arta	organisasi:perusahaan	Nomina	
 aru	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+arwana	organisasi:perusahaan	Nomina	
 arya	orang:nama-depan	Nomina	
+asa	organisasi:perusahaan	Nomina	
 asad	orang:nama-depan	Nomina	
 asahan	wilayah:kabupaten-kota	Nomina	
 asai	wilayah:kecamatan	Nomina	
-asam	wilayah:kecamatan	Nomina	
+asam	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+aset	organisasi:perusahaan	Nomina	
 askar	orang:nama-keluarga	Nomina	
+asli	organisasi:perusahaan	Nomina	abstract
 asma	orang:nama-depan	Nomina	
 asmara	orang:nama-depan	Nomina	
 asmat	wilayah:kabupaten-kota	Nomina	proper
+asosiasi	organisasi:perusahaan	Nomina	
 asparaga	wilayah:kecamatan		
-asri	orang:nama-depan		
+aspirasi	organisasi:perusahaan	Nomina	
+asri	orang:nama-depan,organisasi:perusahaan		
+asuransi	organisasi:perusahaan	Nomina	
 atas	wilayah:kecamatan	Nomina	
+atlas	organisasi:perusahaan		
+atm	organisasi:perusahaan	Nomina	acronym
 atresia	orang:nama-depan	Nomina	
 aulia	orang:nama-depan,orang:nama-keluarga	Nomina	
 aur	wilayah:kecamatan	Nomina	
 aura	orang:nama-depan	Nomina	abstract
-aurora	orang:nama-depan	Nomina	
+aurora	orang:nama-depan,organisasi:perusahaan	Nomina	
 aurum	orang:nama-depan	Nomina	
+auto	organisasi:perusahaan		
 awai	wilayah:kecamatan	Verba	
+awal	organisasi:perusahaan	Nomina	
 awan	wilayah:kecamatan		
 awang	wilayah:kecamatan	Nomina	
 ayah	wilayah:kecamatan	Nomina	
 ayat	orang:nama-depan,orang:nama-keluarga	Nomina	
 ayu	orang:nama-depan,orang:nama-keluarga	Adjektiva	
 aziz	orang:nama-depan	Adjektiva	
+baba	organisasi:perusahaan	Nomina	
 babah	wilayah:kecamatan		
 babakan	wilayah:kecamatan	Nomina	
 babang	wilayah:kecamatan	Verba	
@@ -131,10 +163,12 @@ bagian	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina
 bagor	wilayah:kecamatan	Nomina	
 bagus	orang:nama-depan,orang:nama-keluarga	Adjektiva	
 bah	wilayah:kecamatan	Nomina	
-bahagia	wilayah:kecamatan	Nomina	
+bahagia	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+bahana	organisasi:perusahaan	Nomina	
 bahar	orang:nama-keluarga,wilayah:kecamatan	Nomina	
-bahari	wilayah:kecamatan	Adjektiva	
+bahari	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 baharu	wilayah:kecamatan		
+bahtera	organisasi:perusahaan	Nomina	
 baja	wilayah:kecamatan	Nomina	
 bakam	wilayah:kecamatan	Nomina	
 bakar	orang:nama-depan,orang:nama-keluarga	Verba	
@@ -147,7 +181,7 @@ balak	wilayah:kecamatan	Nomina
 balam	wilayah:kecamatan	Nomina	
 balangan	wilayah:kabupaten-kota	Nomina	proper
 balen	wilayah:kecamatan	Nomina	
-bali	wilayah:provinsi	Nomina	proper
+bali	organisasi:perusahaan,wilayah:provinsi	Nomina	proper
 balik	wilayah:kecamatan	Nomina	
 balikpapan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 balong	wilayah:kecamatan	Nomina	
@@ -157,7 +191,8 @@ bambanglipuro	wilayah:kecamatan	Nomina	locus
 bancak	wilayah:kecamatan	Nomina	
 bancar	wilayah:kecamatan	Adjektiva	
 banda	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
-bandar	orang:nama-depan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+bandar	orang:nama-depan,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+bandara	organisasi:perusahaan	Nomina	
 banding	wilayah:kecamatan	Nomina	
 bando	orang:nama-depan	Nomina	
 bandongan	wilayah:kecamatan	Nomina	
@@ -166,12 +201,13 @@ bandung	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina
 bandungan	wilayah:kecamatan	Nomina	proper
 bang	wilayah:kecamatan	Nomina	
 banggai	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-bangka	wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi		
+bangka	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi		
 bangkalan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 bangli	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 bangsa	wilayah:kecamatan	Nomina	
 bangsal	wilayah:kecamatan	Nomina	
-bangun	wilayah:kecamatan	Verba	
+bangun	organisasi:perusahaan,wilayah:kecamatan	Verba	
+bangunan	organisasi:perusahaan	Nomina	
 banguntapan	wilayah:kecamatan	Nomina	locus
 banjang	wilayah:kecamatan	Nomina	
 banjar	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
@@ -180,6 +216,7 @@ banjarbaru	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 banjarmasin	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 banjarnegara	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 banjarsari	wilayah:kecamatan	Nomina	proper
+bank	organisasi:perusahaan	Nomina	
 bantaeng	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 bantaran	wilayah:kecamatan	Nomina	
 banteng	wilayah:kecamatan	Nomina	
@@ -192,28 +229,29 @@ banyubiru	wilayah:kecamatan	Nomina	proper
 banyumanik	wilayah:kecamatan	Nomina	proper
 banyumas	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 banyuwangi	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-bara	orang:nama-keluarga,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+bara	orang:nama-keluarga,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 baras	wilayah:kecamatan		
-barat	wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi		
+barat	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi		
 bareng	wilayah:kecamatan	Adverbia	
 barisan	wilayah:kecamatan	Nomina	
 barita	wilayah:kecamatan	Nomina	
+barometer	organisasi:perusahaan	Nomina	
 baron	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
 barong	wilayah:kecamatan	Nomina	
 barru	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-baru	orang:nama-keluarga,wilayah:kecamatan	Adjektiva	
+baru	orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 basa	wilayah:kecamatan	Partikel	
 basir	orang:nama-depan	Adjektiva	
 baso	wilayah:kecamatan		
 basung	wilayah:kecamatan	Nomina	
-bata	wilayah:kecamatan	Nomina	
-batam	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+bata	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+batam	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 batang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 batangan	wilayah:kecamatan	Adjektiva	
 batanghari	wilayah:kecamatan	Nomina	proper
 batari	orang:nama-keluarga	Nomina	
 bati	wilayah:kecamatan	Adjektiva	
-batik	wilayah:kecamatan	Nomina	
+batik	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 batin	wilayah:kecamatan	Nomina	
 batu	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 batuan	wilayah:kecamatan	Nomina	
@@ -224,18 +262,18 @@ bawah	wilayah:kecamatan	Nomina
 bawang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 bawen	wilayah:kecamatan	Nomina	proper
 baya	wilayah:kecamatan	Nomina	
-bayan	wilayah:kecamatan	Nomina	
+bayan	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 bayang	wilayah:kecamatan	Nomina	
 bayat	wilayah:kecamatan		
-bayu	orang:nama-depan,wilayah:kecamatan	Nomina	
+bayu	orang:nama-depan,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 bayung	wilayah:kecamatan	Nomina	
 bayur	wilayah:kecamatan	Nomina	
 beber	wilayah:kecamatan	Verba	
 beduk	wilayah:kecamatan	Nomina	
-bekasi	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+bekasi	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 belakang	wilayah:kecamatan		
 belang	wilayah:kecamatan	Nomina	
-belas	wilayah:kecamatan	Nomina	
+belas	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 belat	wilayah:kecamatan	Nomina	
 belawan	wilayah:kecamatan	Nomina	
 belengkong	wilayah:kecamatan	Adjektiva	
@@ -250,7 +288,7 @@ bendahara	wilayah:kecamatan	Nomina
 bendo	wilayah:kecamatan	Nomina	
 bendungan	wilayah:kecamatan	Nomina	
 bengkal	wilayah:kecamatan	Verba	
-bengkalis	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+bengkalis	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 bengkayang	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 bengkong	wilayah:kecamatan	Adjektiva	
 bengkulu	wilayah:kabupaten-kota,wilayah:provinsi	Nomina	proper
@@ -259,38 +297,49 @@ bening	orang:nama-depan	Adjektiva
 benteng	wilayah:kecamatan	Nomina	
 benua	wilayah:kecamatan	Nomina	
 beo	wilayah:kecamatan	Nomina	
-berau	wilayah:kabupaten-kota	Nomina	proper
+berau	organisasi:perusahaan,wilayah:kabupaten-kota	Nomina	proper
 berbah	wilayah:kecamatan	Nomina	locus
+berdikari	organisasi:perusahaan	Verba	
 beremas	wilayah:kecamatan	Verba	
 bergas	wilayah:kecamatan	Adjektiva	
 beringin	wilayah:kecamatan	Nomina	
-berlian	orang:nama-depan,orang:nama-keluarga	Nomina	
+berita	organisasi:perusahaan		
+berjangka	organisasi:perusahaan	Verba	
+berjaya	organisasi:perusahaan	Verba	
+berkah	organisasi:perusahaan	Nomina	
+berlian	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan	Nomina	
+bersama	organisasi:perusahaan	Verba	
+bersaudara	organisasi:perusahaan	Verba	
 beruntung	wilayah:kecamatan		
 besar	orang:nama-depan,wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 besi	wilayah:kecamatan	Nomina	
 bestari	wilayah:kecamatan	Adjektiva	
 besuk	wilayah:kecamatan	Verba	
 betara	wilayah:kecamatan	Nomina	
+beton	organisasi:perusahaan	Nomina	
 betung	wilayah:kecamatan	Nomina	
 biak	wilayah:kabupaten-kota,wilayah:kecamatan	Verba	
 biau	wilayah:kecamatan	Verba	
+bibit	organisasi:perusahaan	Nomina	
 bidari	wilayah:kecamatan	Nomina	
 biduk	wilayah:kecamatan	Nomina	
 bika	wilayah:kecamatan		
 bilah	wilayah:kecamatan	Nomina	
-bima	wilayah:kabupaten-kota	Nomina	proper
-bina	wilayah:kecamatan	Verba	
+bima	organisasi:perusahaan,wilayah:kabupaten-kota	Nomina	proper
+bina	organisasi:perusahaan,wilayah:kecamatan	Verba	
 binar	orang:nama-depan	Nomina	
 binjai	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 bintan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
-bintang	orang:nama-keluarga,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+bintang	orang:nama-keluarga,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+bioskop	organisasi:perusahaan	Nomina	
 bireuen	wilayah:kabupaten-kota	Nomina	proper
-biru	wilayah:kecamatan	Nomina	
+biru	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 bitung	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 blitar	wilayah:kabupaten-kota	Nomina	proper
 blora	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	locus
 boalemo	wilayah:kabupaten-kota	Nomina	proper
 bodhi	orang:nama-depan	Nomina	
+boga	organisasi:perusahaan	Nomina	
 bogor	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 bojonegoro	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 bola	wilayah:kecamatan	Nomina	
@@ -305,16 +354,19 @@ bonto	wilayah:kecamatan	Adjektiva
 borang	wilayah:kecamatan	Nomina	
 borong	wilayah:kecamatan	Verba	
 boyolali	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+brata	organisasi:perusahaan	Nomina	
 brebes	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	locus
 bringin	wilayah:kecamatan	Nomina	proper
-buana	wilayah:kecamatan	Nomina	
+bros	organisasi:perusahaan	Nomina	
+buana	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 buaya	wilayah:kecamatan	Nomina	
 bubutan	wilayah:kecamatan	Nomina	
-budi	orang:nama-depan,orang:nama-keluarga	Nomina	
+budi	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan	Nomina	
 budiman	orang:nama-keluarga	Nomina	
 bujang	wilayah:kecamatan	Nomina	
 buk	wilayah:kecamatan	Nomina	
-bukit	orang:nama-keluarga,wilayah:kecamatan	Nomina	
+buka	organisasi:perusahaan	Verba	
+bukit	orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 bukittinggi	wilayah:kabupaten-kota	Nomina	proper
 bulak	wilayah:kecamatan	Nomina	
 bulan	wilayah:kecamatan	Nomina	
@@ -325,7 +377,7 @@ bulu	wilayah:kecamatan	Nomina
 bulukumba	wilayah:kabupaten-kota	Nomina	proper
 bulungan	wilayah:kabupaten-kota	Nomina	proper
 bumbu	wilayah:kabupaten-kota		
-bumi	wilayah:kecamatan		
+bumi	organisasi:perusahaan,wilayah:kecamatan		
 bunga	orang:nama-depan,wilayah:kecamatan	Nomina	
 bungkal	wilayah:kecamatan	Nomina	
 bungo	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
@@ -335,41 +387,52 @@ bunut	wilayah:kecamatan	Nomina
 buol	wilayah:kabupaten-kota	Nomina	proper
 bura	wilayah:kecamatan	Nomina	
 burhan	orang:nama-depan	Nomina	
+bursa	organisasi:perusahaan	Nomina	
 buru	wilayah:kabupaten-kota,wilayah:kecamatan	Verba	
 burung	wilayah:kecamatan	Nomina	
 buton	orang:nama-keluarga,wilayah:kabupaten-kota	Nomina	proper
 butuh	wilayah:kecamatan	Verba	
 buya	wilayah:kecamatan	Nomina	
-cahaya	orang:nama-depan	Nomina	
+buyung	organisasi:perusahaan	Nomina	
+cabo	organisasi:perusahaan	Nomina	
+cahaya	orang:nama-depan,organisasi:perusahaan	Nomina	
+cakra	organisasi:perusahaan	Nomina	
+cakrawala	organisasi:perusahaan	Nomina	
 cakung	wilayah:kecamatan	Nomina	proper
 candi	wilayah:kecamatan	Nomina	
 candisari	wilayah:kecamatan	Nomina	proper
 candra	orang:nama-depan		
 candung	wilayah:kecamatan	Nomina	
 cangkringan	wilayah:kecamatan	Nomina	locus
+cap	organisasi:perusahaan	Nomina	
+caraka	organisasi:perusahaan	Nomina	
 cas	orang:nama-depan	Nomina	
-catur	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
+catur	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
+cemerlang	organisasi:perusahaan	Adjektiva	
 cempa	wilayah:kecamatan	Nomina	
 cempaka	wilayah:kecamatan	Nomina	
 cendana	wilayah:kecamatan	Nomina	
 cengal	wilayah:kecamatan		
 cengkareng	wilayah:kecamatan	Nomina	proper
+cepat	organisasi:perusahaan		
 ceper	wilayah:kecamatan	Adjektiva	
 cepu	wilayah:kecamatan	Nomina	
 cermin	wilayah:kecamatan	Nomina	
 ciamis	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	locus
 cianjur	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-cilacap	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+cilacap	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 cilandak	wilayah:kecamatan	Nomina	proper
 cilegon	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 cimahi	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	locus
 cina	wilayah:kecamatan	Nomina	proper
 cinta	orang:nama-depan	Adjektiva	
 cipayung	wilayah:kecamatan	Nomina	proper
+cipta	organisasi:perusahaan	Nomina	
 ciracas	wilayah:kecamatan	Nomina	proper
 cirebon	wilayah:kabupaten-kota	Nomina	proper
+cita	organisasi:perusahaan	Nomina	
 citak	wilayah:kecamatan		
-citra	orang:nama-depan	Nomina	
+citra	orang:nama-depan,organisasi:perusahaan	Nomina	
 cogok	wilayah:kecamatan	Adjektiva	
 compreng	wilayah:kecamatan		
 concong	wilayah:kecamatan	Adjektiva	
@@ -379,6 +442,7 @@ cun	orang:nama-depan	Nomina
 cupu	orang:nama-keluarga	Nomina	
 cut	wilayah:kecamatan	Nomina	
 dadap	wilayah:kecamatan	Nomina	
+daerah	organisasi:perusahaan	Nomina	
 dagangan	wilayah:kecamatan		
 dagi	wilayah:kecamatan	Nomina	
 dahlia	orang:nama-depan	Nomina	
@@ -387,31 +451,33 @@ dairi	wilayah:kabupaten-kota	Nomina	proper
 dal	wilayah:kecamatan	Nomina	numeral
 dalam	wilayah:kecamatan	Adjektiva	
 dalil	orang:nama-keluarga	Nomina	
-damai	wilayah:kecamatan	Nomina	
+damai	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 damar	wilayah:kecamatan	Nomina	
 dampal	wilayah:kecamatan	Nomina	
 dampit	wilayah:kecamatan	Nomina	
-dan	wilayah:kabupaten-kota	Partikel	
-dana	orang:nama-depan		
+dan	organisasi:perusahaan,wilayah:kabupaten-kota	Partikel	
+dana	orang:nama-depan,organisasi:perusahaan		
 danau	wilayah:kecamatan	Nomina	
 dandi	orang:nama-depan	Nomina	
 danurejan	wilayah:kecamatan	Nomina	proper
 dapa	orang:nama-depan	Nomina	
 dara	orang:nama-depan	Nomina	
 darat	wilayah:kecamatan	Nomina	
-darma	orang:nama-keluarga,wilayah:kecamatan	Nomina	
+darma	orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 darus	wilayah:kecamatan		
+data	organisasi:perusahaan		
 datar	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 dataran	wilayah:kecamatan	Nomina	
 datuk	wilayah:kecamatan	Nomina	
 daulat	wilayah:kecamatan	Nomina	
 dawan	wilayah:kecamatan	Nomina	
-daya	wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	
+daya	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	
 dedai	wilayah:kecamatan	Adjektiva	
 deiyai	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 delima	wilayah:kecamatan	Nomina	
-delta	wilayah:kecamatan	Nomina	
+delta	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 demak	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+demi	organisasi:perusahaan	Partikel	
 demon	wilayah:kecamatan	Nomina	
 dempet	wilayah:kecamatan	Adjektiva	
 den	orang:nama-keluarga	Nomina	
@@ -425,72 +491,101 @@ depok	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 dera	orang:nama-depan	Nomina	
 deras	wilayah:kecamatan	Adjektiva	
 derek	orang:nama-depan	Nomina	
+derivatif	organisasi:perusahaan	Adjektiva	
 desa	wilayah:kecamatan	Nomina	
-dewa	wilayah:kecamatan	Nomina	
+destinasi	organisasi:perusahaan	Nomina	
+dewa	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 dewangga	orang:nama-depan,orang:nama-keluarga	Nomina	
-dewi	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
+dewata	organisasi:perusahaan	Nomina	
+dewi	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 dharmasraya	wilayah:kabupaten-kota	Nomina	proper
 diah	orang:nama-depan,orang:nama-keluarga		
-dian	orang:nama-depan,orang:nama-keluarga	Nomina	
+dian	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan	Nomina	
 dias	orang:nama-keluarga	Nomina	
 didik	orang:nama-depan	Verba	
+diesel	organisasi:perusahaan	Nomina	
+digital	organisasi:perusahaan	Adjektiva	
 dikit	wilayah:kecamatan	Adjektiva	
 din	orang:nama-depan	Nomina	
 dina	orang:nama-depan		
+dinamik	organisasi:perusahaan	Adjektiva	
+dinamika	organisasi:perusahaan	Nomina	
 dinar	orang:nama-depan	Nomina	
 dinda	orang:nama-depan		
 dini	orang:nama-depan,orang:nama-keluarga	Adjektiva	
+distribusi	organisasi:perusahaan	Nomina	
 dlingo	wilayah:kecamatan	Nomina	proper
 dogiyai	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+dok	organisasi:perusahaan	Nomina	
 doko	wilayah:kecamatan	Nomina	
 dolat	wilayah:kecamatan		
 dolok	wilayah:kecamatan	Nomina	
 dompu	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 donald	orang:nama-depan	Nomina	proper
 donggala	wilayah:kabupaten-kota	Nomina	proper
-dua	wilayah:kecamatan		numeral
+dragon	organisasi:perusahaan	Nomina	
+dua	organisasi:perusahaan,wilayah:kecamatan		numeral
 dukuh	wilayah:kecamatan	Nomina	
 dukun	wilayah:kecamatan	Nomina	
-dumai	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+dumai	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+dunia	organisasi:perusahaan	Nomina	
 duren	wilayah:kecamatan		
 duri	orang:nama-keluarga	Nomina	
 durian	wilayah:kecamatan	Nomina	
 dusun	wilayah:kecamatan	Nomina	
-duta	orang:nama-keluarga	Nomina	
+duta	orang:nama-keluarga,organisasi:perusahaan	Nomina	
+efek	organisasi:perusahaan	Nomina	
 efendi	orang:nama-depan,orang:nama-keluarga	Nomina	
+ekosistem	organisasi:perusahaan	Nomina	
+ekspres	organisasi:perusahaan	Adjektiva	
+elang	organisasi:perusahaan	Nomina	
+elektronik	organisasi:perusahaan	Nomina	
 elo	orang:nama-keluarga	Nomina	
 elok	orang:nama-depan	Adjektiva	
 emas	wilayah:kecamatan	Nomina	
 emir	orang:nama-depan	Nomina	
+emiten	organisasi:perusahaan	Nomina	
 empang	wilayah:kecamatan		
 empat	wilayah:kabupaten-kota,wilayah:kecamatan		numeral
+enam	organisasi:perusahaan		numeral
 endang	orang:nama-depan	Nomina	
 ende	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+energi	organisasi:perusahaan	Nomina	
 enrekang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+era	organisasi:perusahaan	Nomina	
 erik	orang:nama-depan	Verba	
+esa	organisasi:perusahaan		
 ester	orang:nama-depan	Nomina	
-fajar	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
+fajar	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 fakfak	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 falah	wilayah:kecamatan		
 fatah	orang:nama-keluarga	Nomina	
 fatihah	orang:nama-depan	Nomina	
 fatri	orang:nama-depan	Nomina	
+federal	organisasi:perusahaan	Adjektiva	
+fiber	organisasi:perusahaan	Nomina	
+film	organisasi:perusahaan	Nomina	
+finansial	organisasi:perusahaan	Adjektiva	
 firdaus	orang:nama-keluarga	Nomina	
 firman	orang:nama-depan,orang:nama-keluarga	Nomina	
 fitri	orang:nama-depan	Adjektiva	
+flat	organisasi:perusahaan	Nomina	
 flora	orang:nama-depan	Nomina	
+forum	organisasi:perusahaan	Nomina	
 fuad	orang:nama-depan	Nomina	
+futsal	organisasi:perusahaan	Nomina	action
 gabus	wilayah:kecamatan	Nomina	
 gadang	wilayah:kecamatan	Adjektiva	
-gading	orang:nama-keluarga,wilayah:kecamatan	Nomina	
+gading	orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 gadis	wilayah:kecamatan	Nomina	
 gadung	wilayah:kecamatan	Nomina	
 gafur	orang:nama-keluarga	Adjektiva	
 gaib	wilayah:kecamatan	Verba	
-gajah	wilayah:kecamatan		
+gajah	organisasi:perusahaan,wilayah:kecamatan		
 gajahmungkur	wilayah:kecamatan	Nomina	proper
 gala	wilayah:kecamatan	Nomina	
-galang	wilayah:kecamatan	Nomina	
+galang	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+galangan	organisasi:perusahaan	Nomina	
 galuh	orang:nama-depan	Nomina	
 galur	wilayah:kecamatan	Nomina	
 gamal	orang:nama-depan	Nomina	
@@ -499,17 +594,23 @@ gambut	wilayah:kecamatan	Nomina
 gamping	wilayah:kecamatan	Nomina	
 gandapura	wilayah:kecamatan		
 ganding	wilayah:kecamatan	Verba	
+gandum	organisasi:perusahaan	Nomina	
 gani	orang:nama-depan,orang:nama-keluarga	Adjektiva	
 ganjar	orang:nama-depan	Verba	
 gantar	wilayah:kecamatan	Nomina	
 ganting	wilayah:kecamatan	Adjektiva	
 gantung	wilayah:kecamatan	Verba	
-gapura	wilayah:kecamatan	Nomina	
+gapura	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+garam	organisasi:perusahaan	Nomina	
+garda	organisasi:perusahaan	Nomina	
 garing	wilayah:kecamatan	Adjektiva	
+garuda	organisasi:perusahaan	Nomina	
 garung	wilayah:kecamatan	Nomina	
 garut	wilayah:kabupaten-kota,wilayah:kecamatan	Verba	
+gas	organisasi:perusahaan	Nomina	
 gatot	orang:nama-depan	Nomina	
 gaung	wilayah:kecamatan	Nomina	
+gaya	organisasi:perusahaan	Nomina	
 gayam	wilayah:kecamatan	Nomina	
 gayamsari	wilayah:kecamatan	Nomina	proper
 gebang	wilayah:kecamatan	Nomina	
@@ -517,15 +618,19 @@ gedang	wilayah:kecamatan
 gede	orang:nama-keluarga	Adjektiva	
 gedong	wilayah:kecamatan	Nomina	
 gedongtengen	wilayah:kecamatan	Nomina	proper
-gedung	wilayah:kecamatan	Nomina	
+gedung	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 geger	wilayah:kecamatan	Adjektiva	
 gelam	wilayah:kecamatan	Nomina	
 gelang	wilayah:kecamatan	Nomina	
 gelugur	wilayah:kecamatan	Nomina	
+gema	organisasi:perusahaan	Nomina	
 gembong	wilayah:kecamatan	Nomina	
+gemilang	organisasi:perusahaan	Adjektiva	
 gempol	wilayah:kecamatan	Nomina	
+gen	organisasi:perusahaan	Nomina	
 gending	wilayah:kecamatan	Nomina	
 geneng	wilayah:kecamatan	Adjektiva	
+generasi	organisasi:perusahaan		
 genteng	wilayah:kecamatan		
 genuk	wilayah:kecamatan	Nomina	proper
 geragai	wilayah:kecamatan		
@@ -537,21 +642,28 @@ gianyar	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 gilang	orang:nama-depan	Adjektiva	
 giri	wilayah:kecamatan	Nomina	
 gita	orang:nama-depan	Nomina	
+global	organisasi:perusahaan	Adjektiva	
 godean	wilayah:kecamatan	Nomina	locus
 godong	wilayah:kecamatan	Nomina	
 gondang	wilayah:kecamatan	Nomina	
 gondokusuman	wilayah:kecamatan	Nomina	locus
 gondomanan	wilayah:kecamatan	Nomina	locus
 gorontalo	wilayah:kabupaten-kota,wilayah:provinsi	Nomina	proper
-gowa	wilayah:kabupaten-kota	Nomina	proper
-gresik	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+gowa	organisasi:perusahaan,wilayah:kabupaten-kota	Nomina	proper
+graha	organisasi:perusahaan	Verba	
+gresik	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+griya	organisasi:perusahaan	Nomina	
 grobogan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	locus
 grogol	wilayah:kecamatan	Nomina	proper
+grup	organisasi:perusahaan	Nomina	
 guci	wilayah:kecamatan	Nomina	
-guna	orang:nama-depan,wilayah:kecamatan	Nomina	
-gunawan	orang:nama-keluarga	Nomina	
+gudang	organisasi:perusahaan		
+gudeg	organisasi:perusahaan		
+gula	organisasi:perusahaan	Nomina	
+guna	orang:nama-depan,organisasi:perusahaan,wilayah:kecamatan	Nomina	
+gunawan	orang:nama-keluarga,organisasi:perusahaan	Nomina	
 guntur	wilayah:kecamatan	Nomina	
-gunung	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+gunung	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 gunungkidul	wilayah:kabupaten-kota	Nomina	proper
 gunungpati	wilayah:kecamatan	Nomina	proper
 gunungsitoli	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
@@ -569,18 +681,20 @@ hampang	wilayah:kecamatan	Nomina
 hampar	wilayah:kecamatan	Verba	
 hamparan	wilayah:kecamatan	Nomina	
 hamzah	orang:nama-keluarga	Nomina	
-hana	orang:nama-depan	Adjektiva	
+hana	orang:nama-depan,organisasi:perusahaan	Adjektiva	
 hanafi	orang:nama-keluarga	Nomina	abstract
+handal	organisasi:perusahaan		
 hangat	wilayah:kecamatan	Adjektiva	
 hangus	wilayah:kecamatan	Verba	
 hanif	orang:nama-depan	Adjektiva	
 hara	orang:nama-keluarga	Nomina	
-harapan	orang:nama-depan,wilayah:kecamatan	Nomina	
+harapan	orang:nama-depan,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 hari	orang:nama-depan,orang:nama-keluarga,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 harian	wilayah:kecamatan	Nomina	
 haris	orang:nama-depan,orang:nama-keluarga	Nomina	
-harta	wilayah:kecamatan	Nomina	
+harta	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 hartawan	orang:nama-keluarga	Nomina	
+harum	organisasi:perusahaan	Adjektiva	
 harus	wilayah:kecamatan	Adverbia	
 hasan	orang:nama-depan,orang:nama-keluarga	Adjektiva	
 hatta	orang:nama-keluarga	Partikel	
@@ -588,35 +702,55 @@ haur	wilayah:kecamatan	Nomina
 hayati	orang:nama-depan,orang:nama-keluarga		
 helm	orang:nama-keluarga	Nomina	
 henry	orang:nama-depan,orang:nama-keluarga	Nomina	
+hero	organisasi:perusahaan	Nomina	
 hidayah	orang:nama-keluarga	Nomina	
 hidayat	orang:nama-depan,orang:nama-keluarga		
+hidup	organisasi:perusahaan		
 hijau	wilayah:kecamatan	Nomina	
 hikmah	wilayah:kecamatan	Nomina	
 hikmat	orang:nama-depan	Nomina	
 hilir	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 hitam	wilayah:kecamatan		
+hotel	organisasi:perusahaan	Nomina	
 hubung	wilayah:kecamatan	Verba	
 hulu	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+hut	organisasi:perusahaan	Nomina	loan
 ibu	orang:nama-depan,wilayah:kecamatan	Nomina	
 ibun	wilayah:kecamatan	Nomina	
 ida	orang:nama-depan	Nomina	proper
 idah	orang:nama-keluarga	Nomina	
+idaman	organisasi:perusahaan	Nomina	
 ihsan	orang:nama-depan,wilayah:kecamatan	Adjektiva	
 ikhtiar	orang:nama-depan	Nomina	
 ikhwan	orang:nama-depan	Nomina	
 ilham	orang:nama-depan,orang:nama-keluarga	Nomina	
 ilir	wilayah:kabupaten-kota,wilayah:kecamatan		
 ilu	wilayah:kecamatan	Adjektiva	
+imago	organisasi:perusahaan	Nomina	
+imaji	organisasi:perusahaan	Nomina	
 imam	orang:nama-depan	Nomina	
 iman	orang:nama-depan	Nomina	
 imogiri	wilayah:kecamatan	Nomina	proper
-ina	orang:nama-depan		
-indah	orang:nama-depan	Adjektiva	
+imperial	organisasi:perusahaan	Adjektiva	
+impian	organisasi:perusahaan	Nomina	
+ina	orang:nama-depan,organisasi:perusahaan		
+indah	orang:nama-depan,organisasi:perusahaan	Adjektiva	
+india	organisasi:perusahaan	Nomina	proper
+indonesia	organisasi:perusahaan	Nomina	proper
 indra	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
 indramayu	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+industri	organisasi:perusahaan	Nomina	
+informasi	organisasi:perusahaan	Nomina	
+informatika	organisasi:perusahaan	Nomina	
+infrastruktur	organisasi:perusahaan	Nomina	
 ingin	wilayah:kecamatan		
+inovasi	organisasi:perusahaan	Nomina	
 insani	orang:nama-keluarga	Adjektiva	
-intan	orang:nama-depan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+intan	orang:nama-depan,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+integrasi	organisasi:perusahaan	Nomina	
+internasional	organisasi:perusahaan	Adjektiva	
+inti	organisasi:perusahaan	Nomina	
+investasi	organisasi:perusahaan	Nomina	
 ipuh	wilayah:kecamatan	Nomina	
 ira	orang:nama-depan	Nomina	
 iram	wilayah:kecamatan	Adjektiva	
@@ -624,12 +758,13 @@ iris	orang:nama-depan	Nomina
 isak	orang:nama-depan	Nomina	
 isim	wilayah:kecamatan		
 islami	orang:nama-keluarga	Adjektiva	
-isra	orang:nama-depan	Nomina	
+isra	orang:nama-depan,organisasi:perusahaan	Nomina	
 jabung	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 jadi	wilayah:kecamatan	Verba	
 jagakarsa	wilayah:kecamatan	Nomina	proper
+jago	organisasi:perusahaan	Nomina	
 jaka	orang:nama-depan		
-jakarta	wilayah:kabupaten-kota,wilayah:provinsi	Nomina	proper
+jakarta	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:provinsi	Nomina	proper
 jalil	orang:nama-depan	Adjektiva	
 jamal	orang:nama-depan	Nomina	
 jambangan	wilayah:kecamatan	Nomina	
@@ -639,6 +774,7 @@ jamblang	wilayah:kecamatan	Nomina
 jambon	wilayah:kecamatan	Adjektiva	
 jambu	wilayah:kecamatan	Nomina	
 jamil	orang:nama-depan,orang:nama-keluarga		
+jamu	organisasi:perusahaan	Nomina	
 janggut	wilayah:kecamatan	Nomina	
 jangka	wilayah:kecamatan	Nomina	
 jangkang	wilayah:kecamatan	Nomina	
@@ -646,22 +782,26 @@ jangkar	wilayah:kecamatan	Nomina
 jangkat	wilayah:kecamatan	Nomina	
 janji	wilayah:kecamatan	Nomina	
 jap	orang:nama-keluarga	Adjektiva	
+jaringan	organisasi:perusahaan	Nomina	
 jaro	wilayah:kecamatan	Nomina	
-jati	wilayah:kecamatan	Adjektiva	
+jarum	organisasi:perusahaan		
+jasa	organisasi:perusahaan	Nomina	
+jati	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 jatinegara	wilayah:kecamatan	Nomina	proper
 jauh	wilayah:kecamatan	Adjektiva	
 jauhari	orang:nama-keluarga		
 jauza	orang:nama-depan	Nomina	proper
-jawa	wilayah:kecamatan,wilayah:provinsi	Nomina	proper
-jaya	orang:nama-keluarga,wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
+jawa	organisasi:perusahaan,wilayah:kecamatan,wilayah:provinsi	Nomina	proper
+jaya	orang:nama-keluarga,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 jayapura	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 jayawijaya	wilayah:kabupaten-kota	Nomina	proper
 jebres	wilayah:kecamatan	Nomina	proper
 jejawi	wilayah:kecamatan		
 jelai	wilayah:kecamatan	Nomina	
 jelang	orang:nama-depan	Verba	
-jelita	orang:nama-depan	Adjektiva	
+jelita	orang:nama-depan,organisasi:perusahaan	Adjektiva	
 jelutung	wilayah:kecamatan	Nomina	
+jembar	organisasi:perusahaan	Adjektiva	
 jember	wilayah:kabupaten-kota		
 jembrana	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 jenangan	wilayah:kecamatan	Nomina	
@@ -677,6 +817,7 @@ jim	orang:nama-depan	Nomina
 jin	orang:nama-depan	Nomina	
 jirak	wilayah:kecamatan	Nomina	
 jitu	wilayah:kecamatan		
+jiwa	organisasi:perusahaan		
 johan	orang:nama-depan,wilayah:kecamatan	Nomina	
 johar	orang:nama-depan,wilayah:kecamatan	Nomina	locus
 jombang	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
@@ -688,11 +829,14 @@ juli	wilayah:kecamatan	Nomina	tempo
 junior	orang:nama-depan	Adjektiva	
 junjung	wilayah:kecamatan	Verba	
 jurai	wilayah:kecamatan	Nomina	
+jurnal	organisasi:perusahaan	Nomina	
 kabat	wilayah:kecamatan	Verba	
+kabel	organisasi:perusahaan	Nomina	
 kabung	wilayah:kecamatan	Nomina	
 kade	orang:nama-depan	Nomina	
 kadipaten	wilayah:kecamatan	Nomina	
 kadir	orang:nama-keluarga	Adjektiva	
+kagum	organisasi:perusahaan	Adjektiva	
 kahar	orang:nama-keluarga	Nomina	
 kaimana	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 kais	wilayah:kecamatan	Verba	
@@ -701,6 +845,7 @@ kakap	wilayah:kecamatan	Nomina
 kakas	wilayah:kecamatan	Nomina	
 kalang	wilayah:kecamatan	Nomina	
 kalasan	wilayah:kecamatan	Nomina	locus
+kaldu	organisasi:perusahaan	Nomina	
 kali	wilayah:kecamatan	Nomina	
 kalideres	wilayah:kecamatan	Nomina	proper
 kalis	wilayah:kecamatan	Adjektiva	
@@ -714,13 +859,19 @@ kampar	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 kampit	wilayah:kecamatan		
 kampung	wilayah:kecamatan	Nomina	
 kamu	wilayah:kecamatan		
+kana	organisasi:perusahaan	Nomina	
 kanan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 kandis	wilayah:kecamatan	Nomina	
 kang	orang:nama-depan	Nomina	
 kangkung	wilayah:kecamatan	Nomina	
+kantor	organisasi:perusahaan	Nomina	
+kantung	organisasi:perusahaan	Nomina	
 kapak	wilayah:kecamatan	Nomina	
+kapal	organisasi:perusahaan	Nomina	
 kapas	wilayah:kecamatan	Nomina	
-kapuas	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+kapital	organisasi:perusahaan	Nomina	
+kapuas	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+kapuk	organisasi:perusahaan	Nomina	
 kapur	wilayah:kecamatan	Nomina	
 karang	orang:nama-keluarga,wilayah:kecamatan	Nomina	
 karangan	wilayah:kecamatan	Nomina	
@@ -731,26 +882,30 @@ karau	wilayah:kecamatan	Verba
 karawang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 karel	orang:nama-depan	Nomina	
 karim	orang:nama-depan,orang:nama-keluarga	Adjektiva	
-karimun	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+karimun	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 karina	orang:nama-depan	Nomina	
-karisma	orang:nama-depan,orang:nama-keluarga	Nomina	
+karisma	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan	Nomina	
 karma	orang:nama-keluarga	Nomina	
 karo	wilayah:kabupaten-kota	Nomina	proper
 kartika	orang:nama-depan,orang:nama-keluarga	Nomina	
 karu	wilayah:kecamatan	Adjektiva	
-karya	wilayah:kecamatan	Nomina	
+karya	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 kasi	wilayah:kecamatan	Verba	
 kasihan	wilayah:kecamatan	Nomina	
 kasim	orang:nama-depan,orang:nama-keluarga	Adjektiva	
 kasuari	wilayah:kecamatan	Nomina	
 kasui	wilayah:kecamatan	Nomina	
-katingan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+kata	organisasi:perusahaan	Nomina	
+katingan	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 kaum	wilayah:kecamatan	Nomina	
 kauman	wilayah:kecamatan	Nomina	
 kaur	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-kayan	wilayah:kecamatan	Nomina	
+kawan	organisasi:perusahaan		
+kawasan	organisasi:perusahaan	Nomina	
+kayan	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 kayangan	wilayah:kecamatan		
 kayu	wilayah:kecamatan	Nomina	
+kebab	organisasi:perusahaan	Nomina	
 kebayoran	wilayah:kecamatan	Nomina	proper
 kebo	wilayah:kecamatan		
 kebon	wilayah:kecamatan	Nomina	locus
@@ -759,6 +914,7 @@ kebun	wilayah:kecamatan	Nomina
 kecil	wilayah:kecamatan,wilayah:provinsi	Adjektiva	
 kecubung	wilayah:kecamatan	Nomina	
 kedamaian	wilayah:kecamatan	Nomina	
+kedaung	organisasi:perusahaan	Nomina	
 kediri	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 kedondong	wilayah:kecamatan	Nomina	
 kedung	wilayah:kecamatan	Nomina	
@@ -769,12 +925,16 @@ kelapa	wilayah:kecamatan	Nomina
 kelara	wilayah:kecamatan	Nomina	
 kelayang	wilayah:kecamatan	Nomina	
 keliling	wilayah:kecamatan	Nomina	
+kelinci	organisasi:perusahaan	Nomina	
 keling	wilayah:kecamatan	Nomina	proper
 kelua	wilayah:kecamatan	Nomina	
 keluang	wilayah:kecamatan	Nomina	
+keluarga	organisasi:perusahaan	Nomina	
 kelumpang	wilayah:kecamatan	Nomina	
 kemal	orang:nama-depan	Adjektiva	
 kemang	wilayah:kecamatan	Nomina	
+kemas	organisasi:perusahaan	Adjektiva	
+kemasan	organisasi:perusahaan	Nomina	
 kemayoran	wilayah:kecamatan	Nomina	proper
 kembang	wilayah:kecamatan	Verba	
 kembangan	wilayah:kecamatan	Nomina	
@@ -787,10 +947,12 @@ kemumu	wilayah:kecamatan	Nomina
 kemuning	wilayah:kecamatan	Nomina	
 ken	orang:nama-depan	Nomina	
 kenanga	wilayah:kecamatan	Nomina	
+kenangan	organisasi:perusahaan	Nomina	
 kenas	orang:nama-depan	Nomina	
-kencana	wilayah:kecamatan		
+kencana	organisasi:perusahaan,wilayah:kecamatan		
 kencong	wilayah:kecamatan	Adjektiva	
 kendal	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+kendaraan	organisasi:perusahaan	Nomina	
 kendari	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 kendit	wilayah:kecamatan	Nomina	
 kenyam	wilayah:kecamatan	Verba	
@@ -802,30 +964,39 @@ kepulauan	wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina
 kepung	wilayah:kecamatan	Verba	
 kerajaan	wilayah:kecamatan	Nomina	
 keramat	wilayah:kecamatan	Adjektiva	
+keramik	organisasi:perusahaan	Nomina	
 kerek	wilayah:kecamatan	Nomina	
 keresidenan	wilayah:kabupaten-kota	Nomina	
+kereta	organisasi:perusahaan		
 kerinci	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+keris	organisasi:perusahaan	Nomina	
 kerkap	wilayah:kecamatan		
 kertak	wilayah:kecamatan	Nomina	
+kertas	organisasi:perusahaan	Nomina	
 keruh	wilayah:kecamatan	Adjektiva	
 kesambi	wilayah:kecamatan	Nomina	
 kesuma	orang:nama-depan		
 ketapang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
-kian	wilayah:kecamatan	Nomina	
+kian	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 kiara	orang:nama-depan	Nomina	
+kiat	organisasi:perusahaan	Verba	
 kidul	wilayah:kecamatan	Nomina	
 kijang	wilayah:kecamatan	Nomina	
 kilangan	wilayah:kecamatan	Nomina	
+kilat	organisasi:perusahaan	Nomina	
 kilo	wilayah:kecamatan	Nomina	
 kim	orang:nama-depan	Nomina	
+kimia	organisasi:perusahaan	Nomina	
 kimo	orang:nama-depan	Nomina	
 kiong	orang:nama-depan		
-kirana	orang:nama-depan	Nomina	
+kirana	orang:nama-depan,organisasi:perusahaan	Nomina	
 kiri	wilayah:kecamatan	Nomina	
 kisar	wilayah:kecamatan	Nomina	
 kisaran	wilayah:kecamatan	Nomina	
+kisi	organisasi:perusahaan	Nomina	
 klangenan	wilayah:kecamatan	Nomina	
 klaten	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+kliring	organisasi:perusahaan	Nomina	
 kliwon	wilayah:kecamatan	Nomina	tempo
 klungkung	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 kobak	orang:nama-keluarga	Nomina	
@@ -833,32 +1004,49 @@ kodi	wilayah:kecamatan	Nomina
 koja	wilayah:kecamatan	Nomina	
 kok	orang:nama-depan,wilayah:kecamatan	Nomina	
 kokas	wilayah:kecamatan		
+kokoh	organisasi:perusahaan		
 kolaka	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 koman	orang:nama-keluarga	Nomina	
-komodo	wilayah:kecamatan	Nomina	
+komersial	organisasi:perusahaan	Adjektiva	
+komoditi	organisasi:perusahaan		
+komodo	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+kompas	organisasi:perusahaan	Nomina	
+kompetisi	organisasi:perusahaan	Nomina	
+komunikasi	organisasi:perusahaan		
 konawe	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+kongsi	organisasi:perusahaan	Nomina	
+konstruksi	organisasi:perusahaan	Nomina	
+kontinental	organisasi:perusahaan	Adjektiva	
+kopi	organisasi:perusahaan	Nomina	
 kosambi	wilayah:kecamatan		
-kota	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+kota	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 kotabaru	wilayah:kabupaten-kota	Nomina	proper
 kotagede	wilayah:kecamatan	Nomina	locus
 kotamobagu	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 kramat	wilayah:kecamatan	Nomina	proper
 kraton	wilayah:kecamatan	Nomina	locus
+kreasi	organisasi:perusahaan	Nomina	
+kreatif	organisasi:perusahaan		
+kredit	organisasi:perusahaan	Nomina	
 kretek	wilayah:kecamatan	Nomina	loan
+krida	organisasi:perusahaan		
 krista	orang:nama-depan	Nomina	
+krom	organisasi:perusahaan		
 kuala	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 kuang	wilayah:kecamatan	Nomina	
 kuari	wilayah:kecamatan	Nomina	
+kubah	organisasi:perusahaan	Nomina	
 kubang	wilayah:kecamatan	Nomina	
 kubu	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 kubung	wilayah:kecamatan	Nomina	
 kudu	wilayah:kecamatan	Nomina	
 kudus	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 kuis	wilayah:kecamatan	Verba	
+kuku	organisasi:perusahaan	Nomina	
 kulim	wilayah:kecamatan	Nomina	
 kulon	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 kumai	wilayah:kecamatan	Nomina	
-kumala	orang:nama-keluarga		
+kumala	orang:nama-keluarga,organisasi:perusahaan		
 kumbang	wilayah:kecamatan		
 kundur	wilayah:kecamatan	Nomina	
 kunduran	wilayah:kecamatan	Verba	
@@ -866,16 +1054,18 @@ kuning	wilayah:kecamatan	Nomina
 kuningan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	tempo
 kunir	wilayah:kecamatan		
 kunyit	wilayah:kecamatan	Nomina	
-kupang	wilayah:kabupaten-kota,wilayah:kecamatan		
+kupang	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan		
 kur	wilayah:kecamatan	Nomina	
 kuras	wilayah:kecamatan	Nomina	
 kurau	wilayah:kecamatan	Nomina	
 kurik	wilayah:kecamatan	Nomina	
 kuripan	wilayah:kecamatan	Nomina	
 kurun	wilayah:kecamatan	Nomina	
-kusuma	orang:nama-keluarga	Nomina	
+kusuma	orang:nama-keluarga,organisasi:perusahaan	Nomina	
 kuta	wilayah:kecamatan	Verba	
 labang	wilayah:kecamatan	Verba	
+label	organisasi:perusahaan	Nomina	
+laboratorium	organisasi:perusahaan	Nomina	
 labu	wilayah:kecamatan	Nomina	
 labuhanbatu	wilayah:kabupaten-kota	Nomina	proper
 lada	wilayah:kecamatan	Nomina	
@@ -883,23 +1073,27 @@ lagan	wilayah:kecamatan	Nomina
 lago	wilayah:kecamatan	Nomina	
 lahat	wilayah:kabupaten-kota,wilayah:kecamatan		
 lais	wilayah:kecamatan	Nomina	
+laju	organisasi:perusahaan	Adjektiva	
 laksamana	wilayah:kecamatan	Nomina	
+laksana	organisasi:perusahaan	Nomina	
 laksmi	orang:nama-depan	Nomina	proper
 lala	wilayah:kecamatan	Nomina	
 lalu	orang:nama-keluarga	Verba	
-lama	wilayah:kecamatan	Adjektiva	
+lama	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 lamandau	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 lambai	wilayah:kecamatan	Verba	
 lambert	orang:nama-depan	Nomina	
 lambu	wilayah:kecamatan	Nomina	
 lamongan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 lampam	wilayah:kecamatan	Nomina	
-lampung	wilayah:kabupaten-kota,wilayah:provinsi	Nomina	
+lampung	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:provinsi	Nomina	
 lana	orang:nama-depan	Nomina	
 landak	wilayah:kabupaten-kota	Nomina	
 landasan	wilayah:kecamatan	Nomina	
 landau	orang:nama-keluarga	Verba	
+lang	organisasi:perusahaan	Nomina	
 langgam	wilayah:kecamatan	Nomina	
+langgeng	organisasi:perusahaan	Adjektiva	
 langkat	wilayah:kabupaten-kota	Nomina	
 langsa	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 langsat	wilayah:kecamatan	Nomina	
@@ -910,14 +1104,16 @@ laras	wilayah:kecamatan	Nomina
 lasi	wilayah:kecamatan	Adjektiva	
 laung	wilayah:kecamatan		
 laur	wilayah:kecamatan	Adjektiva	
-laut	orang:nama-keluarga,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+laut	orang:nama-keluarga,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+lautan	organisasi:perusahaan	Nomina	
+lavender	organisasi:perusahaan		
 lawa	wilayah:kecamatan	Nomina	
 lawan	wilayah:kecamatan	Nomina	
-lawang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+lawang	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 lawas	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 lawe	wilayah:kecamatan		
 laweyan	wilayah:kecamatan	Nomina	proper
-layar	wilayah:kecamatan	Nomina	
+layar	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 lebak	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 lebang	orang:nama-keluarga	Adjektiva	
 lebar	wilayah:kecamatan	Adjektiva	
@@ -938,18 +1134,20 @@ lena	orang:nama-depan
 lencir	wilayah:kecamatan	Adjektiva	
 lengkong	wilayah:kecamatan	Nomina	
 lenteng	wilayah:kecamatan		
-leo	orang:nama-depan,orang:nama-keluarga	Nomina	locus
-lestari	orang:nama-keluarga		
+leo	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan	Nomina	locus
+lestari	orang:nama-keluarga,organisasi:perusahaan		
 lesung	wilayah:kecamatan	Nomina	
 lewa	wilayah:kecamatan		
 lhokseumawe	wilayah:kabupaten-kota	Nomina	proper
 liana	orang:nama-depan	Nomina	
 liang	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
 licin	wilayah:kecamatan	Adjektiva	
+liga	organisasi:perusahaan	Nomina	
 lili	orang:nama-depan,wilayah:kecamatan	Nomina	
 lilin	wilayah:kecamatan	Nomina	
-lima	orang:nama-keluarga,wilayah:kabupaten-kota,wilayah:kecamatan		numeral
+lima	orang:nama-keluarga,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan		numeral
 liman	orang:nama-keluarga	Nomina	
+limas	organisasi:perusahaan	Nomina	
 limau	wilayah:kecamatan		
 limbur	wilayah:kecamatan	Verba	
 limpung	wilayah:kecamatan	Nomina	
@@ -958,24 +1156,30 @@ lin	orang:nama-depan,orang:nama-keluarga	Nomina
 lindu	wilayah:kecamatan	Nomina	
 ling	orang:nama-depan	Nomina	
 lingga	orang:nama-depan,wilayah:kabupaten-kota,wilayah:kecamatan		
+lingkar	organisasi:perusahaan	Nomina	
+lini	organisasi:perusahaan	Nomina	
 lintang	orang:nama-keluarga,wilayah:kecamatan	Nomina	
-lintas	wilayah:kecamatan	Nomina	
+lintas	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 lio	wilayah:kecamatan		
 liong	orang:nama-depan		
 lirik	wilayah:kecamatan	Verba	
+listrik	organisasi:perusahaan	Nomina	
 loban	wilayah:kecamatan	Nomina	
+logistik	organisasi:perusahaan	Nomina	
 lok	orang:nama-depan	Nomina	
 lolak	wilayah:kecamatan	Nomina	
 lolong	wilayah:kecamatan	Nomina	
 lombok	wilayah:kabupaten-kota	Nomina	
 long	wilayah:kecamatan	Nomina	
+lontar	organisasi:perusahaan	Verba	
 luak	wilayah:kecamatan	Adjektiva	
 luang	wilayah:kecamatan	Adjektiva	
 luar	wilayah:kecamatan	Nomina	
-luas	wilayah:kecamatan	Adjektiva	
+luas	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 lubuk	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 lues	wilayah:kabupaten-kota	Nomina	
 luhak	wilayah:kecamatan		
+luhur	organisasi:perusahaan	Adjektiva	
 luluk	orang:nama-depan	Nomina	
 lumajang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 lumar	wilayah:kecamatan	Verba	
@@ -986,33 +1190,39 @@ lurah	wilayah:kecamatan	Nomina
 luwu	wilayah:kabupaten-kota	Nomina	proper
 macang	wilayah:kecamatan		
 madang	wilayah:kecamatan	Adjektiva	
-madani	wilayah:kecamatan		
+madani	organisasi:perusahaan,wilayah:kecamatan		
 madat	wilayah:kecamatan	Nomina	
 madiun	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	locus
+madu	organisasi:perusahaan		
 madukara	wilayah:kecamatan	Nomina	
 maesan	wilayah:kecamatan		
 magelang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 magersari	wilayah:kecamatan	Nomina	
 magetan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+maha	organisasi:perusahaan	Adjektiva	abstract
 mahadewi	orang:nama-depan	Nomina	
 maharani	orang:nama-depan	Nomina	
 mahardika	orang:nama-depan	Adjektiva	
 mahbub	orang:nama-depan		
 mahdi	orang:nama-depan	Nomina	
+maheswara	organisasi:perusahaan	Nomina	
 mahfuz	orang:nama-keluarga	Nomina	
+mahkota	organisasi:perusahaan	Nomina	
 mahmud	orang:nama-depan	Nomina	
 maimun	orang:nama-depan,wilayah:kecamatan	Adjektiva	
 maja	wilayah:kecamatan	Nomina	
 majalengka	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 majene	wilayah:kabupaten-kota	Nomina	proper
+maju	organisasi:perusahaan	Verba	
 makasar	wilayah:kecamatan	Nomina	proper
-makassar	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+makassar	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 makian	wilayah:kecamatan		
-makmur	wilayah:kecamatan	Adjektiva	
+makin	organisasi:perusahaan	Adverbia	
+makmur	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 malai	wilayah:kecamatan	Nomina	
 malaka	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 malan	wilayah:kecamatan	Adjektiva	
-malang	wilayah:kabupaten-kota	Adjektiva	
+malang	organisasi:perusahaan,wilayah:kabupaten-kota	Adjektiva	
 malik	orang:nama-depan,orang:nama-keluarga	Nomina	
 malin	wilayah:kecamatan		
 malinau	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
@@ -1022,15 +1232,18 @@ mampang	wilayah:kecamatan	Nomina	proper
 mamuju	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 man	orang:nama-depan	Nomina	
 manado	wilayah:kabupaten-kota	Nomina	proper
+manajemen	organisasi:perusahaan	Nomina	
 manau	wilayah:kecamatan	Nomina	
+mancur	organisasi:perusahaan		
 mandah	wilayah:kecamatan	Nomina	
 mandai	wilayah:kecamatan	Nomina	
+mandala	organisasi:perusahaan		
 mandar	wilayah:kabupaten-kota	Nomina	proper
 mandau	wilayah:kecamatan	Nomina	
 mandi	wilayah:kecamatan	Verba	
-mandiri	wilayah:kecamatan	Adjektiva	
+mandiri	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 mandor	wilayah:kecamatan	Nomina	
-manggala	wilayah:kecamatan	Nomina	
+manggala	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 manggar	wilayah:kecamatan	Nomina	
 manggarai	wilayah:kabupaten-kota	Nomina	proper
 manggis	wilayah:kecamatan		
@@ -1039,29 +1252,36 @@ manis	wilayah:kecamatan	Adjektiva
 manokwari	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	locus
 mantik	orang:nama-keluarga	Nomina	
 mantrijeron	wilayah:kecamatan	Nomina	proper
+manunggal	organisasi:perusahaan	Verba	
 manyar	wilayah:kecamatan		
+map	organisasi:perusahaan	Nomina	
 mappi	wilayah:kabupaten-kota	Nomina	proper
 mara	orang:nama-depan	Nomina	
 maraja	wilayah:kecamatan	Nomina	
 maras	wilayah:kecamatan	Adjektiva	
 mare	wilayah:kecamatan	Nomina	
-marga	orang:nama-depan,wilayah:kecamatan	Nomina	
+marga	orang:nama-depan,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 mari	orang:nama-depan	Partikel	
 maria	orang:nama-depan	Nomina	
-marina	orang:nama-depan	Nomina	
-mark	orang:nama-depan		
+marina	orang:nama-depan,organisasi:perusahaan	Nomina	
+marine	organisasi:perusahaan	Adjektiva	
+maritim	organisasi:perusahaan	Adjektiva	
+mark	orang:nama-depan,organisasi:perusahaan		
 markis	orang:nama-depan	Nomina	
 maro	wilayah:kecamatan	Nomina	
 maros	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 martini	orang:nama-keluarga	Nomina	
 maru	wilayah:kecamatan	Nomina	
 marwah	orang:nama-keluarga		
-mas	wilayah:kabupaten-kota,wilayah:kecamatan		
+mas	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan		
 masa	wilayah:kecamatan	Nomina	
+maskapai	organisasi:perusahaan	Nomina	
 masohi	wilayah:kecamatan	Nomina	
 mata	wilayah:kecamatan	Nomina	
+matahari	organisasi:perusahaan	Nomina	
 matan	wilayah:kecamatan	Nomina	
-mataram	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+mataram	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+mate	organisasi:perusahaan	Nomina	
 mati	wilayah:kecamatan		
 matraman	wilayah:kecamatan	Nomina	proper
 matur	wilayah:kecamatan		
@@ -1069,15 +1289,17 @@ maulana	orang:nama-depan,orang:nama-keluarga	Nomina
 maulid	orang:nama-keluarga	Nomina	
 maya	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	proper
 mayang	orang:nama-keluarga,wilayah:kecamatan	Nomina	locus
+mayapada	organisasi:perusahaan	Nomina	
 maybrat	wilayah:kabupaten-kota	Nomina	proper
 mazi	orang:nama-keluarga	Nomina	
-medan	orang:nama-keluarga,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+medan	orang:nama-keluarga,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 medang	wilayah:kecamatan	Nomina	
-mega	orang:nama-depan,wilayah:kecamatan	Nomina	
-megah	orang:nama-depan	Adjektiva	
+media	organisasi:perusahaan	Nomina	
+mega	orang:nama-depan,organisasi:perusahaan,wilayah:kecamatan	Nomina	
+megah	orang:nama-depan,organisasi:perusahaan	Adjektiva	
 megan	orang:nama-depan	Nomina	
 mei	orang:nama-depan,orang:nama-keluarga	Nomina	tempo
-mekar	wilayah:kecamatan	Verba	
+mekar	organisasi:perusahaan,wilayah:kecamatan	Verba	
 melati	orang:nama-depan,orang:nama-keluarga		
 melawan	wilayah:kecamatan	Verba	
 melayu	wilayah:kecamatan	Nomina	proper
@@ -1085,13 +1307,15 @@ melintang	wilayah:kecamatan	Verba
 memo	orang:nama-keluarga	Nomina	
 mempawah	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 menang	wilayah:kecamatan	Verba	
+menara	organisasi:perusahaan	Nomina	
 menggala	wilayah:kecamatan	Verba	
 menggaris	wilayah:kecamatan	Verba	
 mengkuang	wilayah:kecamatan		
 mengkudu	wilayah:kecamatan	Nomina	
 menjalin	wilayah:kecamatan	Verba	
+menjangan	organisasi:perusahaan	Nomina	
 mentari	orang:nama-keluarga	Nomina	
-menteng	wilayah:kecamatan	Nomina	
+menteng	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 mentok	wilayah:kecamatan	Verba	
 merah	wilayah:kecamatan	Nomina	
 merangin	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	locus
@@ -1099,71 +1323,96 @@ meranti	wilayah:kabupaten-kota,wilayah:kecamatan
 merauke	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 merawan	wilayah:kecamatan	Nomina	
 merbau	wilayah:kecamatan	Nomina	
-merdeka	wilayah:kecamatan	Adjektiva	
+merdeka	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 merek	wilayah:kecamatan	Nomina	
 mergangsan	wilayah:kecamatan	Nomina	proper
 meriah	wilayah:kabupaten-kota,wilayah:kecamatan		
 mering	orang:nama-keluarga		
+merpati	organisasi:perusahaan	Nomina	
 merta	orang:nama-keluarga		
 mes	wilayah:kecamatan	Nomina	
 mesjid	wilayah:kecamatan		
+mestika	organisasi:perusahaan	Nomina	
 mesuji	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-metro	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+meta	organisasi:perusahaan	Verba	
+metal	organisasi:perusahaan	Nomina	
+metro	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+metropolitan	organisasi:perusahaan	Nomina	
 mijen	wilayah:kecamatan	Nomina	proper
 mimi	orang:nama-depan	Nomina	
 mimika	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-mina	orang:nama-depan	Nomina	locus
-minahasa	wilayah:kabupaten-kota	Nomina	proper
+mina	orang:nama-depan,organisasi:perusahaan	Nomina	locus
+minahasa	organisasi:perusahaan,wilayah:kabupaten-kota	Nomina	proper
+mineral	organisasi:perusahaan	Nomina	
 minggir	wilayah:kecamatan	Verba	
 minggu	wilayah:kecamatan	Nomina	tempo
 minta	orang:nama-depan	Verba	
+minum	organisasi:perusahaan	Verba	
 miring	wilayah:kecamatan	Adjektiva	
+mitra	organisasi:perusahaan	Nomina	
 mlati	wilayah:kecamatan	Nomina	locus
+mobil	organisasi:perusahaan	Nomina	
+modern	organisasi:perusahaan	Adjektiva	
 moga	wilayah:kecamatan	Adverbia	
 mojokerto	wilayah:kabupaten-kota	Nomina	proper
+monolit	organisasi:perusahaan	Nomina	
 montenegro	orang:nama-keluarga	Nomina	proper
 mori	wilayah:kecamatan	Nomina	
 morowali	wilayah:kabupaten-kota	Nomina	proper
+motor	organisasi:perusahaan	Nomina	
 moyudan	wilayah:kecamatan	Nomina	locus
+muamalat	organisasi:perusahaan	Nomina	
 muara	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 mubarak	orang:nama-depan,orang:nama-keluarga	Adjektiva	
-muda	wilayah:kecamatan	Adjektiva	
+muda	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 mudik	wilayah:kecamatan	Verba	
 muhammad	orang:nama-depan,orang:nama-keluarga	Nomina	proper
 muka	wilayah:kecamatan	Nomina	
 mukhlis	orang:nama-depan	Adjektiva	
 mukomuko	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-mulia	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Adjektiva	
+mulia	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
+multimedia	organisasi:perusahaan	Nomina	
+multipolar	organisasi:perusahaan		
 muna	wilayah:kabupaten-kota		
 muncang	wilayah:kecamatan	Nomina	
+muncul	organisasi:perusahaan	Verba	
 mundu	wilayah:kecamatan		
 murad	orang:nama-depan,orang:nama-keluarga	Nomina	
 murid	orang:nama-keluarga	Nomina	
+murni	organisasi:perusahaan	Adjektiva	
 murung	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 musi	wilayah:kabupaten-kota,wilayah:kecamatan		
+musik	organisasi:perusahaan		
+musim	organisasi:perusahaan	Nomina	
 muslim	orang:nama-depan,orang:nama-keluarga	Nomina	
-mutiara	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
+mustika	organisasi:perusahaan		
+mutiara	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
+nabati	organisasi:perusahaan	Adjektiva	
 nabire	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 nada	orang:nama-depan	Nomina	
 naga	wilayah:kecamatan	Nomina	
-nagari	wilayah:kecamatan		
+nagari	organisasi:perusahaan,wilayah:kecamatan		
 nagekeo	wilayah:kabupaten-kota	Nomina	proper
 nan	wilayah:kecamatan	Partikel	
 nanda	orang:nama-depan,orang:nama-keluarga		
 napal	wilayah:kecamatan	Nomina	
 nara	orang:nama-depan,wilayah:kecamatan	Nomina	
 nasal	wilayah:kecamatan	Adjektiva	
+nasional	organisasi:perusahaan	Adjektiva	
 natal	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 natar	wilayah:kecamatan	Nomina	
 natuna	wilayah:kabupaten-kota	Nomina	locus
+natura	organisasi:perusahaan	Nomina	
+natural	organisasi:perusahaan	Adjektiva	
 nau	wilayah:kecamatan		
 nayaka	orang:nama-depan		
 nazar	orang:nama-keluarga	Nomina	
 nazir	orang:nama-keluarga	Nomina	
 nduga	wilayah:kabupaten-kota	Nomina	proper
-negara	orang:nama-keluarga,wilayah:kecamatan	Nomina	
+negara	orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 negeri	wilayah:kecamatan	Nomina	
 nestor	orang:nama-depan	Nomina	
+net	organisasi:perusahaan	Nomina	
 ngada	wilayah:kabupaten-kota	Nomina	proper
 ngaglik	wilayah:kecamatan	Nomina	locus
 ngaliyan	wilayah:kecamatan	Nomina	proper
@@ -1172,8 +1421,10 @@ nganjuk	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 ngawi	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 ngemplak	wilayah:kecamatan	Nomina	locus
 nia	orang:nama-depan	Nomina	
+niaga	organisasi:perusahaan	Nomina	
 nias	wilayah:kabupaten-kota	Nomina	proper
 nibung	wilayah:kecamatan	Nomina	
+nikel	organisasi:perusahaan	Nomina	
 nila	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
 nini	orang:nama-depan	Nomina	
 ninik	orang:nama-depan	Nomina	
@@ -1187,17 +1438,28 @@ nonong	orang:nama-depan	Adjektiva
 norma	orang:nama-depan	Nomina	
 nova	orang:nama-depan,orang:nama-keluarga	Nomina	
 novel	orang:nama-keluarga	Nomina	
+nuansa	organisasi:perusahaan	Nomina	
 nugraha	orang:nama-depan,orang:nama-keluarga	Nomina	
 nunukan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 nur	orang:nama-depan,orang:nama-keluarga	Nomina	
 nurani	orang:nama-depan	Adjektiva	
 nuri	orang:nama-depan	Nomina	
+nusantara	organisasi:perusahaan	Nomina	
 nyak	orang:nama-depan	Nomina	
 nyoman	orang:nama-depan	Nomina	
+nyonya	organisasi:perusahaan	Nomina	
 obi	wilayah:kecamatan	Nomina	
+oke	organisasi:perusahaan	Partikel	
+olah	organisasi:perusahaan	Nomina	
+omega	organisasi:perusahaan	Nomina	
 ong	orang:nama-keluarga	Partikel	
+optik	organisasi:perusahaan	Adjektiva	
+orang	organisasi:perusahaan	Nomina	
+organon	organisasi:perusahaan	Nomina	
+oto	organisasi:perusahaan	Nomina	
 pabean	wilayah:kecamatan	Nomina	
 pabelan	wilayah:kecamatan	Nomina	proper
+pabrik	organisasi:perusahaan	Nomina	
 pacar	wilayah:kecamatan	Nomina	abstract
 pace	orang:nama-keluarga,wilayah:kecamatan	Nomina	
 pacet	wilayah:kecamatan	Nomina	
@@ -1205,35 +1467,40 @@ pacitan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 padang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 padangsidimpuan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 padas	wilayah:kecamatan	Nomina	
+padi	organisasi:perusahaan	Nomina	
 paes	orang:nama-keluarga	Verba	
 pagar	wilayah:kabupaten-kota,wilayah:kecamatan		
 pagelaran	wilayah:kecamatan	Nomina	
 pagu	wilayah:kecamatan	Nomina	
 pah	wilayah:kecamatan		
-pahala	orang:nama-depan	Nomina	
+pahala	orang:nama-depan,organisasi:perusahaan	Nomina	
 pahar	wilayah:kecamatan	Nomina	
 pahlawan	wilayah:kecamatan	Nomina	
 pajangan	wilayah:kecamatan	Nomina	
 pakal	wilayah:kecamatan	Nomina	
 pakem	wilayah:kecamatan	Adjektiva	
 pakis	wilayah:kecamatan	Nomina	
+paksi	organisasi:perusahaan	Nomina	
 paku	orang:nama-keluarga,wilayah:kecamatan	Nomina	
 pakualaman	wilayah:kecamatan	Nomina	proper
-pal	wilayah:kecamatan	Nomina	
+pal	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 pala	orang:nama-keluarga		
 palang	wilayah:kecamatan		
 palangka	wilayah:kabupaten-kota	Nomina	proper
+palapa	organisasi:perusahaan	Nomina	
 palar	orang:nama-keluarga	Verba	
 palas	wilayah:kecamatan	Nomina	
 palembang	wilayah:kabupaten-kota	Nomina	proper
+palma	organisasi:perusahaan		
 palolo	wilayah:kecamatan		
 palopo	wilayah:kabupaten-kota	Nomina	proper
 palu	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 pamekasan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 pamungkas	orang:nama-keluarga	Nomina	
-pan	orang:nama-keluarga	Nomina	
+pan	orang:nama-keluarga,organisasi:perusahaan	Nomina	
 pana	wilayah:kecamatan	Verba	
 panai	wilayah:kecamatan	Nomina	
+pancaran	organisasi:perusahaan		
 pancoran	wilayah:kecamatan	Nomina	proper
 pancung	wilayah:kecamatan	Nomina	
 pancur	wilayah:kecamatan	Verba	
@@ -1256,16 +1523,21 @@ paniai	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 panjang	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 panjatan	wilayah:kecamatan	Nomina	
 panji	orang:nama-depan,wilayah:kecamatan	Nomina	
-pantai	wilayah:kecamatan	Nomina	
+panorama	organisasi:perusahaan	Nomina	
+pantai	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 pantar	wilayah:kecamatan	Nomina	
 panti	wilayah:kecamatan	Nomina	
 papar	wilayah:kecamatan	Adjektiva	
+parabola	organisasi:perusahaan	Nomina	
+paragon	organisasi:perusahaan	Nomina	
 parang	wilayah:kecamatan	Nomina	
 pare	wilayah:kecamatan	Nomina	
 parepare	wilayah:kabupaten-kota	Nomina	proper
+pari	organisasi:perusahaan	Nomina	
 pariaman	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 parik	wilayah:kecamatan		
-paris	orang:nama-keluarga,wilayah:kecamatan	Nomina	
+paris	orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
+parkir	organisasi:perusahaan	Verba	
 paro	wilayah:kecamatan		
 paron	wilayah:kecamatan	Nomina	
 pasak	wilayah:kecamatan	Nomina	
@@ -1287,42 +1559,68 @@ payang	wilayah:kecamatan	Nomina
 payung	wilayah:kecamatan	Nomina	
 pedamaran	wilayah:kecamatan	Nomina	
 pedurungan	wilayah:kecamatan	Nomina	proper
+pegadaian	organisasi:perusahaan	Nomina	
 pegunungan	wilayah:kabupaten-kota,wilayah:provinsi	Nomina	
 pek	orang:nama-depan	Nomina	
 pekalongan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 pekanbaru	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 pekat	wilayah:kecamatan	Adjektiva	
+pelabuhan	organisasi:perusahaan		
 pelalawan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+pelangi	organisasi:perusahaan	Nomina	
+pelat	organisasi:perusahaan	Nomina	
 pelawan	wilayah:kecamatan	Nomina	
+pelayaran	organisasi:perusahaan	Nomina	
 pelindung	wilayah:kecamatan	Nomina	
+pelita	organisasi:perusahaan	Nomina	
 pemalang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 pemali	wilayah:kecamatan		
 pematang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+pembangunan	organisasi:perusahaan		
 pembarap	wilayah:kecamatan	Nomina	
+pembayaran	organisasi:perusahaan	Nomina	
+pembiayaan	organisasi:perusahaan	Nomina	
 pemenang	wilayah:kecamatan	Nomina	
+pemuda	organisasi:perusahaan	Nomina	
 pemuka	wilayah:kecamatan		
+pemula	organisasi:perusahaan	Nomina	
 penanggalan	wilayah:kecamatan	Nomina	
 penarik	wilayah:kecamatan	Nomina	
 penawar	wilayah:kecamatan	Nomina	
+pendidikan	organisasi:perusahaan	Nomina	
 pendopo	wilayah:kecamatan	Nomina	
+penerbit	organisasi:perusahaan	Nomina	
 pengabuan	wilayah:kecamatan	Nomina	
+pengadaan	organisasi:perusahaan	Nomina	
 pengadang	wilayah:kecamatan	Nomina	
 pengasih	wilayah:kecamatan	Nomina	
+pengelola	organisasi:perusahaan	Nomina	
 penggawa	wilayah:kecamatan	Nomina	
 peni	orang:nama-depan	Adjektiva	
 peninjauan	wilayah:kecamatan	Nomina	
 penuh	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 penyu	wilayah:kecamatan	Nomina	
-perak	wilayah:kecamatan	Nomina	
+perak	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+perdagangan	organisasi:perusahaan	Nomina	
+perdana	organisasi:perusahaan	Nomina	
 pere	orang:nama-depan	Adjektiva	
 perhentian	wilayah:kecamatan	Nomina	
+perintis	organisasi:perusahaan	Nomina	
 periuk	wilayah:kecamatan	Nomina	
 perjuangan	wilayah:kecamatan	Nomina	
-perkasa	orang:nama-keluarga	Adjektiva	
-permai	wilayah:kecamatan	Adjektiva	redup
+perkapalan	organisasi:perusahaan	Nomina	
+perkasa	orang:nama-keluarga,organisasi:perusahaan	Adjektiva	
+perkebunan	organisasi:perusahaan	Nomina	
+permai	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	redup
 permana	orang:nama-keluarga	Nomina	
 permata	orang:nama-keluarga,wilayah:kecamatan	Nomina	
-pertiwi	orang:nama-keluarga		
+permodalan	organisasi:perusahaan	Nomina	
+persada	organisasi:perusahaan	Nomina	
+personel	organisasi:perusahaan	Nomina	
+pertama	organisasi:perusahaan		
+pertiwi	orang:nama-keluarga,organisasi:perusahaan		
+perum	organisasi:perusahaan	Nomina	
+perusahaan	organisasi:perusahaan	Nomina	
 pesak	wilayah:kecamatan	Nomina	
 pesam	wilayah:kecamatan	Adjektiva	
 pesanggrahan	wilayah:kecamatan	Nomina	
@@ -1333,10 +1631,12 @@ petak	wilayah:kecamatan	Nomina
 petamburan	wilayah:kecamatan	Nomina	proper
 petang	wilayah:kecamatan	Nomina	
 petir	wilayah:kecamatan	Nomina	
+petrokimia	organisasi:perusahaan	Nomina	
 picung	wilayah:kecamatan	Nomina	
 pidada	wilayah:kecamatan		
 pidie	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 pilang	wilayah:kecamatan	Nomina	
+pilar	organisasi:perusahaan	Nomina	
 pinang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 pinggir	wilayah:kecamatan	Nomina	
 pinrang	wilayah:kabupaten-kota	Nomina	proper
@@ -1345,33 +1645,48 @@ pisang	wilayah:kecamatan	Nomina
 pisau	wilayah:kabupaten-kota	Nomina	
 piyungan	wilayah:kecamatan	Nomina	proper
 plakat	wilayah:kecamatan	Nomina	
+planet	organisasi:perusahaan	Nomina	
+plaza	organisasi:perusahaan	Nomina	
 pleret	wilayah:kecamatan	Nomina	proper
+plus	organisasi:perusahaan	Adjektiva	
 pohuwato	wilayah:kabupaten-kota	Nomina	proper
+polaris	organisasi:perusahaan	Nomina	
 polen	wilayah:kecamatan	Nomina	
+pondasi	organisasi:perusahaan		
 pondok	wilayah:kecamatan	Nomina	
 ponggok	wilayah:kecamatan	Adjektiva	
 ponorogo	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 pontianak	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 poo	orang:nama-depan	Nomina	
+pop	organisasi:perusahaan	Adjektiva	
 porong	wilayah:kecamatan	Nomina	
+pos	organisasi:perusahaan	Nomina	
 poso	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 prabowo	orang:nama-depan	Proper Nama	proper
+prabu	organisasi:perusahaan	Nomina	
 prabumulih	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+prakarsa	organisasi:perusahaan	Nomina	
 prambanan	wilayah:kecamatan	Nomina	locus
 pranata	orang:nama-keluarga		
 prapatan	wilayah:kecamatan	Nomina	
+premium	organisasi:perusahaan	Nomina	
+presisi	organisasi:perusahaan	Nomina	
 pribadi	orang:nama-keluarga	Nomina	
-prima	orang:nama-depan,orang:nama-keluarga		
+prima	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan		
 pringapus	wilayah:kecamatan	Nomina	proper
 pringsewu	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 probolinggo	wilayah:kabupaten-kota	Nomina	locus
-pucuk	wilayah:kecamatan	Nomina	
+produksi	organisasi:perusahaan	Nomina	
+profesional	organisasi:perusahaan	Adjektiva	
+properti	organisasi:perusahaan	Nomina	
+pucuk	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 puding	wilayah:kecamatan	Nomina	
 puji	orang:nama-depan	Nomina	
 pujut	wilayah:kecamatan	Verba	
 pulang	wilayah:kabupaten-kota	Verba	
-pulau	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+pulau	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 pulo	wilayah:kecamatan	Nomina	proper
+pulp	organisasi:perusahaan	Nomina	
 puluh	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 pulung	orang:nama-depan,wilayah:kecamatan	Nomina	
 puncak	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
@@ -1380,37 +1695,43 @@ punduh	wilayah:kecamatan
 punggur	wilayah:kecamatan		
 punjung	wilayah:kecamatan	Nomina	
 pupuan	wilayah:kecamatan	Nomina	
-pura	wilayah:kecamatan	Nomina	
+pupuk	organisasi:perusahaan		
+pura	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 purba	orang:nama-keluarga,wilayah:kecamatan		
 purbalingga	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-puri	orang:nama-depan,wilayah:kecamatan	Nomina	
+puri	orang:nama-depan,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 puring	wilayah:kecamatan	Nomina	
 purnama	orang:nama-depan,orang:nama-keluarga	Adjektiva	
+purwa	organisasi:perusahaan	Adjektiva	
 purwakarta	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 purworejo	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-pusaka	wilayah:kecamatan	Nomina	
+pusaka	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 pusat	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 puspa	orang:nama-depan	Nomina	
 puspita	orang:nama-depan		
 puti	orang:nama-depan	Nomina	
 putih	wilayah:kecamatan	Nomina	
-putra	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
-putri	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan		
+putra	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
+putri	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan		
 putu	orang:nama-depan	Nomina	
 puyu	wilayah:kecamatan	Nomina	
 puyuh	wilayah:kecamatan	Nomina	
 raba	wilayah:kecamatan	Verba	
+radar	organisasi:perusahaan		
 raden	orang:nama-depan	Nomina	
 radin	orang:nama-depan	Nomina	
-rafi	orang:nama-depan	Adjektiva	
-rahayu	orang:nama-keluarga	Adjektiva	
+radio	organisasi:perusahaan	Nomina	
+rafi	orang:nama-depan,organisasi:perusahaan	Adjektiva	
+raharja	organisasi:perusahaan	Adjektiva	
+rahayu	orang:nama-keluarga,organisasi:perusahaan	Adjektiva	
 rahman	orang:nama-depan,orang:nama-keluarga	Nomina	
 rahmat	orang:nama-depan	Nomina	
 rais	orang:nama-keluarga	Nomina	
-raja	orang:nama-depan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+raja	orang:nama-depan,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+rajawali	organisasi:perusahaan	Nomina	
 raka	orang:nama-keluarga	Nomina	
 rakit	wilayah:kecamatan	Nomina	
-rakyat	wilayah:kecamatan	Nomina	
+rakyat	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 ram	orang:nama-depan	Nomina	
 rama	orang:nama-keluarga	Nomina	
 ramanda	orang:nama-keluarga	Nomina	
@@ -1430,18 +1751,20 @@ rani	orang:nama-depan,orang:nama-keluarga	Nomina
 rantau	wilayah:kecamatan	Nomina	
 rante	wilayah:kecamatan		
 rasau	wilayah:kecamatan	Nomina	
-ratna	orang:nama-depan		
-ratu	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan		
+ratna	orang:nama-depan,organisasi:perusahaan		
+ratu	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan		
 rawa	wilayah:kecamatan	Nomina	
 rawan	wilayah:kecamatan	Adjektiva	
 rawang	wilayah:kecamatan	Verba	
-raya	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
+raya	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 rayap	wilayah:kecamatan	Nomina	
+real	organisasi:perusahaan	Adjektiva	
+reasuransi	organisasi:perusahaan	Nomina	
 reban	wilayah:kecamatan		
 rebo	wilayah:kecamatan	Nomina	tempo
 regol	wilayah:kecamatan	Nomina	
 rejang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
-rejeki	orang:nama-keluarga		
+rejeki	orang:nama-keluarga,organisasi:perusahaan		
 reka	orang:nama-depan	Verba	
 rembang	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 rena	orang:nama-depan		
@@ -1457,19 +1780,23 @@ ribu	wilayah:kecamatan	Nomina
 rijal	orang:nama-keluarga	Nomina	
 rijang	wilayah:kecamatan	Nomina	
 rima	orang:nama-depan	Nomina	
-rimba	wilayah:kecamatan	Nomina	
+rimba	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 rime	wilayah:kecamatan	Nomina	
 rini	orang:nama-depan,orang:nama-keluarga	Nomina	
 risa	orang:nama-depan	Nomina	
 riung	wilayah:kecamatan	Verba	
+roda	organisasi:perusahaan	Nomina	
 rohmat	orang:nama-depan		
 roma	wilayah:kecamatan	Nomina	
 rongga	wilayah:kecamatan	Nomina	
 rongkong	wilayah:kecamatan	Nomina	
 rotan	wilayah:kecamatan	Nomina	
+roti	organisasi:perusahaan	Nomina	
+royal	organisasi:perusahaan	Adjektiva	
 royan	orang:nama-keluarga	Nomina	
 rubuh	wilayah:kecamatan		
 rudi	orang:nama-depan	Nomina	
+rukun	organisasi:perusahaan	Nomina	
 rumbai	wilayah:kecamatan	Nomina	
 rumbia	wilayah:kecamatan	Nomina	
 runggu	wilayah:kecamatan		
@@ -1477,18 +1804,21 @@ runjung	wilayah:kecamatan	Adjektiva
 saadah	orang:nama-depan	Nomina	
 saba	orang:nama-keluarga		
 sabak	wilayah:kecamatan	Adjektiva	
+sabana	organisasi:perusahaan	Nomina	
 sabang	wilayah:kabupaten-kota	Nomina	
 sabar	orang:nama-depan	Adjektiva	
 sabil	wilayah:kecamatan	Nomina	
 sadai	wilayah:kecamatan	Verba	
 sadang	wilayah:kecamatan		
+sadar	organisasi:perusahaan	Adjektiva	
 sadu	wilayah:kecamatan	Adjektiva	
 sago	wilayah:kecamatan		
-sahid	orang:nama-depan		
+sahid	orang:nama-depan,organisasi:perusahaan		
 said	orang:nama-depan,orang:nama-keluarga		
 saidi	orang:nama-depan		
 sakinah	orang:nama-depan	Nomina	
-sakti	wilayah:kecamatan	Adjektiva	
+sakti	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
+saku	organisasi:perusahaan	Nomina	
 salak	wilayah:kecamatan	Nomina	
 salam	orang:nama-keluarga,wilayah:kecamatan		
 salang	wilayah:kecamatan	Nomina	
@@ -1498,7 +1828,7 @@ sale	wilayah:kecamatan
 saleh	orang:nama-depan,orang:nama-keluarga	Adjektiva	
 salem	orang:nama-depan,wilayah:kecamatan	Nomina	
 salih	orang:nama-depan		
-salim	orang:nama-depan,orang:nama-keluarga	Nomina	
+salim	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan	Nomina	
 saling	wilayah:kecamatan	Adverbia	
 salmon	orang:nama-depan	Nomina	
 samad	orang:nama-keluarga	Adjektiva	
@@ -1511,8 +1841,8 @@ sambutan	wilayah:kecamatan	Nomina
 samin	orang:nama-keluarga		
 samosir	orang:nama-keluarga,wilayah:kabupaten-kota	Nomina	proper
 sampang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
-samudera	wilayah:kecamatan		
-samudra	orang:nama-keluarga	Nomina	
+samudera	organisasi:perusahaan,wilayah:kecamatan		
+samudra	orang:nama-keluarga,organisasi:perusahaan	Nomina	
 sanda	orang:nama-keluarga	Nomina	
 sandang	wilayah:kecamatan	Nomina	
 sandaran	wilayah:kecamatan	Nomina	
@@ -1530,13 +1860,19 @@ sano	wilayah:kecamatan	Adjektiva
 santa	orang:nama-depan	Nomina	
 sapta	orang:nama-keluarga		
 sara	orang:nama-depan	Nomina	
+sarana	organisasi:perusahaan		
 sarang	wilayah:kecamatan	Nomina	
-sari	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
+sari	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 sarmi	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 sarolangun	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+sasa	organisasi:perusahaan	Adjektiva	
 sasak	wilayah:kecamatan	Nomina	
+sat	organisasi:perusahaan	Nomina	
 satar	wilayah:kecamatan	Nomina	
-satu	wilayah:kecamatan		numeral
+satelit	organisasi:perusahaan	Nomina	
+satria	organisasi:perusahaan		
+satu	organisasi:perusahaan,wilayah:kecamatan		numeral
+saudara	organisasi:perusahaan	Nomina	
 saut	orang:nama-keluarga		
 sawa	wilayah:kecamatan		
 sawah	wilayah:kecamatan	Nomina	
@@ -1545,7 +1881,7 @@ sawai	wilayah:kecamatan	Nomina
 sawan	wilayah:kecamatan	Nomina	
 sawang	wilayah:kecamatan	Nomina	
 sawangan	wilayah:kecamatan	Nomina	
-sawit	wilayah:kecamatan		
+sawit	organisasi:perusahaan,wilayah:kecamatan		
 sawo	wilayah:kecamatan	Nomina	
 sayung	wilayah:kecamatan	Adjektiva	
 sayur	wilayah:kecamatan	Nomina	
@@ -1555,53 +1891,69 @@ sedan	wilayah:kecamatan	Nomina
 sedayu	wilayah:kecamatan	Nomina	proper
 sedong	wilayah:kecamatan	Nomina	
 segah	wilayah:kecamatan	Adjektiva	
-segar	wilayah:kecamatan	Adjektiva	
-segara	wilayah:kecamatan	Nomina	
-sejati	orang:nama-keluarga	Adjektiva	
-sekar	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
+segar	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
+segara	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+sejahtera	organisasi:perusahaan	Adjektiva	
+sejati	orang:nama-keluarga,organisasi:perusahaan	Adjektiva	
+sekar	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
 seko	wilayah:kecamatan	Nomina	
+sekuritas	organisasi:perusahaan	Nomina	
 sela	wilayah:kecamatan	Nomina	
-selamat	wilayah:kecamatan	Adjektiva	
+selamat	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 selan	wilayah:kecamatan	Nomina	proper
 selangit	wilayah:kecamatan	Nomina	
 selapan	wilayah:kecamatan		
+selaras	organisasi:perusahaan	Nomina	
 selat	wilayah:kecamatan	Nomina	
-selatan	wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	locus
+selatan	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	locus
 selayang	wilayah:kecamatan	Nomina	
 selebar	wilayah:kecamatan	Verba	
+selera	organisasi:perusahaan	Nomina	
 selesai	wilayah:kecamatan	Verba	
 selo	wilayah:kecamatan	Nomina	
 selong	wilayah:kecamatan	Nomina	proper
 seluas	wilayah:kecamatan	Adverbia	locus
-seluma	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+seluma	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 semarang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 semau	wilayah:kecamatan	Verba	
-sembilan	wilayah:kecamatan		numeral
-semen	wilayah:kecamatan	Nomina	
+sembada	organisasi:perusahaan	Adjektiva	
+sembilan	organisasi:perusahaan,wilayah:kecamatan		numeral
+semen	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+semesta	organisasi:perusahaan	Adjektiva	
+sempurna	organisasi:perusahaan	Adjektiva	
 sen	orang:nama-depan		
 sendang	wilayah:kecamatan	Nomina	
 senduk	orang:nama-keluarga		
 senen	wilayah:kecamatan	Nomina	tempo
 seng	orang:nama-keluarga		
+sentosa	organisasi:perusahaan	Adjektiva	
+sentra	organisasi:perusahaan	Nomina	
+sentral	organisasi:perusahaan		
+sentul	organisasi:perusahaan	Nomina	
 sepang	wilayah:kecamatan	Nomina	
+sepatu	organisasi:perusahaan	Nomina	
+sepeda	organisasi:perusahaan	Nomina	
 sepenggal	wilayah:kecamatan	Nomina	
 serai	wilayah:kecamatan	Nomina	
 seram	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 serang	wilayah:kabupaten-kota,wilayah:kecamatan	Verba	
 serangan	wilayah:kecamatan	Nomina	
+serasi	organisasi:perusahaan	Adjektiva	
 serba	wilayah:kecamatan	Adverbia	
 serdang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 serengan	wilayah:kecamatan	Nomina	proper
 seri	wilayah:kecamatan	Nomina	
 seribu	wilayah:kabupaten-kota,wilayah:kecamatan		numeral
+seroja	organisasi:perusahaan	Nomina	
 serumpun	wilayah:kecamatan	Nomina	
 serut	wilayah:kecamatan	Nomina	
 seruyan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 seti	wilayah:kecamatan	Nomina	
-setia	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Adjektiva	
-setiabudi	orang:nama-keluarga,wilayah:kecamatan	Nomina	proper
+setia	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
+setiabudi	orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	proper
 setu	wilayah:kecamatan	Nomina	
 sewon	wilayah:kecamatan	Nomina	proper
+sewu	organisasi:perusahaan	Nomina	
 seyegan	wilayah:kecamatan	Nomina	proper
 siak	wilayah:kabupaten-kota,wilayah:kecamatan		
 siam	orang:nama-depan	Verba	
@@ -1613,6 +1965,7 @@ siding	wilayah:kecamatan
 sidoarjo	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 sidomukti	wilayah:kecamatan	Nomina	
 sigi	orang:nama-depan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+sigma	organisasi:perusahaan	Nomina	
 sijunjung	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 sikap	wilayah:kecamatan	Nomina	
 sikka	wilayah:kabupaten-kota	Nomina	proper
@@ -1627,7 +1980,9 @@ simeulue	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 simpang	wilayah:kecamatan	Nomina	
 simpur	wilayah:kecamatan	Nomina	
 sin	orang:nama-depan	Nomina	
-sinar	wilayah:kecamatan	Nomina	
+sinar	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+sinema	organisasi:perusahaan	Nomina	
+sinergi	organisasi:perusahaan	Nomina	
 sing	orang:nama-depan	Nomina	
 singgahan	wilayah:kecamatan	Nomina	
 singkawang	wilayah:kabupaten-kota,wilayah:kecamatan		
@@ -1650,7 +2005,10 @@ soe	wilayah:kecamatan	Adjektiva
 sohib	orang:nama-keluarga	Nomina	
 soka	orang:nama-keluarga	Nomina	
 soko	wilayah:kecamatan		
+solar	organisasi:perusahaan	Nomina	
+solo	organisasi:perusahaan	Nomina	
 solok	wilayah:kabupaten-kota	Nomina	
+solusi	organisasi:perusahaan	Nomina	
 sompak	wilayah:kecamatan		
 sonder	wilayah:kecamatan	Partikel	
 soppeng	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
@@ -1658,14 +2016,16 @@ sorong	wilayah:kabupaten-kota,wilayah:kecamatan	Verba
 sosoh	wilayah:kecamatan	Verba	
 sragen	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 srandakan	wilayah:kecamatan	Nomina	proper
-sri	orang:nama-depan	Partikel	
+sri	orang:nama-depan,organisasi:perusahaan	Partikel	
+studio	organisasi:perusahaan		
 suak	wilayah:kecamatan	Nomina	
 subang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 subulussalam	wilayah:kabupaten-kota	Nomina	proper
 subur	wilayah:kecamatan	Adjektiva	
 suci	orang:nama-depan	Adjektiva	
 sudi	orang:nama-depan	Verba	
-sugih	wilayah:kecamatan	Adjektiva	
+sugar	organisasi:perusahaan	Verba	
+sugih	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 suguh	wilayah:kecamatan	Verba	
 sujana	orang:nama-depan	Nomina	
 suka	orang:nama-keluarga,wilayah:kecamatan	Adjektiva	
@@ -1673,18 +2033,20 @@ sukabumi	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 sukamara	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 sukma	orang:nama-depan	Nomina	
 sukoharjo	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+sukses	organisasi:perusahaan	Adjektiva	
 suku	wilayah:kecamatan	Nomina	
-sukun	wilayah:kecamatan	Verba	
+sukun	organisasi:perusahaan,wilayah:kecamatan	Verba	
 sula	wilayah:kabupaten-kota	Nomina	
 sulang	wilayah:kecamatan		
 suli	orang:nama-keluarga,wilayah:kecamatan	Nomina	
 suling	wilayah:kecamatan	Nomina	
 sultan	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
+sulut	organisasi:perusahaan	Verba	
 sumatra	wilayah:kabupaten-kota	Nomina	proper
-sumba	wilayah:kabupaten-kota	Nomina	
+sumba	organisasi:perusahaan,wilayah:kabupaten-kota	Nomina	
 sumbang	wilayah:kecamatan	Verba	
 sumbawa	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-sumber	wilayah:kecamatan	Nomina	
+sumber	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 sumbul	wilayah:kecamatan	Nomina	
 sumedang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 sumenep	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	locus
@@ -1692,27 +2054,35 @@ sumirat	orang:nama-keluarga	Adjektiva
 sumo	wilayah:kecamatan	Nomina	
 sumowono	wilayah:kecamatan	Nomina	proper
 sumur	wilayah:kecamatan	Nomina	
+sun	organisasi:perusahaan	Nomina	
 sungai	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 sungkai	wilayah:kecamatan		
 suni	orang:nama-keluarga	Nomina	
+super	organisasi:perusahaan	Adjektiva	
+supermarket	organisasi:perusahaan	Nomina	
 supiori	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 supit	orang:nama-keluarga		
-surabaya	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+surabaya	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 surakarta	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 surian	wilayah:kecamatan	Nomina	
 suruh	wilayah:kecamatan	Nomina	
-surya	orang:nama-depan	Nomina	
+surya	orang:nama-depan,organisasi:perusahaan	Nomina	
 susu	wilayah:kecamatan	Nomina	
 susukan	wilayah:kecamatan	Nomina	proper
 susut	wilayah:kecamatan	Adjektiva	
 sutan	orang:nama-depan	Nomina	
+swakarsa	organisasi:perusahaan	Nomina	
+swalayan	organisasi:perusahaan	Nomina	
+swasembada	organisasi:perusahaan	Nomina	
 swastika	orang:nama-keluarga	Nomina	
 syafaat	orang:nama-depan		
 syahbandar	wilayah:kecamatan	Nomina	
+syariah	organisasi:perusahaan		
 syuhada	orang:nama-depan	Nomina	
 tabalong	wilayah:kabupaten-kota	Nomina	locus
 tabanan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 tabir	wilayah:kecamatan		
+tabungan	organisasi:perusahaan	Nomina	
 tabur	wilayah:kecamatan	Verba	
 tahar	orang:nama-keluarga	Verba	
 tahir	orang:nama-depan,orang:nama-keluarga	Adjektiva	
@@ -1723,18 +2093,18 @@ talang	wilayah:kecamatan	Nomina
 tali	wilayah:kecamatan	Nomina	
 talun	wilayah:kecamatan	Verba	
 tam	wilayah:kecamatan	Nomina	
-taman	wilayah:kecamatan	Nomina	
+taman	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 tambak	wilayah:kecamatan	Nomina	
 tamban	wilayah:kecamatan	Nomina	
-tambang	wilayah:kecamatan	Nomina	
+tambang	organisasi:perusahaan,wilayah:kecamatan	Nomina	
 tambangan	wilayah:kecamatan	Nomina	
 tambora	wilayah:kecamatan	Nomina	proper
 tambrauw	wilayah:kabupaten-kota	Nomina	proper
 tambun	wilayah:kecamatan	Adjektiva	
 tambunan	orang:nama-keluarga	Nomina	
 tampi	orang:nama-keluarga	Verba	
-tan	orang:nama-depan,orang:nama-keluarga,wilayah:kecamatan	Nomina	
-tanah	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+tan	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kecamatan	Nomina	
+tanah	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 tanam	wilayah:kecamatan	Verba	
 tanding	wilayah:kecamatan	Nomina	
 tanduk	wilayah:kecamatan	Nomina	
@@ -1746,16 +2116,17 @@ tangerang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 tanggamus	wilayah:kabupaten-kota	Nomina	proper
 tanggul	wilayah:kecamatan	Nomina	
 tangkas	wilayah:kecamatan	Adjektiva	
-tani	wilayah:kecamatan	Nomina	
-tania	orang:nama-depan	Nomina	
-tanjung	orang:nama-keluarga,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+tani	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+tania	orang:nama-depan,organisasi:perusahaan	Nomina	
+tanjung	orang:nama-keluarga,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 tanjungbalai	wilayah:kecamatan	Nomina	proper
 tanjungpinang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+tanker	organisasi:perusahaan	Nomina	
 tanya	orang:nama-depan	Nomina	
 tapa	wilayah:kecamatan	Verba	
 tapah	wilayah:kecamatan		
 tapak	wilayah:kecamatan	Nomina	
-tapin	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
+tapin	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 tapung	wilayah:kecamatan	Verba	
 tara	orang:nama-depan	Nomina	
 tarakan	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
@@ -1766,29 +2137,40 @@ tarub	wilayah:kecamatan
 tarup	wilayah:kecamatan	Nomina	
 tasik	wilayah:kecamatan	Nomina	
 tasikmalaya	wilayah:kabupaten-kota	Nomina	proper
+tata	organisasi:perusahaan		
 tataan	wilayah:kecamatan	Nomina	
 tatah	wilayah:kecamatan	Nomina	
 taufik	orang:nama-depan,orang:nama-keluarga	Nomina	
 tauhid	orang:nama-depan	Nomina	
 tawang	wilayah:kecamatan	Nomina	
 tawar	wilayah:kecamatan	Adjektiva	
+tawon	organisasi:perusahaan	Nomina	
 tebas	wilayah:kecamatan	Verba	
 tebat	wilayah:kecamatan	Nomina	
 tebet	wilayah:kecamatan	Nomina	proper
 tebing	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 tebo	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 tebu	wilayah:kecamatan	Nomina	
-tegal	wilayah:kabupaten-kota,wilayah:kecamatan	Partikel	
+tegal	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Partikel	
 tegalrejo	wilayah:kecamatan	Nomina	locus
 tegar	orang:nama-depan	Adjektiva	
 teguh	orang:nama-depan	Adjektiva	
+teh	organisasi:perusahaan	Nomina	
 teja	orang:nama-depan,wilayah:kecamatan	Nomina	
+teknik	organisasi:perusahaan	Nomina	
+teknologi	organisasi:perusahaan	Nomina	
 tekung	wilayah:kecamatan	Nomina	
+teladan	organisasi:perusahaan	Nomina	
 teladas	wilayah:kecamatan		
 telaga	wilayah:kecamatan	Nomina	
 telang	wilayah:kecamatan	Nomina	
+telekomunikasi	organisasi:perusahaan	Nomina	
+teler	organisasi:perusahaan	Adjektiva	
+telkom	organisasi:perusahaan	Nomina	acronym
 teluk	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 temanggung	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+temas	organisasi:perusahaan	Verba	
+tembaga	organisasi:perusahaan	Nomina	
 tembalang	wilayah:kecamatan	Nomina	proper
 tembelang	wilayah:kecamatan	Adjektiva	
 tembuku	wilayah:kecamatan		
@@ -1797,14 +2179,16 @@ tembuni	wilayah:kecamatan
 temiang	wilayah:kecamatan	Nomina	
 tempe	wilayah:kecamatan	Nomina	
 tempel	wilayah:kecamatan	Verba	
+tempo	organisasi:perusahaan	Nomina	
 tempuling	wilayah:kecamatan	Nomina	
 teng	orang:nama-keluarga	Nomina	
-tengah	wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	
+tengah	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	
 tengaran	wilayah:kecamatan	Nomina	proper
-tenggara	wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	
+tenggara	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	
 tenggarang	wilayah:kecamatan	Nomina	
 tenong	wilayah:kecamatan	Nomina	
 tepus	wilayah:kecamatan	Nomina	
+tera	organisasi:perusahaan		
 teran	wilayah:kecamatan	Verba	
 terang	wilayah:kecamatan	Adjektiva	
 teras	wilayah:kecamatan	Nomina	
@@ -1813,45 +2197,60 @@ teriak	wilayah:kecamatan	Nomina
 tering	wilayah:kecamatan	Nomina	
 terisi	wilayah:kecamatan	Verba	
 teritip	wilayah:kecamatan	Nomina	
+terminal	organisasi:perusahaan	Nomina	
 ternate	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 terusan	wilayah:kecamatan	Nomina	
 tetap	wilayah:kecamatan	Verba	
 tiang	wilayah:kecamatan	Nomina	
-tiara	orang:nama-keluarga	Nomina	
+tiara	orang:nama-keluarga,organisasi:perusahaan	Nomina	
 tiba	orang:nama-keluarga	Verba	
 tidore	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
-tiga	wilayah:kecamatan		numeral
+tifa	organisasi:perusahaan	Nomina	
+tiga	organisasi:perusahaan,wilayah:kecamatan		numeral
 tika	orang:nama-depan	Nomina	
 tike	orang:nama-depan	Nomina	
 tikung	wilayah:kecamatan	Verba	
 tim	orang:nama-depan	Nomina	
+timah	organisasi:perusahaan	Nomina	
 timang	wilayah:kecamatan	Verba	
-timur	orang:nama-depan,orang:nama-keluarga,wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	
+timur	orang:nama-depan,orang:nama-keluarga,organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	
+tin	organisasi:perusahaan		
 tinggi	wilayah:kabupaten-kota,wilayah:kecamatan	Adjektiva	
 tiram	wilayah:kecamatan	Nomina	
 tirani	orang:nama-depan	Nomina	
 tiris	wilayah:kecamatan	Adjektiva	
+tirta	organisasi:perusahaan	Nomina	
 titi	orang:nama-depan,wilayah:kecamatan	Verba	
 titis	orang:nama-depan	Nomina	
-toba	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+toba	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 toboh	wilayah:kecamatan	Nomina	
 togo	wilayah:kecamatan	Nomina	proper
+toko	organisasi:perusahaan	Nomina	
+tolak	organisasi:perusahaan	Verba	
 tolikara	wilayah:kabupaten-kota	Nomina	proper
 tolitoli	wilayah:kecamatan	Nomina	proper
 tom	orang:nama-depan	Nomina	
 toman	wilayah:kecamatan	Nomina	
 tomohon	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
+top	organisasi:perusahaan	Nomina	
+topas	organisasi:perusahaan	Nomina	
+toserba	organisasi:perusahaan	Nomina	
+total	organisasi:perusahaan	Nomina	
+trans	organisasi:perusahaan	Nomina	
+transportasi	organisasi:perusahaan	Nomina	
 trenggalek	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 tresna	orang:nama-depan	Nomina	
-tua	wilayah:kecamatan	Adjektiva	
+trip	organisasi:perusahaan	Nomina	
+trisula	organisasi:perusahaan	Nomina	
+tua	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	
 tuah	wilayah:kecamatan	Nomina	
 tual	wilayah:kabupaten-kota	Nomina	
 tualang	wilayah:kecamatan	Adjektiva	
 tuan	wilayah:kecamatan	Nomina	
 tuba	wilayah:kecamatan	Nomina	
 tuban	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
-tugu	wilayah:kecamatan	Nomina	
-tujuh	wilayah:kecamatan		numeral
+tugu	organisasi:perusahaan,wilayah:kecamatan	Nomina	
+tujuh	organisasi:perusahaan,wilayah:kecamatan		numeral
 tukak	wilayah:kecamatan	Nomina	
 tulang	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	
 tulis	wilayah:kecamatan	Verba	
@@ -1861,12 +2260,15 @@ tulus	orang:nama-keluarga	Adjektiva
 tumbang	wilayah:kecamatan	Verba	
 tumbuh	wilayah:kecamatan	Verba	
 tumpang	wilayah:kecamatan	Verba	
+tunas	organisasi:perusahaan	Nomina	
+tunggal	organisasi:perusahaan	Adjektiva	
 tunggul	wilayah:kecamatan	Nomina	
 tunjung	orang:nama-keluarga,wilayah:kecamatan	Nomina	
 tuntang	wilayah:kecamatan	Nomina	proper
 tur	orang:nama-keluarga	Nomina	
 turang	orang:nama-keluarga	Nomina	
 turi	wilayah:kecamatan		
+turki	organisasi:perusahaan	Nomina	proper
 tusam	wilayah:kecamatan	Nomina	
 tutuk	wilayah:kecamatan		
 tutur	wilayah:kecamatan	Nomina	
@@ -1880,20 +2282,30 @@ ulakan	wilayah:kecamatan	Nomina	abstract
 ulang	wilayah:kecamatan	Verba	action
 ulin	wilayah:kecamatan	Nomina	locus
 ulu	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	locus
+umbara	organisasi:perusahaan	Nomina	abstract
 umbu	wilayah:kecamatan	Nomina	
 umbulharjo	wilayah:kecamatan	Nomina	locus
 undang	orang:nama-keluarga	Verba	
 ungar	wilayah:kecamatan	Nomina	
+unggas	organisasi:perusahaan	Nomina	
+unggul	organisasi:perusahaan	Adjektiva	
+uni	organisasi:perusahaan	Nomina	
+universal	organisasi:perusahaan	Adjektiva	
 upas	wilayah:kecamatan	Nomina	
 upau	wilayah:kecamatan		
 urang	wilayah:kecamatan	Nomina	
-utama	wilayah:kecamatan	Adjektiva	abstract
+urban	organisasi:perusahaan	Adjektiva	abstract
+usaha	organisasi:perusahaan	Nomina	action
+utama	organisasi:perusahaan,wilayah:kecamatan	Adjektiva	abstract
 utan	wilayah:kecamatan	Nomina	locus
-utara	wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	tempo
+utara	organisasi:perusahaan,wilayah:kabupaten-kota,wilayah:kecamatan,wilayah:provinsi	Nomina	tempo
 valentine	orang:nama-depan	Nomina	tempo
 van	orang:nama-keluarga	Preposisi	fused
+varia	organisasi:perusahaan	Nomina	numeral
 venus	orang:nama-depan	Nomina	abstract
 virginia	orang:nama-depan	Nomina	loan
+visi	organisasi:perusahaan	Nomina	abstract
+wahana	organisasi:perusahaan	Nomina	locus
 wahid	orang:nama-depan,orang:nama-keluarga	Nomina	numeral
 wahyu	orang:nama-depan	Nomina	abstract
 wajo	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
@@ -1901,28 +2313,38 @@ wakatobi	wilayah:kabupaten-kota	Nomina	proper
 wanda	orang:nama-depan	Nomina	abstract
 wang	orang:nama-keluarga	Nomina	locus
 wangi	wilayah:kecamatan	Adjektiva	abstract
+wangsa	organisasi:perusahaan	Nomina	proper
 wara	wilayah:kecamatan	Nomina	abstract
 waras	wilayah:kecamatan	Adjektiva	abstract
 waringin	wilayah:kecamatan	Nomina	locus
 waris	wilayah:kecamatan	Nomina	action
+warisan	organisasi:perusahaan	Nomina	action
 waropen	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 warsa	wilayah:kecamatan	Nomina	tempo
 waru	wilayah:kecamatan	Nomina	locus
+waruna	organisasi:perusahaan	Nomina	proper
 washington	orang:nama-depan	Nomina	proper
+waskita	organisasi:perusahaan	Adjektiva	abstract
 watang	wilayah:kecamatan	Nomina	locus
 web	wilayah:kecamatan	Nomina	abstract
 weda	wilayah:kecamatan	Nomina	proper
 wenang	wilayah:kecamatan	Nomina	action
+wet	organisasi:perusahaan	Nomina	abstract
 wih	wilayah:kecamatan	Konjungsi	fused
-wijaya	orang:nama-keluarga	Nomina	action
+wijaya	orang:nama-keluarga,organisasi:perusahaan	Nomina	action
+wilayah	organisasi:perusahaan	Nomina	locus
+wira	organisasi:perusahaan	Nomina	action
 wirawan	orang:nama-keluarga	Nomina	action
 wirobrajan	wilayah:kecamatan	Nomina	proper
+wisata	organisasi:perusahaan	Nomina	locus
+wisesa	organisasi:perusahaan	Nomina	proper
 wisnu	orang:nama-depan	Nomina	proper
-wong	orang:nama-keluarga	Nomina	action
+wong	orang:nama-keluarga,organisasi:perusahaan	Nomina	action
 wonogiri	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 wonosobo	wilayah:kabupaten-kota,wilayah:kecamatan	Nomina	proper
 wulan	orang:nama-depan	Nomina	tempo
 wungu	wilayah:kecamatan	Adjektiva	abstract
+wuwungan	organisasi:perusahaan	Nomina	locus
 yahukimo	wilayah:kabupaten-kota	Nomina	proper
 yalimo	wilayah:kabupaten-kota	Nomina	proper
 yang	orang:nama-keluarga	Partikel	fused
@@ -1935,4 +2357,6 @@ yogyakarta	wilayah:kabupaten-kota,wilayah:provinsi	Nomina	proper
 yuda	orang:nama-keluarga	Nomina	action
 yuris	orang:nama-depan	Nomina	action
 zaman	orang:nama-keluarga	Nomina	tempo
+zebra	organisasi:perusahaan	Nomina	locus
+zero	organisasi:perusahaan	Nomina	numeral
 zulfikar	orang:nama-depan	Nomina	action

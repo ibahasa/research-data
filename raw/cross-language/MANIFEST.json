@@ -1,0 +1,12 @@
+{
+  "slug": "cross-language",
+  "title": "Comma distribution, repeated particles and litotes across 100,000 news sentences",
+  "published_at": "2026-08-16T17:18:56Z",
+  "source_commit": "3b79e64e",
+  "fingerprint": "26ea7b19564ec990",
+  "license": "CC BY 4.0",
+  "files": [
+    { "file": "cross-language-out-pattern_frequency.txt", "source": "cross-language/out/pattern_frequency.txt", "bytes": 1967, "sha256": "c0e88b6f8d4510c56d87ec2f37ef4ff473c160749e91b54abc0642bef5810055" },
+    { "file": "cross-language-out-category_diff.tsv", "source": "cross-language/out/category_diff.tsv", "bytes": 8128, "sha256": "78e5571a99f734a7978606a13938d22de4f254fbb14768b64beea871ce5d3a13" }
+  ]
+}
